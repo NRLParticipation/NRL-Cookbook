@@ -1,0 +1,92 @@
+site_name: AI Guide - NRL Volunteers
+site_description: >-
+  The AI Prompt Cookbook is your club or organization's guide to getting started with
+  artificial intelligence tools like ChatGPT, Claude and Gemini. Instead of starting
+  at a blank chat box wondering what to ask, this guide provides you with ready-to-use
+  prompts that solve real nonprofit challenges.
+nav:
+  - Home: index.md
+  - Overview:
+      - Getting Started: overview/getting-started.md
+      - How to Use the Guide: overview/using-the-guide.md
+  - Administrators:
+      - Grant Writing: administrators/grant-writing.md
+      - Grant Application Review: administrators/grant-review.md
+      - Staff Handbook & Policy Manuals: administrators/policy-manuals.md
+      - Social Media Content Calendars: administrators/social-media.md
+      - Sponsor Thank You Communications: administrators/sponsor-thankyou.md
+      - Volunteer Recruitment & Onboarding: administrators/volunteer-communications.md
+      - Training Materials & Onboarding Guides: administrators/training-guides.md
+      - Volunteer & Candidate Screening: administrators/volunteer-screening.md
+      - Presentation Slide Designs: administrators/presentation-design.md
+      - Membership Renewals & Reminders: administrators/membership-renewals.md
+      - Executive Summaries: administrators/executive-summaries.md
+      - Safety Protocols & Emergency Procedures: administrators/safety-protocols.md
+      - Strategic Planning & Scenarios: administrators/strategic-planning.md
+      - Invoice Processing & Vendor Management: administrators/invoice-processing.md
+      - Volunteer Agreements & Contracts: administrators/volunteer-agreements.md
+      - Financial Reconciliation & Reporting: administrators/financial-reconciliation.md
+      - Client Service Communications: administrators/client-communications.md
+      - Expense Report Review: administrators/expense-review.md
+      - Volunteer Timesheet Processing: administrators/volunteer-timesheets.md
+      - Training Curricula & Workshops: administrators/training-curricula.md
+  - Club Committee:
+      - Board Reports & Meeting Materials: club-committee/board-reports.md
+      - Survey Design & Evaluation Forms: club-committee/survey-design.md
+      - Survey Results & Insights: club-committee/survey-insights.md
+      - Annual Reports & Impact Summaries: club-committee/annual-report.md
+      - Personalised Sponsor Appeals: club-committee/sponsor-appeals.md
+      - Speech Writing for Events: club-committee/speech-writing.md
+      - Board Member Assessments: club-committee/board-candidate-assessment.md
+      - Program Summaries for Stakeholders: club-committee/program-summaries.md
+  - Marketing & PR:
+      - Corporate Partnership Pitches: marketing-pr/corporate-partnerships.md
+      - Press Releases & Media Announcements: marketing-pr/press-releases.md
+      - Website Copy & Program Descriptions: marketing-pr/website-copy.md
+      - Newsletter Content & Email Campaigns: marketing-pr/newsletters.md
+      - Social Media Graphics & Quote Cards: marketing-pr/social-graphics.md
+      - Photo Captions & Alt Text: marketing-pr/photo-captions.md
+      - Infographics About Programs: marketing-pr/infographics.md
+      - Video Script Conversion: marketing-pr/video-scripts.md
+  - Events:
+      - Event Flyers & Promotional Images: events/flyers.md
+      - Event Promotional Materials: events/promo-package.md
+      - Event Invitations & Confirmations: events/invitations.md
+      - Event Registrations & Follow-ups: events/registrations.md
+  - Team Managers:
+      - Newsletter to Social Media: team-managers/newsletter-adaptation.md
+      - Volunteer Shift Reminders: team-managers/shift-reminders.md
+docs_dir: docs
+theme:
+  name: material
+  language: en
+  logo: assets/images/National_Rugby_League.svg
+  favicon: assets/images/National_Rugby_League.svg
+  palette:
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tracking
+    - content.code.copy
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+      name: GitHub
+extra_css:
+  - assets/styles/custom.css
