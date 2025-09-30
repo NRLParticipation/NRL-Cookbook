@@ -1,13 +1,29 @@
-# Converting Written Content to Video Scripts
+# Converting written content to video scripts
 
 **Category:** Marketing and PR  
 **Template type:** Content adaptation and reformatting
 
-Turn articles and updates into engaging video narratives. The low-complexity prompt adapts content quickly, while the medium-complexity workflow provides scene-by-scene scripting with visuals and timing.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [TOPIC]
+- [TARGET_AUDIENCE]
+- [Suggested title]
+- [Estimated length in minutes]
+- [SCENE 1 DESCRIPTION]
+- [Text to be spoken]
+- [Description of what should appear on screen]
+- [SCENE 2 DESCRIPTION]
+- [Continue with additional scenes as needed]
+- [Clear next step for viewers - e.g., register, volunteer, attend a match, support the club]
+- [MISSION_STATEMENT]
+
+
+Turn articles and updates into engaging video narratives. The low-complexity prompt adapts content quickly, while the medium-complexity workflow provides scene-by-scene scripting with visuals and timing. *Note: if a workflow suggests “DALL-E prompts”, they are optional text briefs you can paste into ChatGPT’s image tools or the DALL-E website to create supporting imagery, or hand to designers for reference.*
 
 ---
 
-## Low Complexity: Video Script Prompt
+## Low complexity: video script prompt
 
 ```text
 As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]'s written content about [TOPIC] into an engaging video script that captures our mission while being visually compelling. Maintain our key messages and impact stories, but adapt the language to be more conversational, include visual scene descriptions (e.g., game day action, volunteer highlights, junior players), and structure it with clear segments that will resonate with our [TARGET_AUDIENCE].
@@ -15,10 +31,10 @@ As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]
 
 ---
 
-## Medium Complexity: Structured Video Script Workflow
+## Medium complexity: structured video script workflow
 
 ```text
-# NRL Club Video Script Conversion Template (Medium Complexity)
+# NRL club video script conversion template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport video script specialist who excels at transforming written content into engaging, concise video scripts that highlight grassroots rugby league impact. Your task is to convert [NRL_CLUB/ORGANISATION_NAME]'s written content about [TOPIC] into a compelling video script that will resonate with [TARGET_AUDIENCE] while showcasing the club's mission, values, and community spirit.
@@ -50,12 +66,12 @@ CALL TO ACTION: [Clear next step for viewers - e.g., register, volunteer, attend
 
 ---
 
-## High Complexity: Video Story Production Studio
+## High complexity: video story production studio
 
 Use this when transforming large content sets into multi-segment video scripts with storyboard cues and optimisation notes.
 
 ```text
-# NRL video storytelling orchestration template (High Complexity)
+# NRL video storytelling orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Video Content Director for [NRL_CLUB/ORGANISATION_NAME], adapting written materials about [TOPIC] into an engaging video series targeting [TARGET_AUDIENCE]. Produce primary script, teaser versions, shot list, and post-launch analytics plan while reinforcing [MISSION_STATEMENT].
@@ -90,16 +106,16 @@ Goal: capture key messages, visuals, and emotional beats without duplicating eff
 
 <OUTPUT>
 Deliver a markdown video kit with:
-### Full Script
+### Full script
 - Scene-by-scene layout pairing narration, visuals, and on-screen text.
 
-### Shot & Asset Plan
+### Shot and asset plan
 - Table listing scene, visual direction, audio cues, and asset prompts.
 
-### Derivative Content
+### Derivative content
 - Teaser script, social captions, and thumbnail ideas.
 
-### Accessibility & Optimisation Checklist
+### Accessibility and optimisation checklist
 - Items covering captions, audio description, aspect ratios, and analytics tracking.
 </OUTPUT>
 ```

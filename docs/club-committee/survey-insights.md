@@ -1,13 +1,26 @@
-# Survey Results and Insights
+# Survey results and insights
 
 **Category:** Club Committee  
 **Template type:** Data storytelling
+
+**Collect these inputs before you start:**
+
+- [SURVEY_DATA]
+- [PROGRAM_NAME]
+- [TARGET_AUDIENCE]
+- [NRL_CLUB_NAME]
+- [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, community]
+- [SURVEY_TOPIC - e.g., volunteer experience, junior participation, game day operations]
+- [SURVEY_TOPIC]
+- [AUDIENCE_SET - e.g., board, sponsors, community]
+- [MISSION_STATEMENT]
+
 
 Translate survey responses into narratives that drive action. The low-complexity prompt focuses on quick summaries, while the medium-complexity workflow supports deeper storytelling and recommendations.
 
 ---
 
-## Low Complexity: Survey Insights Prompt
+## Low complexity: survey insights prompt
 
 ```text
 Act as a community sport survey data storyteller who transforms survey results into compelling narratives. Analyse my [SURVEY_DATA] from [PROGRAM_NAME] and create a concise summary that highlights 3-5 key insights, explains their significance to our mission, and suggests 2-3 actionable recommendations tailored for [TARGET_AUDIENCE] (e.g., board members, donors, program participants). Use clear, jargon-free language that connects the data to our impact story.
@@ -15,10 +28,10 @@ Act as a community sport survey data storyteller who transforms survey results i
 
 ---
 
-## Medium Complexity: Structured Survey Storytelling Workflow
+## Medium complexity: structured survey storytelling workflow
 
 ```text
-# NRL Club Survey Results Storytelling Template (Medium Complexity)
+# NRL club survey results storytelling template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a data storytelling specialist for [NRL_CLUB_NAME], skilled at transforming survey data into compelling narratives that resonate with [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, community]. Your task is to analyse survey results about [SURVEY_TOPIC - e.g., volunteer experience, junior participation, game day operations] and create a clear, engaging summary that highlights key insights, trends, and implications for our club's mission to grow rugby league and strengthen community spirit.
@@ -44,12 +57,12 @@ Please structure your response as follows:
 
 ---
 
-## High Complexity: Insight Storytelling Studio
+## High complexity: insight storytelling studio
 
 Use this when multiple datasets, conflicting signals, and stakeholder-specific narratives must be woven together.
 
 ```text
-# NRL survey insight orchestration template (High Complexity)
+# NRL survey insight orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Head of Impact for [NRL_CLUB_NAME]. Transform [SURVEY_TOPIC] results into tailored narratives for [AUDIENCE_SET - e.g., board, sponsors, community] while highlighting implications for [PROGRAM_NAME] and aligning with [MISSION_STATEMENT].
@@ -72,7 +85,7 @@ Goal: build a verified fact base without redundant reading.
 1. Create a findings matrix linking question clusters to insights, strength of evidence, and impacted programs.
 2. Draft audience-tailored narratives emphasising relevance, emotion, and required decisions.
 3. Build an action roadmap with quick wins, medium-term initiatives, and long-term experiments.
-4. Prepare a risk & opportunity register derived from survey sentiment.
+4. Prepare a risk and opportunity register derived from survey sentiment.
 5. Suggest storytelling assets (visuals, quotes, case studies) with prompts or descriptions.
 </WORKFLOW>
 
@@ -84,19 +97,19 @@ Goal: build a verified fact base without redundant reading.
 
 <OUTPUT>
 Deliver a markdown insight pack featuring:
-### Executive Snapshot
+### Executive snapshot
 - 2-3 sentence overview of critical takeaways.
 
-### Findings Matrix
+### Findings matrix
 - Table summarising insight, supporting data, confidence, and affected program.
 
-### Audience Narratives
+### Audience narratives
 - Subsections for each audience with tailored storytelling and recommended messages.
 
-### Action Roadmap
+### Action roadmap
 - Ordered list of initiatives grouped by time horizon with owners and success measures.
 
-### Risk & Opportunity Register
+### Risk and opportunity register
 - Bulleted list noting potential risks/opportunities with mitigation or leverage ideas.
 </OUTPUT>
 ```

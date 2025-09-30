@@ -1,24 +1,35 @@
-# Volunteer Agreements and Contracts
+# Volunteer agreements and contracts
 
 **Category:** Administrators  
 **Template type:** Policy and procedure documentation
 
-Draft volunteer agreements that balance legal protection with community warmth. Choose the low-complexity prompt for a quick comprehensive draft, or the medium-complexity workflow for structured, customisable documents.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [STATE/COUNTRY]
+- [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit]
+- [CLUB_MISSION]
+- [VOLUNTEER_ROLE_DESCRIPTION]
+- [JURISDICTIONS]
+- [MISSION_STATEMENT]
+
+
+Draft volunteer agreements that balance legal protection with community warmth. Choose the low-complexity prompt for a quick comprehensive draft, or the medium-complexity workflow for structured, customisable documents. *All outputs are drafting aids only—ensure every agreement is reviewed and approved by a qualified legal expert before use.*
 
 ---
 
-## Low Complexity: Volunteer Agreement Prompt
+## Low complexity: volunteer agreement prompt
 
 ```text
-Act as a community sport legal document specialist and create a comprehensive volunteer agreement for [NRL_CLUB/ORGANISATION_NAME] that includes clear responsibilities, time commitments, confidentiality requirements, child safety expectations, and liability protections. Use [STATE/COUNTRY] legal standards for volunteer relationships and incorporate [NRL_CLUB/ORGANISATION_NAME]'s specific volunteer policies, ensuring the document is both legally sound and aligned with our club's values and mission of [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit].
+Act as a community sport legal document specialist and create a comprehensive volunteer agreement for [NRL_CLUB/ORGANISATION_NAME] that includes clear responsibilities, time commitments, confidentiality requirements, child safety expectations, and liability protections. Use [STATE/COUNTRY] legal standards for volunteer relationships and incorporate [NRL_CLUB/ORGANISATION_NAME]'s specific volunteer policies, ensuring the document is both legally sound and aligned with our club's values and mission of [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit]. Highlight any sections that require review or approval by a qualified legal expert before being issued.
 ```
 
 ---
 
-## Medium Complexity: Structured Agreement Workflow
+## Medium complexity: structured agreement workflow
 
 ```text
-# NRL Volunteer Club Agreement and Contract Template Generator (Medium Complexity)
+# NRL volunteer club agreement and contract template generator (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport legal document specialist with expertise in volunteer management and organisational policy development. Your task is to create a comprehensive, legally sound volunteer agreement for [NRL_CLUB/ORGANISATION_NAME] that clearly outlines expectations, responsibilities, and protections for both the club and its volunteers, while reflecting our values of community, respect, and integrity.
@@ -29,7 +40,7 @@ Create a volunteer agreement that includes:
 1. Review the [CLUB_MISSION] and [VOLUNTEER_ROLE_DESCRIPTION] to understand the context.
 2. Draft a complete volunteer agreement with all standard sections.
 3. Ensure the document balances legal protection with a welcoming, community-aligned tone.
-4. Include customisation notes for sections that may require local or state legal review or alignment with NRL Integrity and Safeguarding policies.
+4. Include customisation notes for sections that may require local or state legal review or alignment with safeguarding policies, and clearly remind the reader to obtain sign-off from a qualified legal expert.
 </STEPS>
 
 <OUTPUT>
@@ -47,21 +58,21 @@ Provide the volunteer agreement as a complete document with:
    - Liability and insurance coverage
    - Termination conditions
    - Signature blocks for volunteer and club representative
-4. **Implementation guidance** for the Volunteer Coordinator (e.g., when to issue, how to store signed copies, renewal process).
+4. **Implementation guidance** for the Volunteer Coordinator (e.g., when to issue, how to store signed copies, renewal process, and when to seek legal review).
 </OUTPUT>
 ```
 
 ---
 
-## High Complexity: Volunteer Contract Lifecycle Manager
+## High complexity: volunteer contract lifecycle manager
 
 Use this when you need GPT-5 to build agreement suites, jurisdictional variations, and onboarding automation.
 
 ```text
-# Volunteer agreement orchestration template (High Complexity)
+# Volunteer agreement orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Legal and Governance Manager for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering customised agreements for multiple volunteer roles (e.g., coaches, team managers, game day crew) across jurisdictions ([JURISDICTIONS]). Contracts must align with [MISSION_STATEMENT], NRL Integrity policies, and local regulations.
+You are the Legal and Governance Manager for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering customised agreements for multiple volunteer roles (e.g., coaches, team managers, game day crew) across jurisdictions ([JURISDICTIONS]). Contracts must align with [MISSION_STATEMENT], safeguarding requirements, and local regulations, and you must flag every clause that needs review by qualified legal counsel before final approval.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
@@ -80,9 +91,9 @@ Goal: integrate legal requirements, policy clauses, and role-specific expectatio
 <WORKFLOW>
 1. Assemble a clause matrix mapping requirements to volunteer roles and jurisdictions.
 2. Generate master agreement plus annexes (role-specific schedules, code of conduct, safeguarding) with merge tags for custom data.
-3. Create compliance checklist (documents to collect, training to complete, sign-off sequence) with automation hooks.
+3. Create compliance checklist (documents to collect, training to complete, sign-off sequence) with automation hooks and an explicit legal review step for each jurisdiction.
 4. Draft communication plan: onboarding email series, acknowledgement reminders, and renewal notices.
-5. Provide audit trail guidance (where to store, retention periods, review cadence).
+5. Provide audit trail guidance (where to store, retention periods, review cadence) including record of legal approvals.
 </WORKFLOW>
 
 <VALIDATION>
@@ -93,19 +104,19 @@ Goal: integrate legal requirements, policy clauses, and role-specific expectatio
 
 <OUTPUT>
 Create a markdown agreement pack containing:
-### Master Agreement
+### Master agreement
 - Contract with placeholders, clause IDs, and guidance notes.
 
 ### Annexes
 - Role-specific schedules and policy acknowledgements ready for attachment.
 
-### Clause Matrix
+### Clause matrix
 - Table linking each clause to requirement, jurisdiction, source, and role coverage.
 
-### Compliance Checklist
-- Ordered steps with responsible owner and due date for document collection and training.
+### Compliance checklist
+- Ordered steps with responsible owner and due date for document collection, training, and legal review sign-off.
 
-### Communication Plan
+### Communication plan
 - Timeline of onboarding messages with key templates and calls to action.
 </OUTPUT>
 ```

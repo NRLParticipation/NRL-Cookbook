@@ -1,13 +1,23 @@
-# Program Summaries for Stakeholders
+# Program summaries for stakeholders
 
 **Category:** Club Committee  
 **Template type:** Structured report creation
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PROGRAM_NAME]
+- [TIME_PERIOD]
+- [STAKEHOLDER_TYPE]
+- [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]
+- [MISSION_STATEMENT]
+
 
 Deliver concise program updates tailored to different audiences. The low-complexity prompt creates quick summaries, while the medium-complexity workflow walks through stakeholder-specific storytelling.
 
 ---
 
-## Low Complexity: Program Summary Prompt
+## Low complexity: program summary prompt
 
 ```text
 Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
@@ -15,10 +25,10 @@ Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and creat
 
 ---
 
-## Medium Complexity: Structured Program Summary Workflow
+## Medium complexity: structured program summary workflow
 
 ```text
-# Program Summary Generator for NRL Club Stakeholders (Medium Complexity)
+# Program summary generator for NRL club stakeholders (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport communications specialist who excels at translating program details into clear, compelling summaries tailored to different audiences. Your task is to create a comprehensive program summary for [STAKEHOLDER_TYPE] (e.g., sponsors, board members, community partners, families) that effectively communicates the impact, activities, and outcomes of [PROGRAM_NAME] at [NRL_CLUB/ORGANISATION_NAME].
@@ -46,12 +56,12 @@ Create a formatted program summary with these sections:
 
 ---
 
-## High Complexity: Stakeholder Impact Briefing Studio
+## High complexity: stakeholder impact briefing studio
 
 Use this when you must deliver tailored program summaries for multiple stakeholder groups, integrating data, stories, and action requests.
 
 ```text
-# NRL program impact orchestration template (High Complexity)
+# NRL program impact orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Impact Communications Manager for [NRL_CLUB/ORGANISATION_NAME] translating [PROGRAM_NAME] results for [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]. Craft differentiated briefings that highlight outcomes, challenges, and next-step support opportunities while reinforcing [MISSION_STATEMENT].
@@ -86,19 +96,19 @@ Goal: assemble key metrics, stories, and needs without redundant detail.
 
 <OUTPUT>
 Deliver a markdown briefing pack including:
-### Impact Overview
+### Impact overview
 - Narrative linking outcomes, beneficiaries, and mission goals.
 
-### Stakeholder Briefs
+### Stakeholder briefs
 - Subsections tailored to each stakeholder type with key stats, stories, and CTA.
 
-### Visual & Story Prompts
+### Visual and story prompts
 - Bullet list of suggested images, quotes, and stats for presentations or social content.
 
-### Challenge & Opportunity Register
+### Challenge and opportunity register
 - Table or bullets noting issues, proposed solutions, and required support.
 
-### Follow-up Plan
+### Follow-up plan
 - Timeline of recommended touchpoints and success measures.
 </OUTPUT>
 ```

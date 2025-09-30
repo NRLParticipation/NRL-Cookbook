@@ -1,13 +1,22 @@
-# Board Member Candidate Assessment
+# Board member candidate assessment
 
 **Category:** Club Committee  
 **Template type:** Application and candidate screening
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [CRITERIA_LIST]
+- [MISSION_STATEMENT]
+- [BOARD_NEEDS]
+- [1-10]
+
 
 Evaluate board applicants consistently to build a well-rounded governance team. The low-complexity prompt handles quick scoring, while the medium-complexity workflow supports detailed, rubric-based assessments.
 
 ---
 
-## Low Complexity: Board Evaluation Prompt
+## Low complexity: board evaluation prompt
 
 ```text
 As an NRL club board evaluation expert, analyse these board member applications for [NRL_CLUB/ORGANISATION_NAME] using our evaluation criteria of [CRITERIA_LIST] and provide a ranked list of candidates with 1-5 scores in each category, short strengths and weaknesses summaries, and overall fit assessments. Consider our mission of [MISSION_STATEMENT] and current board composition needs of [BOARD_NEEDS] when evaluating candidates, highlighting diversity of skills, community connections, and perspectives that would strengthen our governance.
@@ -15,10 +24,10 @@ As an NRL club board evaluation expert, analyse these board member applications 
 
 ---
 
-## Medium Complexity: Structured Board Assessment Workflow
+## Medium complexity: structured board assessment workflow
 
 ```text
-# NRL Club Board Member Candidate Assessment Template (Medium Complexity)
+# NRL club board member candidate assessment template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced NRL club board governance expert who specialises in evaluating board member candidates against organisational needs and criteria. Your task is to objectively assess board member applications for [NRL_CLUB/ORGANISATION_NAME] to identify the strongest candidates who align with our mission, values, and current board composition needs.
@@ -46,12 +55,12 @@ Conclude with a ranked list of all candidates from strongest to weakest match.
 
 ---
 
-## High Complexity: Governance Selection Command Centre
+## High complexity: governance selection command centre
 
 Use this when evaluating a large slate of candidates across multiple criteria, diversity targets, and succession needs.
 
 ```text
-# NRL board candidate orchestration template (High Complexity)
+# NRL board candidate orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Governance Committee Chair for [NRL_CLUB/ORGANISATION_NAME], assessing board nominees against our evaluation criteria [CRITERIA_LIST] while considering mission alignment, [BOARD_NEEDS], and diversity goals. Produce comparative insights, action items, and communication templates for candidates.
@@ -86,19 +95,19 @@ Goal: compile candidate dossiers with evidence-backed ratings.
 
 <OUTPUT>
 Produce a markdown evaluation dossier containing:
-### Scoring Matrix
+### Scoring matrix
 - Table of candidates vs. weighted criteria with total scores.
 
-### Candidate Insights
+### Candidate insights
 - Narrative summaries outlining strengths, concerns, and recommended role fit.
 
-### Succession Map
+### Succession map
 - Diagram or table linking candidates to committee needs and future leadership pathways.
 
-### Communication Templates
+### Communication templates
 - Draft messages for each outcome category with personalised rationale placeholders.
 
-### Next Steps Timeline
+### Next steps timeline
 - Ordered list of follow-up actions with owners and deadlines.
 </OUTPUT>
 ```

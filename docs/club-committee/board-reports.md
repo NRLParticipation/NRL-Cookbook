@@ -1,13 +1,23 @@
-# Board Reports and Meeting Materials
+# Board reports and meeting materials
 
 **Category:** Club Committee  
 **Template type:** Policy and procedure documents
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB_NAME]
+- [DATE]
+- [SPECIFIC_TOPICS]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PROGRAM_NAME]
+- [MISSION_STATEMENT]
+
 
 Compile professional board packs that combine metrics, narratives, and action items. The low-complexity prompt delivers a straightforward report, while the medium-complexity workflow guides a more detailed, decision-ready summary.
 
 ---
 
-## Low Complexity: Board Report Prompt
+## Low complexity: board report prompt
 
 ```text
 Act as a community sport board report specialist and create a comprehensive board report for [NRL_CLUB_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, financial summary, volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
@@ -15,10 +25,10 @@ Act as a community sport board report specialist and create a comprehensive boar
 
 ---
 
-## Medium Complexity: Structured Board Report Workflow
+## Medium complexity: structured board report workflow
 
 ```text
-# NRL Club Board Report Template (Medium Complexity)
+# NRL club board report template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced sports communications specialist who excels at synthesising club activities and operations into clear, concise board reports that highlight key metrics, achievements, challenges, and strategic considerations. Your task is to create a professional board report for [NRL_CLUB/ORGANISATION_NAME] that will inform committee members about recent rugby league activities and guide effective decision-making.
@@ -47,15 +57,15 @@ The board report should follow this structure:
 
 ---
 
-## High Complexity: Board Intelligence Command Centre
+## High complexity: board intelligence command centre
 
 Use this workflow when you must fuse multiple data sources, scenario flags, and decision requests into one briefing.
 
 ```text
-# NRL board operations orchestrator (High Complexity)
+# NRL board operations orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Chief of Staff for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering a board-ready intelligence pack for the upcoming meeting on [DATE]. Synthesize program data, finance metrics, risk updates, and strategic decisions while keeping the narrative aligned with our mission of [MISSION_STATEMENT].
+You are the Chief of Staff for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering a board-ready intelligence pack for the upcoming meeting on [DATE]. Synthesise program data, finance metrics, risk updates, and strategic decisions while keeping the narrative aligned with our mission of [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
@@ -87,13 +97,13 @@ Goal: assemble a concise fact base covering programs, finance, operations, risk,
 
 <OUTPUT>
 Deliver a markdown briefing comprising:
-### Executive Summary
+### Executive summary
 - Bullet list of the top 3-5 insights and decisions.
 
-### Section Briefs
+### Section briefs
 - Subsections for program, finance, operations, risk, and strategy with concise paragraphs and data callouts.
 
-### Decision Log
+### Decision log
 - Table of decisions required including recommendation, options, owner, and deadline.
 
 ### Appendices

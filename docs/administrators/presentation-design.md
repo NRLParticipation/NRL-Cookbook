@@ -1,13 +1,35 @@
-# Presentation Slide Designs
+# Presentation slide designs
 
 **Category:** Administrators  
 **Template type:** Visual content creation
 
-Design presentations that hold attention while staying true to NRL branding. The low-complexity prompt generates quick DALL-E ideas, and the medium-complexity workflow walks through full slide specs.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [TOPIC]
+- [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact]
+- [PRESENTATION_PURPOSE - e.g., sponsor pitch, AGM update, community event]
+- [TARGET_AUDIENCE - e.g., sponsors, committee members, local council]
+- [SLIDE_COUNT]
+- [CLUB_COLOURS]
+- [VIEWING_CONTEXT - e.g., projector, online, large room]
+- [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, building community spirit]
+- [Title/Content/Data/Call-to-Action]
+- [Specific prompt to generate appropriate rugby league/community visual]
+- [Primary/secondary/accent colour recommendations]
+- [Text placement, image positioning, white space guidance]
+- [Font suggestions, size recommendations, emphasis techniques]
+- [Brief guidance on implementation or alternatives]
+- [AUDIENCE_SET - e.g., sponsors, council, volunteers]
+- [PRESENTATION_PURPOSE]
+- [MISSION_STATEMENT]
+
+
+Design presentations that hold attention while staying true to NRL branding. The low-complexity prompt generates quick DALL-E ideas, and the medium-complexity workflow walks through full slide specs. *Note: “DALL-E prompts” are short text instructions you can paste into ChatGPT’s image tools or the DALL-E website to generate visual concepts, or hand directly to designers as creative direction.*
 
 ---
 
-## Low Complexity: Slide Inspiration Prompt
+## Low complexity: slide inspiration prompt
 
 ```text
 Act as a community sport presentation designer and create visually appealing slide designs for [NRL_CLUB/ORGANISATION_NAME]'s presentation on [TOPIC] that align with our mission and NRL brand guidelines. Search the web for current design trends in community sport presentations and generate 5-7 DALL-E prompts I can use to create custom slide backgrounds, infographics, or visual elements that will enhance our message about [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact] while maintaining a professional, club-focused aesthetic.
@@ -15,10 +37,10 @@ Act as a community sport presentation designer and create visually appealing sli
 
 ---
 
-## Medium Complexity: Structured Slide Design Workflow
+## Medium complexity: structured slide design workflow
 
 ```text
-# NRL Club presentation slide design template (Medium Complexity)
+# NRL club presentation slide design template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced community sport presentation designer who creates visually compelling slides that effectively communicate rugby league club messages while maintaining NRL brand consistency. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create professional slide designs for their [PRESENTATION_PURPOSE - e.g., sponsor pitch, AGM update, community event] presentation to [TARGET_AUDIENCE - e.g., sponsors, committee members, local council].
@@ -47,12 +69,12 @@ For each slide type, provide:
 
 ---
 
-## High Complexity: Multi-Audience Presentation Studio
+## High complexity: multi-audience presentation studio
 
 Select this workflow when you must generate slide specifications for different stakeholder decks, along with asset prompts and speaker guidance.
 
 ```text
-# NRL presentation orchestration template (High Complexity)
+# NRL presentation orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Presentation Director for [NRL_CLUB/ORGANISATION_NAME], tasked with delivering tailored decks for [AUDIENCE_SET - e.g., sponsors, council, volunteers] about [PRESENTATION_PURPOSE]. Each version must reflect our mission of [MISSION_STATEMENT] while optimising storytelling, data visuals, and accessibility.
@@ -76,7 +98,7 @@ Goal: understand message pillars and audience priorities without overloading wit
 2. Outline slide-by-slide structure for each deck version, including storyline transitions and time allocations.
 3. Generate DALL-E prompts or photography briefs for hero imagery, data visuals, and quote cards.
 4. Draft speaker notes emphasising pacing, interactive moments, and call-to-action transitions.
-5. Create a rehearsal checklist (tech setup, accessibility checks, Q&A prep, follow-up assets).
+5. Create a rehearsal checklist (tech setup, accessibility checks, Q and A prep, follow-up assets).
 </WORKFLOW>
 
 <VALIDATION>
@@ -87,17 +109,17 @@ Goal: understand message pillars and audience priorities without overloading wit
 
 <OUTPUT>
 Deliver a markdown presentation kit comprising:
-### Messaging Matrix
+### Messaging matrix
 - Table mapping each audience to key messages, emotions, and proof points.
 
-### Deck Blueprints
+### Deck blueprints
 - Slide-by-slide outlines with titles, objectives, key content, and visual direction.
 
-### Asset Prompt Library
+### Asset prompt library
 - Bullet list of DALL-E or design prompts with style and brand notes.
 
-### Speaker Package
-- Narrative covering speaker notes, rehearsal checklist, Q&A prep, and follow-up actions.
+### Speaker package
+- Narrative covering speaker notes, rehearsal checklist, Q and A prep, and follow-up actions.
 </OUTPUT>
 ```
 

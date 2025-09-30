@@ -1,24 +1,33 @@
-# Strategic Planning and Scenario Planning
+# Strategic planning and scenario planning
 
 **Category:** Administrators  
 **Template type:** Strategic planning and forecasting
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [COMMUNITY_SPORT_FOCUS - e.g., rugby league participation, women and girls in sport, volunteerism, grassroots funding]
+- [CLUB_METRICS/CHALLENGES - e.g., registrations and retention, volunteer hours/roles, sponsorship revenue, facilities capacity, compliance/safeguarding, game-day attendance]
+- [MISSION_STATEMENT]
+- [PLANNING_TIMEFRAME]
+
 
 Develop long-range plans grounded in community rugby league realities. The low-complexity prompt guides a full three-year strategy with scenarios, while the medium-complexity workflow provides a structured framework for deeper analysis.
 
 ---
 
-## Low Complexity: Three-Year Plan with Scenarios
+## Low complexity: three-year plan with scenarios
 
 ```text
-Act as a community sport strategic planning consultant for [NRL_CLUB/ORGANISATION_NAME] and help develop a three-year strategic plan with scenario planning. Search the web for current trends in [COMMUNITY_SPORT_FOCUS - e.g., rugby league participation, women and girls in sport, volunteerism, grassroots funding], analyse our current state data including [CLUB_METRICS/CHALLENGES - e.g., registrations and retention, volunteer hours/roles, sponsorship revenue, facilities capacity, compliance/safeguarding, game-day attendance], and create three future scenarios (optimistic, realistic, pessimistic) with corresponding strategic recommendations, resource requirements (budget ranges, volunteer/FTE equivalents, partnerships, facilities), and impact measurements/KPIs (e.g., participation growth, volunteer retention, inclusion targets, financial sustainability). Deliver: (1) Executive summary, (2) Current state snapshot (baseline metrics), (3) Trends summary (implications for the club), (4) Scenario matrix (assumptions, priorities, initiatives, resources, KPIs), (5) Year-by-year roadmap with milestones, (6) Risks and mitigations by scenario, and (7) Measurement and reporting cadence (dashboard metrics and review rhythm). Align advice with NRL Integrity and Safeguarding expectations and community sport best practice, using clear, actionable language suitable for committee decision-making.
+Act as a community sport strategic planning consultant for [NRL_CLUB/ORGANISATION_NAME] and help develop a three-year strategic plan with scenario planning. Search the web for current trends in [COMMUNITY_SPORT_FOCUS - e.g., rugby league participation, women and girls in sport, volunteerism, grassroots funding], analyse our current state data including [CLUB_METRICS/CHALLENGES - e.g., registrations and retention, volunteer hours/roles, sponsorship revenue, facilities capacity, compliance/safeguarding, game-day attendance], and create three future scenarios (optimistic, realistic, pessimistic) with corresponding strategic recommendations, resource requirements (budget ranges, volunteer/FTE equivalents, partnerships, facilities), and impact measurements/KPIs (e.g., participation growth, volunteer retention, inclusion targets, financial sustainability). Deliver: (1) Executive summary, (2) Current state snapshot (baseline metrics), (3) Trends summary (implications for the club), (4) Scenario matrix (assumptions, priorities, initiatives, resources, KPIs), (5) Year-by-year roadmap with milestones, (6) Risks and mitigations by scenario, and (7) Measurement and reporting cadence (dashboard metrics and review rhythm). Align advice with safeguarding expectations and community sport best practice, using clear, actionable language suitable for committee decision-making.
 ```
 
 ---
 
-## Medium Complexity: Structured Strategic Planning Workflow
+## Medium complexity: structured strategic planning workflow
 
 ```text
-# NRL Strategic Planning and Scenario Development Template (Medium Complexity)
+# NRL strategic planning and scenario development template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport strategic planning consultant with expertise in scenario planning and long-term club development. Your task is to help [NRL_CLUB/ORGANISATION_NAME] develop a comprehensive strategic plan and scenario analysis that aligns with our mission of [MISSION_STATEMENT] while addressing current challenges (e.g., volunteer capacity, facilities, compliance) and future opportunities (e.g., participation growth, women and girls pathways, sponsorship).
@@ -47,12 +56,12 @@ Provide a strategic planning document with:
 
 ---
 
-## High Complexity: Scenario Planning Command Suite
+## High complexity: scenario planning command suite
 
 Use this when you need GPT-5 to orchestrate multi-scenario modelling, stakeholder heatmaps, and implementation governance.
 
 ```text
-# NRL strategic foresight automation (High Complexity)
+# NRL strategic foresight automation (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Strategic Planning Director for [NRL_CLUB/ORGANISATION_NAME]. Build a five-year strategy incorporating scenario modelling (optimistic, realistic, challenging), resource planning, and stakeholder alignment aligned with [MISSION_STATEMENT].
@@ -87,19 +96,19 @@ Goal: assemble evidence for participation, finance, volunteerism, facilities, an
 
 <OUTPUT>
 Deliver a markdown strategy dossier containing:
-### Strategic Insights
+### Strategic insights
 - Key findings per pillar with confidence scores.
 
-### Scenario Playbook
+### Scenario playbook
 - Descriptions of each scenario including triggers, indicators, and implications.
 
-### Initiative Portfolio
+### Initiative portfolio
 - Table of initiatives with priority, cost band, owner, and timeline.
 
-### KPI Framework
+### KPI framework
 - Metrics with calculation method, targets, frequency, and data owner.
 
-### Stakeholder Plan
+### Stakeholder plan
 - Map of stakeholder segments alongside engagement tactics and narrative focus.
 </OUTPUT>
 ```

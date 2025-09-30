@@ -1,13 +1,28 @@
-# Social Media Posts and Content Calendars
+# Social media posts and content calendars
 
 **Category:** Administrators  
 **Template type:** Creating content from scratch
 
-Plan club-wide social media with prompts tuned for grassroots rugby league. Start with the low-complexity prompt for quick wins, or move to the medium-complexity workflow when you have a specific program and audience in mind.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB_NAME]
+- [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit]
+- [TONE - e.g., friendly, family-focused, inspiring]
+- [PROGRAM_NAME - e.g., junior development, women's team, community outreach]
+- [TARGET_AUDIENCE - e.g., local families, players, sponsors]
+- [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, game attendance, sponsor visibility]
+- [CLUB_HASHTAG]
+- [PRIMARY_GOAL]
+- [MONTH]
+- [Same format]
+- [Continue same format for Weeks 2-4]
+
+
+Plan club-wide social media with prompts tuned for grassroots rugby league. Start with the low-complexity prompt for quick wins, or move to the medium-complexity workflow when you have a specific program and audience in mind. Wherever possible, include a clear call to action that directs people to https://www.playrugbyleague.com for centralised registrations and resources. *Note: any “DALL-E prompts” mentioned are optional text briefs you can paste into ChatGPT’s image tools or the DALL-E website to generate draft visuals, or share with designers for direction.*
 
 ---
 
-## Low Complexity: Monthly Content Sprint
+## Low complexity: monthly content sprint
 
 ```text
 Act as a community sport social media specialist and create a month's worth of engaging social media content for [NRL_CLUB_NAME], a grassroots rugby league organisation. Focus on our mission to [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit].
@@ -15,7 +30,7 @@ Act as a community sport social media specialist and create a month's worth of e
 Use the NRL content portal (https://skoop.com.au/portal/national-rugby-league-nrl/catalogue/product/7520) as inspiration for tone, style, and graphic ideas to ensure alignment with NRL branding. Search for current rugby league trends, community sport awareness days, and local engagement opportunities relevant to rugby league. Then generate a content calendar with 12-15 posts that include:
 - Game day updates and match highlights
 - Player, coach, and volunteer appreciation posts
-- Calls-to-action for registrations, events, and fundraising
+- Calls-to-action for registrations (linking to https://www.playrugbyleague.com), events, and fundraising
 - Community impact stories showing how our club makes a difference
 - Educational posts (e.g., child safety, wellbeing, respect in sport)
 
@@ -27,10 +42,10 @@ Make the posts platform-specific (Facebook, Instagram, Twitter/X, LinkedIn) with
 
 ---
 
-## Medium Complexity: Structured Calendar Workflow
+## Medium complexity: structured calendar workflow
 
 ```text
-# NRL club social media content calendar template (Medium Complexity)
+# NRL club social media content calendar template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced sports and community social media manager who creates engaging, mission-aligned content that resonates with players, volunteers, supporters, and sponsors. Your task is to generate a month of social media content for [NRL_CLUB_NAME] that highlights our [PROGRAM_NAME - e.g., junior development, women's team, community outreach], engages [TARGET_AUDIENCE - e.g., local families, players, sponsors], and drives [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, game attendance, sponsor visibility]. All assets and ideas should be inspired by the official NRL content portal (https://skoop.com.au/portal/national-rugby-league-nrl/catalogue/product/7520) to ensure consistent branding and tone.
@@ -51,11 +66,11 @@ You are an experienced sports and community social media manager who creates eng
    - **Calls to action** (e.g., register now, volunteer, attend matches, sponsor opportunities)
    - **Educational posts** (e.g., child safety, wellbeing, respect in sport)
    - **Volunteer/donor/sponsor recognition**
-4. Include at least 2 posts that directly support the [PRIMARY_GOAL].
+4. Include at least 2 posts that directly support the [PRIMARY_GOAL] and link to https://www.playrugbyleague.com when driving registrations.
 </STEPS>
 
 <OUTPUT>
-## [NRL_CLUB_NAME] Social media content calendar: [MONTH]
+## [NRL_CLUB_NAME] social media content calendar: [MONTH]
 ### Week 1
 **Post 1:**
     - Platform:
@@ -82,12 +97,12 @@ You are an experienced sports and community social media manager who creates eng
 
 ---
 
-## High Complexity: Cross-Channel Social Command Centre
+## High complexity: cross-channel social command centre
 
 Use this to coordinate multi-week campaigns with automated experimentation, asset prompts, and performance checkpoints.
 
 ```text
-# NRL social content operations workspace (High Complexity)
+# NRL social content operations workspace (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Head of Digital for [NRL_CLUB_NAME], orchestrating a six-week campaign to drive [PRIMARY_GOAL]. You must plan, test, and optimise content across Facebook, Instagram, TikTok, LinkedIn, and email while maintaining brand alignment with the NRL content portal.
@@ -125,16 +140,16 @@ Objective: build an insight deck covering audience segments, historic performanc
 
 <OUTPUT>
 Publish a markdown operations pack featuring:
-### Insight Summary
+### Insight summary
 - Bullet list capturing audience findings and campaign hypotheses.
 
-### Campaign Calendar
+### Campaign calendar
 - Table or nested list organised by week and platform showing copy concepts, asset prompts, CTAs, and KPIs.
 
-### Automation Checklist
+### Automation checklist
 - Ordered checklist for scheduling, tagging, reporting, and analytics automation.
 
-### Contingency Prompt Library
+### Contingency prompt library
 - Bulleted collection of rapid-response prompt snippets for common scenarios.
 </OUTPUT>
 ```

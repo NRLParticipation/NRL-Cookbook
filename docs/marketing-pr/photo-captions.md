@@ -1,13 +1,27 @@
-# Photo Captions and Alt Text
+# Photo captions and alt text
 
 **Category:** Marketing and PR  
 **Template type:** Visual content creation
+
+**Collect these inputs before you start:**
+
+- [NUMBER]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PROGRAM_NAME]
+- [MISSION_STATEMENT]
+- [CLUB_TONE]
+- [CORE_MESSAGE]
+- [Caption text with hashtags if requested]
+- [Descriptive alt text]
+- [Brief contextual caption]
+- [PROGRAM_NAME/CAMPAIGN]
+
 
 Ensure every image is both engaging and accessible. The low-complexity prompt delivers caption and alt text pairs, while the medium-complexity workflow adds website-friendly variants and tone guidance.
 
 ---
 
-## Low Complexity: Caption and Alt Text Prompt
+## Low complexity: caption and alt text prompt
 
 ```text
 You are a community sport accessibility expert. Create descriptive alt text and engaging captions for [NUMBER] images from [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that accurately convey both the visual content and the emotion of grassroots rugby league while incorporating our mission of [MISSION_STATEMENT]. For each image, provide:
@@ -17,10 +31,10 @@ You are a community sport accessibility expert. Create descriptive alt text and 
 
 ---
 
-## Medium Complexity: Structured Caption Workflow
+## Medium complexity: structured caption workflow
 
 ```text
-# NRL Club Photo Caption and Alt Text Generator (Medium Complexity)
+# NRL club photo caption and alt text generator (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an accessibility-focused content specialist for [NRL_CLUB/ORGANISATION_NAME] who creates engaging photo captions and descriptive alt text that capture both the visual content and emotional impact of grassroots rugby league while maintaining the club's voice and mission focus.
@@ -48,12 +62,12 @@ Website Caption:
 
 ---
 
-## High Complexity: Visual Accessibility Command Centre
+## High complexity: visual accessibility command centre
 
 Use this when managing large image sets, multiple platforms, and accessibility compliance requirements.
 
 ```text
-# NRL photo narrative orchestration template (High Complexity)
+# NRL photo narrative orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Digital Accessibility Lead for [NRL_CLUB/ORGANISATION_NAME], preparing captions and alt text for [NUMBER] images from [PROGRAM_NAME/CAMPAIGN]. Ensure consistency with [CLUB_TONE], highlight [CORE_MESSAGE], and provide platform-specific variations.
@@ -88,16 +102,16 @@ Goal: capture essential visual details, emotions, and context notes for each ima
 
 <OUTPUT>
 Deliver a markdown caption log including:
-### Image Reference Table
+### Image reference table
 - Summary of key elements and notes for each image.
 
-### Caption & Alt Text Library
+### Caption and alt text library
 - Subsections per image containing social caption, alt text, website caption, and archive note.
 
-### Hashtag & CTA Suggestions
+### Hashtag and CTA suggestions
 - Bulleted list tailored to the campaign.
 
-### QA Checklist
+### QA checklist
 - Items to confirm before publishing (credits, accessibility, approvals).
 </OUTPUT>
 ```

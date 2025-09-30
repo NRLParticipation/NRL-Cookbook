@@ -1,27 +1,44 @@
-# Training Curricula and Workshop Activities
+# Training materials and workshop activities
 
 **Category:** Administrators  
 **Template type:** Interactive content creation
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [TOPIC]
+- [LEARNING_OBJECTIVES]
+- [GROUP_SIZE]
+- [TARGET_AUDIENCE]
+- [PROGRAM_NAME]
+- [LEARNING_TOPIC]
+- [SKILL_LEVEL]
+- [TIME_CONSTRAINT]
+- [AVAILABLE_RESOURCES]
+- [ENGAGEMENT_STYLE]
+- [TIME_FRAME]
+- [MISSION_STATEMENT]
+
 
 Design engaging workshops that build skills and enthusiasm. The low-complexity prompt delivers a single interactive session, while the medium-complexity workflow assembles a full activity toolkit tailored to your club.
 
 ---
 
-## Low Complexity: Workshop Activity Prompt
+## Low complexity: workshop activity prompt
 
 ```text
-Act as a community sport curriculum designer and create an engaging, interactive workshop or training activity for [NRL_CLUB/ORGANISATION_NAME] focused on [TOPIC] that achieves the learning objectives of [LEARNING_OBJECTIVES]. Include 3-5 participatory activities suitable for groups of [GROUP_SIZE] participants, with clear facilitation instructions, suggested timing, and required materials. Make the content accessible for [TARGET_AUDIENCE] (e.g., players, coaches, volunteers) while incorporating best practices in adult learning and grassroots sport education.
+Act as a community sport training designer and create an engaging, interactive workshop or training activity for [NRL_CLUB/ORGANISATION_NAME] focused on [TOPIC] that achieves the learning objectives of [LEARNING_OBJECTIVES]. Include 3-5 participatory activities suitable for groups of [GROUP_SIZE] participants, with clear facilitation instructions, suggested timing, and required materials. Make the content accessible for [TARGET_AUDIENCE] (e.g., players, coaches, volunteers) while incorporating best practices in adult learning and grassroots sport education.
 ```
 
 ---
 
-## Medium Complexity: Structured Workshop Workflow
+## Medium complexity: structured workshop workflow
 
 ```text
-# NRL Club Workshop Activity Generator (Medium Complexity)
+# NRL club workshop activity generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an expert workshop facilitator and curriculum designer for community sport and rugby league clubs. Your task is to create engaging, participatory learning activities for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that will effectively teach [TARGET_AUDIENCE] about [LEARNING_TOPIC] while keeping them actively engaged and connected to the values of rugby league.
+You are an expert workshop facilitator and material designer for community sport and rugby league clubs. Your task is to create engaging, participatory learning activities for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that will effectively teach [TARGET_AUDIENCE] about [LEARNING_TOPIC] while keeping them actively engaged and connected to the values of rugby league.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -50,15 +67,15 @@ For each activity, provide:
 
 ---
 
-## High Complexity: Multi-Cohort Training Lab
+## High complexity: multi-cohort training lab
 
-Use this workflow when you must design an end-to-end curriculum across multiple cohorts, delivery modes, and evaluation checkpoints.
+Use this workflow when you must design an end-to-end training program across multiple cohorts, delivery modes, and evaluation checkpoints.
 
 ```text
-# NRL curriculum orchestration template (High Complexity)
+# NRL training material orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Learning & Development Director for [NRL_CLUB/ORGANISATION_NAME], tasked with building a comprehensive program on [LEARNING_TOPIC] for [TARGET_AUDIENCE] spanning [TIME_FRAME]. The curriculum must blend in-person workshops, digital modules, and on-field practice while reinforcing [MISSION_STATEMENT].
+You are the Learning and Development Director for [NRL_CLUB/ORGANISATION_NAME], tasked with building a comprehensive program on [LEARNING_TOPIC] for [TARGET_AUDIENCE] spanning [TIME_FRAME]. The material must blend in-person workshops, digital modules, and on-field practice while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
@@ -76,7 +93,7 @@ Goal: capture competency gaps, resource constraints, and prior feedback without 
 
 <WORKFLOW>
 1. Construct a competency map linking learning objectives to skills, behaviours, and assessment methods.
-2. Outline the curriculum: modules, delivery format, timing, required facilitators, and materials.
+2. Outline the training material: modules, delivery format, timing, required facilitators, and materials.
 3. Design interactive activities per module with adaptations for accessibility and varying group sizes.
 4. Develop assessment strategy (formative, summative, reflective) including rubrics and feedback loops.
 5. Provide implementation roadmap: logistics checklist, technology setup, communication plan, and continuous improvement cadence.
@@ -90,7 +107,7 @@ Goal: capture competency gaps, resource constraints, and prior feedback without 
 
 <OUTPUT>
 Return a multi-part deliverable:
-- "curriculum_map": table of modules, objectives, delivery mode, duration, prerequisites.
+- "training_material_map": table of modules, objectives, delivery mode, duration, prerequisites.
 - "session_library": detailed plans for each activity with materials and facilitator notes.
 - "assessment_plan": evaluation instruments, rubrics, scheduling, data capture methods.
 - "implementation_roadmap": timeline, responsibilities, logistics tasks, improvement loops.

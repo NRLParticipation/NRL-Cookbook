@@ -1,13 +1,27 @@
-# Social Media Graphics and Quote Cards
+# Social media graphics and quote cards
 
 **Category:** Marketing and PR  
 **Template type:** Visual content creation
 
-Design scroll-stopping visuals that reinforce club values. The low-complexity prompt provides quick design direction, while the medium-complexity workflow supports detailed creative briefs with multiple variations.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact]
+- [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]
+- [WORD_COUNT]
+- [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]
+- [PROGRAM_NAME/CAMPAIGN - e.g., season launch, junior registrations, women's rugby league, community outreach]
+- [BRAND_COLOURS]
+- [PROGRAM_NAME/CAMPAIGN]
+- [LOGO_DESCRIPTION]
+- [KEY_MESSAGE]
+
+
+Design scroll-stopping visuals that reinforce club values. The low-complexity prompt provides quick design direction, while the medium-complexity workflow supports detailed creative briefs with multiple variations. *Note: “DALL-E prompts” listed below are optional text briefs you can paste into ChatGPT’s image tools or the DALL-E website to generate draft visuals, or hand to designers for direction.*
 
 ---
 
-## Low Complexity: Graphic Concept Prompt
+## Low complexity: graphic concept prompt
 
 ```text
 Act as a community sport social media designer and create a compelling social media graphic or quote card for [NRL_CLUB/ORGANISATION_NAME] that highlights [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact] for our [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]. Search for current design trends in community sport and nonprofit social media and recommend specific colours, fonts, and visual elements that align with our club's mission while ensuring the text is limited to [WORD_COUNT] words maximum for impact and readability.
@@ -15,10 +29,10 @@ Act as a community sport social media designer and create a compelling social me
 
 ---
 
-## Medium Complexity: Structured Graphic Workflow
+## Medium complexity: structured graphic workflow
 
 ```text
-# NRL Club Social Media Graphics and Quote Cards Template (Medium Complexity)
+# NRL club social media graphics and quote cards template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport visual content specialist who creates engaging, club-aligned social media graphics and quote cards that inspire action while maintaining brand consistency. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create compelling visual content that resonates with [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] and drives engagement around [PROGRAM_NAME/CAMPAIGN - e.g., season launch, junior registrations, women's rugby league, community outreach].
@@ -42,12 +56,12 @@ You are a community sport visual content specialist who creates engaging, club-a
 
 ---
 
-## High Complexity: Visual Campaign Studio
+## High complexity: visual campaign studio
 
 Apply this workflow when you need a full suite of graphics across platforms, experiment plans, and accessibility checks.
 
 ```text
-# NRL social visuals orchestration template (High Complexity)
+# NRL social visuals orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Creative Lead for [NRL_CLUB/ORGANISATION_NAME], developing visual assets for [PROGRAM_NAME/CAMPAIGN]. Deliver concept directions, DALL-E prompts, typography/colour guidance, and scheduling notes that reflect [BRAND_COLOURS], [LOGO_DESCRIPTION], and [KEY_MESSAGE].
@@ -82,19 +96,19 @@ Goal: capture campaign goals, audience insights, brand constraints, and past per
 
 <OUTPUT>
 Deliver a markdown creative kit including:
-### Visual Strategy
+### Visual strategy
 - Overview of mood, story pillars, and audience considerations.
 
-### Concept Routes
+### Concept routes
 - Sections describing each route with palette, typography, imagery direction, and sample copy.
 
-### Prompt & Asset Library
+### Prompt and asset library
 - Bullet list of DALL-E/photography prompts, text overlays, and caption hooks.
 
-### Production Plan
+### Production plan
 - Table of required assets by platform with dimensions, deadlines, and owners.
 
-### Accessibility Checklist
+### Accessibility checklist
 - Items to review (contrast, alt text cues, readability) before publishing.
 </OUTPUT>
 ```

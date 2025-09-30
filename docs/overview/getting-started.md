@@ -1,6 +1,6 @@
-# Getting Started
+# Getting started
 
-The AI Prompt Cookbook is your club or organization's guide to getting started with artificial intelligence tools like ChatGPT, Claude and Gemini. Rather than staring at an empty chat box, you will find ready-to-use prompts that solve real volunteer challenges and keep your work aligned with National Rugby League priorities.
+The AI Prompt Cookbook is your club or organisation's guide to getting started with artificial intelligence tools like ChatGPT, Claude and Gemini. Rather than staring at an empty chat box, you will find ready-to-use prompts that solve real volunteer challenges and keep your work aligned with National Rugby League priorities.
 
 ## How the guide is organised
 

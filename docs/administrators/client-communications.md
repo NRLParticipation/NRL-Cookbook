@@ -1,31 +1,44 @@
-# Client Service Communication Follow-Up
+# Client service communication follow-up
 
 **Category:** Administrators  
 **Template type:** Template filling and personalisation
+
+**Collect these inputs before you start:**
+
+- [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note]
+- [RECIPIENT_FIRST_NAME]
+- [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement]
+- [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]
+- [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [CLUB_VALUES - e.g., teamwork, respect, inclusivity, community spirit]
+- [AUDIENCE_SET - e.g., new members, volunteers, sponsors]
+- [CLUB_TONE]
+
 
 Personalise member, volunteer, and sponsor follow-ups with ease. Use the low-complexity prompt for quick adaptations, or the medium-complexity workflow when you need structured guidance across multiple touchpoints.
 
 ---
 
-## Low Complexity: Personalised Follow-Up Prompt
+## Low complexity: personalised follow-up prompt
 
 ```text
-Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [MEMBER_NAME] based on their [MEMBER_DETAILS - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [SERVICE_PROVIDED - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [NRL_CLUB/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information is accurate and tailored to their situation.
+Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [NRL_CLUB/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details or sensitive data are included.
 ```
 
 ---
 
-## Medium Complexity: Structured Communication Workflow
+## Medium complexity: structured communication workflow
 
 ```text
-# Member and Volunteer Communications Template (Medium Complexity)
+# Member and volunteer communications template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport communications specialist for [NRL_CLUB/ORGANISATION_NAME], responsible for creating personalised follow-up communications that strengthen our relationship with members, volunteers, players, and sponsors while efficiently delivering important information.
 </ROLE_AND_GOAL>
 
 <STEPS>
-1. Use the member or volunteer data I provide to personalise our standard communication template.
+1. Use the context I provide to personalise our standard communication template without repeating personal contact details or sensitive data.
 2. Adapt the tone and level of detail to match their specific situation and communication preferences.
 3. Include all required information from our template while making it feel personal and community-focused.
 4. Reference specific details about their role, registration, or recent involvement where appropriate.
@@ -35,7 +48,7 @@ You are a community sport communications specialist for [NRL_CLUB/ORGANISATION_N
 <OUTPUT>
 Provide a personalised communication that includes:
 1. **Warm, personalised greeting** using the recipient's preferred name.
-2. **Specific references** to their situation, role, or last interaction with the club.
+2. **Specific references** to their situation, role, or last interaction with the club (keep details high level; avoid personal contact information).
 3. **Clear next steps or action items** (if applicable).
 4. **Relevant resource information** tailored to their needs (e.g., training times, event details, sponsor benefits).
 5. **Standard closing** with appropriate club contact information.
@@ -44,12 +57,12 @@ Provide a personalised communication that includes:
 
 ---
 
-## High Complexity: Relationship Communications Control Tower
+## High complexity: relationship communications control tower
 
 Use this when you must coordinate multi-touch, multi-channel follow-ups across members, volunteers, and partners while integrating data-driven insights.
 
 ```text
-# Member and volunteer communications orchestrator (High Complexity)
+# Member and volunteer communications orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Community Engagement Manager for [NRL_CLUB/ORGANISATION_NAME]. Build a communications plan covering follow-ups for [AUDIENCE_SET - e.g., new members, volunteers, sponsors] about [SERVICE_PROVIDED]. Ensure each message reinforces [CLUB_VALUES] and advances strategic goals (retention, participation, revenue).
@@ -84,19 +97,19 @@ Goal: understand recipient history, preferences, and outstanding needs.
 
 <OUTPUT>
 Deliver a markdown communications guide featuring:
-### Persona Library
+### Persona library
 - Profiles with tone guidance, motivations, and concerns.
 
-### Journey Sequences
+### Journey sequences
 - Channel-by-channel timelines outlining timing and goals for each persona.
 
-### Message Templates
+### Message templates
 - Full drafts tagged by persona, channel, and lifecycle stage.
 
-### Analytics Plan
+### Analytics plan
 - KPIs, measurement methods, and review cadence.
 
-### QA Checklist
+### QA checklist
 - Compliance and accessibility checks to complete before sending.
 </OUTPUT>
 ```

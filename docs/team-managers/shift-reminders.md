@@ -1,13 +1,28 @@
-# Volunteer Shift Reminder Updates
+# Volunteer shift reminder updates
 
 **Category:** Team Managers  
 **Template type:** Automated communications
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [EVENT_NAME]
+- [EVENT_DATE]
+- [PROGRAM_NAME - e.g., game day operations, junior registrations, community BBQ]
+- [CONTACT_NAME]
+- [CONTACT_EMAIL]
+- [CONTACT_PHONE]
+- [COMMUNICATION_TYPE]
+- [DATE]
+- [PROGRAM_NAME]
+- [MISSION_STATEMENT]
+
 
 Keep volunteers informed and appreciated. Use the low-complexity prompt for quick reminder messages, or lean on the medium-complexity workflow when you need tailored updates across multiple communication channels.
 
 ---
 
-## Low Complexity: Shift Reminder Prompt
+## Low complexity: shift reminder prompt
 
 ```text
 Act as a volunteer coordinator assistant for [NRL_CLUB/ORGANISATION_NAME] and generate personalised volunteer shift reminders for [EVENT_NAME] on [EVENT_DATE]. Include essential details such as shift time, location, parking information, dress code, and coordinator contact information. Adapt the tone to reflect our club's culture (e.g., community-focused, friendly, family-oriented) while keeping messages concise, warm, and actionable.
@@ -15,10 +30,10 @@ Act as a volunteer coordinator assistant for [NRL_CLUB/ORGANISATION_NAME] and ge
 
 ---
 
-## Medium Complexity: Structured Reminder Workflow
+## Medium complexity: structured reminder workflow
 
 ```text
-# NRL Club Volunteer Shift Reminder Template (Medium Complexity)
+# NRL club volunteer shift reminder template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a Volunteer Coordinator Assistant for [NRL_CLUB/ORGANISATION_NAME], responsible for creating personalised, informative shift reminders and updates that maintain volunteer engagement and ensure proper staffing for [PROGRAM_NAME - e.g., game day operations, junior registrations, community BBQ]. Your communications should be clear, friendly, and contain all necessary information while reflecting our club's values and community-focused tone.
@@ -51,12 +66,12 @@ SMS Version (if requested):
 
 ---
 
-## High Complexity: Volunteer Shift Engagement Suite
+## High complexity: volunteer shift engagement suite
 
 Use this when coordinating complex rosters, multiple communication channels, and dynamic updates for volunteers.
 
 ```text
-# NRL volunteer shift orchestration template (High Complexity)
+# NRL volunteer shift orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Volunteer Operations Lead for [NRL_CLUB/ORGANISATION_NAME], ensuring [PROGRAM_NAME] shifts for [EVENT_NAME] on [EVENT_DATE] are fully staffed and volunteers feel supported. Craft personalised email, SMS, and in-app reminders, schedule change notices, urgent call-outs, and thank-you follow-ups aligned with our mission of [MISSION_STATEMENT].
@@ -91,16 +106,16 @@ Goal: gather volunteer roster details, shift roles, logistics, and escalation co
 
 <OUTPUT>
 Deliver a markdown communications pack including:
-### Volunteer Segments
+### Volunteer segments
 - Table summarising segments with tone, key messages, and preferred channels.
 
-### Message Templates
+### Message templates
 - Email and SMS copy for each touchpoint with placeholders and optional variants.
 
-### Automation Flow
+### Automation flow
 - Step-by-step outline of triggers, timing, and fallback actions.
 
-### Monitoring Checklist
+### Monitoring checklist
 - Bullet list covering response tracking, substitution workflow, and follow-up tasks.
 </OUTPUT>
 ```

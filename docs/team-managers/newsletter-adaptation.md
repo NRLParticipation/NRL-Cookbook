@@ -1,13 +1,32 @@
-# Adapting Newsletters into Social Media Posts
+# Adapting newsletters into social media posts
 
 **Category:** Team Managers  
 **Template type:** Content adaptation and reformatting
 
-Turn longer club updates into scroll-stopping social content. Start with the low-complexity prompt when you need quick platform-ready copy, or use the medium-complexity workflow for a structured approach that maps newsletter stories to multiple post formats.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn]
+- [NUMBER]
+- [LENGTH]
+- [CLUB_HASHTAG]
+- [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]
+- [PLATFORM_NAME]
+- [MISSION_STATEMENT - e.g., grow participation, support volunteers, strengthen community spirit]
+- [The actual social media copy, ready to post]
+- [Brief description of ideal image or graphic]
+- [Recommendation based on content type]
+- [Brief note on which section this was adapted from]
+- [NRL_CLUB_NAME]
+- [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, sponsor visibility]
+- [MISSION_STATEMENT]
+
+
+Turn longer club updates into scroll-stopping social content. Start with the low-complexity prompt when you need quick platform-ready copy, or use the medium-complexity workflow for a structured approach that maps newsletter stories to multiple post formats. *Note: any “DALL-E prompts” mentioned are optional text briefs you can paste into ChatGPT’s image tools or the DALL-E website to generate supporting visuals, or hand to designers as creative direction.*
 
 ---
 
-## Low Complexity: Newsletter-to-Social Prompt
+## Low complexity: newsletter-to-social prompt
 
 ```text
 You are a community sport social media specialist. Transform the content from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #PlayNRL, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
@@ -15,10 +34,10 @@ You are a community sport social media specialist. Transform the content from [N
 
 ---
 
-## Medium Complexity: Structured Adaptation Workflow
+## Medium complexity: structured adaptation workflow
 
 ```text
-# NRL Club Newsletter to Social Media Adaptation Template (Medium Complexity)
+# NRL club newsletter to social media adaptation template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport social media specialist who excels at adapting longer content into engaging, platform-specific social media posts while maintaining club voice and key messaging. Your task is to transform sections from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into compelling social media content for [PLATFORM_NAME] that will resonate with our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] while driving engagement and awareness of our mission to [MISSION_STATEMENT - e.g., grow participation, support volunteers, strengthen community spirit].
@@ -47,12 +66,12 @@ For each post, provide:
 
 ---
 
-## High Complexity: Newsletter Intelligence Studio
+## High complexity: newsletter intelligence studio
 
 Use this when you need to transform long-form content into multi-platform campaigns, experiment with messaging variants, and coordinate analytics follow-up.
 
 ```text
-# NRL newsletter transformation orchestrator (High Complexity)
+# NRL newsletter transformation orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Content Operations Lead for [NRL_CLUB_NAME], converting the latest club newsletter into a cross-platform campaign for [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, sponsor visibility]. Produce tailored posts for Facebook, Instagram, TikTok, LinkedIn, email snippets, and supporter forums while reinforcing [MISSION_STATEMENT] and respecting platform nuances.
@@ -74,8 +93,8 @@ Goal: capture core newsletter stories, quotes, stats, and CTAs without redundant
 <WORKFLOW>
 1. Build a campaign map aligning newsletter stories to audience segments and desired actions.
 2. Generate platform-specific content:
-   - Facebook & LinkedIn: long-form posts with storytelling arcs and link preview notes.
-   - Instagram & TikTok: caption concepts, short video scripts, and visual prompts.
+   - Facebook and LinkedIn: long-form posts with storytelling arcs and link preview notes.
+   - Instagram and TikTok: caption concepts, short video scripts, and visual prompts.
    - Email snippet: teaser paragraph with CTA.
    - Supporter forum or Discord: condensed update with discussion prompt.
 3. Provide creative briefing prompts (DALL-E or shot lists) for each asset.
@@ -91,19 +110,19 @@ Goal: capture core newsletter stories, quotes, stats, and CTAs without redundant
 
 <OUTPUT>
 Deliver a markdown campaign kit featuring:
-### Campaign Map
+### Campaign map
 - Table linking newsletter stories to audience segments, platforms, and CTAs.
 
-### Platform Content Library
+### Platform content library
 - Subsections with ready-to-use copy or scripts for each platform, including variants for testing.
 
-### Creative Prompt Briefs
+### Creative prompt briefs
 - Bullet list of visual/audio prompts for designers or DALL-E, tagged by platform.
 
-### Experiment Plan
+### Experiment plan
 - List of tests with hypotheses, metrics, and decision timelines.
 
-### Analytics & Follow-up Checklist
+### Analytics and follow-up checklist
 - Steps for tagging, monitoring, reviewing results, and recommended follow-up prompts.
 </OUTPUT>
 ```

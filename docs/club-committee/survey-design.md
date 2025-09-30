@@ -1,13 +1,29 @@
-# Survey Design and Evaluation Forms
+# Survey design and evaluation forms
 
 **Category:** Club Committee  
 **Template type:** Interactive content creation
+
+**Collect these inputs before you start:**
+
+- [PURPOSE]
+- [ORGANISATION_NAME]
+- [TARGET_AUDIENCE]
+- [SPECIFIC_TOPIC]
+- [SURVEY_TYPE]
+- [NRL_CLUB_NAME]
+- [PROGRAM_NAME - e.g., junior development, women's rugby league, volunteer experience, game day operations]
+- [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, supporters]
+- [NUMBER]
+- [LEARNING_OBJECTIVES - e.g., improving participation, volunteer support, inclusivity, club culture]
+- [PROGRAM_NAME]
+- [MISSION_STATEMENT]
+
 
 Create feedback tools that generate actionable insights without overwhelming respondents. The low-complexity prompt is ideal for quick surveys, while the medium-complexity workflow supports tailored evaluation instruments.
 
 ---
 
-## Low Complexity: Quick Survey Prompt
+## Low complexity: quick survey prompt
 
 ```text
 Act as a community sport survey design specialist and create a [PURPOSE] survey for [ORGANISATION_NAME] targeting [TARGET_AUDIENCE]. Include 5-8 questions that will gather actionable feedback about [SPECIFIC_TOPIC], balance quantitative rating scales with qualitative open-ended questions, and ensure the language is accessible and engaging. Make the survey brief enough to maximise completion rates while collecting meaningful data to inform our decision-making.
@@ -15,10 +31,10 @@ Act as a community sport survey design specialist and create a [PURPOSE] survey 
 
 ---
 
-## Medium Complexity: Structured Survey Workflow
+## Medium complexity: structured survey workflow
 
 ```text
-# NRL Club Survey Design and Evaluation Template (Medium Complexity)
+# NRL club survey design and evaluation template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an expert survey designer specialising in community sport program evaluation and stakeholder feedback. Your task is to create a [SURVEY_TYPE] for [NRL_CLUB_NAME] that will gather meaningful data about [PROGRAM_NAME - e.g., junior development, women's rugby league, volunteer experience, game day operations] from [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, supporters].
@@ -45,12 +61,12 @@ Provide the complete survey with:
 
 ---
 
-## High Complexity: Insight-Driven Survey Lab
+## High complexity: insight-driven survey lab
 
 Choose this workflow when you need to craft multi-segment surveys with experimentation plans and governance artifacts.
 
 ```text
-# NRL survey design orchestration template (High Complexity)
+# NRL survey design orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Insights Lead for [NRL_CLUB_NAME], building a [SURVEY_TYPE] to capture feedback on [PROGRAM_NAME] from [TARGET_AUDIENCE]. Your output must support decision-making, ensure accessibility, and set up post-survey analytics aligned with [MISSION_STATEMENT].
@@ -85,19 +101,19 @@ Goal: understand stakeholder goals, constraints, and existing data gaps.
 
 <OUTPUT>
 Provide a markdown survey kit containing:
-### Insight Plan
+### Insight plan
 - Table linking objectives, hypotheses, and metrics.
 
-### Questionnaire Blueprint
+### Questionnaire blueprint
 - Ordered list of sections with questions, response formats, and branching notes.
 
-### Experiment & Pilot Notes
+### Experiment and pilot notes
 - Bulleted details on variants, pilot audience, and success criteria.
 
-### Operations Checklist
+### Operations checklist
 - Step-by-step list covering QA, accessibility, launch, and monitoring tasks.
 
-### Analytics Blueprint
+### Analytics blueprint
 - Outline of dashboards, segmentation cuts, and reporting cadence.
 </OUTPUT>
 ```

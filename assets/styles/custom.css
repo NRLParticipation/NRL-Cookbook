@@ -1,0 +1,16 @@
+/* Position the copy-to-clipboard button just outside the code block on the left */
+.md-typeset .md-code__content {
+  position: relative;
+}
+
+.md-typeset .md-code__button {
+  right: auto;
+  left: -2.5rem;
+  top: 0.6rem;
+}
+
+@media (max-width: 600px) {
+  .md-typeset .md-code__button {
+    left: -2rem;
+  }
+}

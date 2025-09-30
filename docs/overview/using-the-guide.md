@@ -1,4 +1,4 @@
-# How to Use the Guide
+# How to use the guide
 
 ## Quick start checklist
 - Choose the role that matches your responsibilities.

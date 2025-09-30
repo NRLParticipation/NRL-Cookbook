@@ -1,13 +1,24 @@
-# Corporate Partnership Pitches
+# Corporate partnership pitches
 
 **Category:** Marketing and PR  
 **Template type:** Content generation from scratch
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB_NAME]
+- [COMPANY_NAME]
+- [MISSION_STATEMENT - e.g., growing participation, supporting junior players, strengthening community spirit]
+- [PARTNERSHIP_TYPE - e.g., junior team sponsorship, women's rugby league program support, community event partnership]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PARTNERSHIP_TYPE]
+- [MISSION_STATEMENT]
+
 
 Develop partnership proposals that highlight mutual value. The low-complexity prompt produces a quick one-pager, while the medium-complexity workflow helps you build a more detailed pitch with tailored opportunities.
 
 ---
 
-## Low Complexity: Partnership Pitch Prompt
+## Low complexity: partnership pitch prompt
 
 ```text
 Act as a community sport corporate partnership specialist and create a compelling partnership pitch for [NRL_CLUB_NAME] targeting [COMPANY_NAME]. Search the web for [COMPANY_NAME]'s recent CSR initiatives, values, and business priorities, then craft a 1-page pitch that highlights alignment between our mission of [MISSION_STATEMENT - e.g., growing participation, supporting junior players, strengthening community spirit] and their corporate goals. Include specific partnership opportunities such as [PARTNERSHIP_TYPE - e.g., junior team sponsorship, women's rugby league program support, community event partnership] with clear mutual benefits, visibility opportunities, and impact metrics that show the value of supporting grassroots rugby league.
@@ -15,10 +26,10 @@ Act as a community sport corporate partnership specialist and create a compellin
 
 ---
 
-## Medium Complexity: Structured Partnership Pitch Workflow
+## Medium complexity: structured partnership pitch workflow
 
 ```text
-# NRL Corporate Partnership Pitch Generator Template (Medium Complexity)
+# NRL corporate partnership pitch generator template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced community sport partnership development specialist who excels at crafting compelling corporate partnership proposals. Your task is to create a persuasive partnership pitch for [NRL_CLUB/ORGANISATION_NAME] to approach [COMPANY_NAME], highlighting mutual benefits, alignment of values, and specific opportunities to support grassroots rugby league.
@@ -48,12 +59,12 @@ The tone should be professional yet passionate, showcasing rugby league as a com
 
 ---
 
-## High Complexity: Partnership Growth Studio
+## High complexity: partnership growth studio
 
 Use this workflow when you need a multi-tier proposal, activation roadmap, and stakeholder engagement plan tailored to corporate partners.
 
 ```text
-# NRL corporate partnership orchestration template (High Complexity)
+# NRL corporate partnership orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Head of Partnerships for [NRL_CLUB/ORGANISATION_NAME], developing a strategic proposal for [COMPANY_NAME]. Align our mission of [MISSION_STATEMENT] with their CSR and business goals, presenting short-, mid-, and long-term opportunities across brand, employee engagement, and community impact.
@@ -88,19 +99,19 @@ Goal: understand partner priorities, existing activations, and stakeholder expec
 
 <OUTPUT>
 Deliver a markdown proposal kit containing:
-### Executive Overview
+### Executive overview
 - Bullet summary of alignment, key opportunities, and requested next step.
 
-### Opportunity Portfolio
+### Opportunity portfolio
 - Table outlining each opportunity with objectives, activations, assets required, and mutual benefits.
 
-### Activation Roadmap
+### Activation roadmap
 - Timeline listing phases, milestones, responsible owners, and dependencies.
 
-### Impact Measurement Plan
+### Impact measurement plan
 - KPIs, data sources, targets, and reporting frequency.
 
-### Follow-up Checklist
+### Follow-up checklist
 - Ordered list of actions, questions, and materials to prepare ahead of partner discussions.
 </OUTPUT>
 ```

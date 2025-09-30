@@ -1,13 +1,35 @@
-# Event Registrations and Follow-ups
+# Event registrations and follow-ups
 
 **Category:** Events  
 **Template type:** Automated communications
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [EVENT_NAME]
+- [EVENT_DATE]
+- [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, building community spirit]
+- [REMINDER_TIMEFRAME]
+- [FINAL_DETAILS_TIMEFRAME]
+- [FOLLOW_UP_ACTION - e.g., feedback survey, membership renewal, volunteer sign-up]
+- [ATTENDEE_NAME]
+- [EVENT_LOCATION]
+- [EVENT_TIME]
+- [PARKING_INFO]
+- [WHAT_TO_BRING]
+- [DRESS_CODE]
+- [CONTACT_NAME]
+- [CONTACT_EMAIL]
+- [CONTACT_PHONE]
+- [MISSION_STATEMENT]
+- [FOLLOW_UP_ACTION]
+
 
 Keep attendees informed from sign-up to post-event. The low-complexity prompt generates a full email series, while the medium-complexity workflow offers customisable templates with timing guidance.
 
 ---
 
-## Low Complexity: Registration Follow-up Prompt
+## Low complexity: registration follow-up prompt
 
 ```text
 Act as an event communications coordinator for [NRL_CLUB/ORGANISATION_NAME] and generate a set of follow-up emails for our [EVENT_NAME] on [EVENT_DATE], including: a registration confirmation, a one-week reminder with event details, a day-before reminder with last-minute instructions, and a post-event thank you message that requests feedback. Use a warm, welcoming tone that reflects our mission of [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, building community spirit], and include our club logo and contact information in each message.
@@ -15,10 +37,10 @@ Act as an event communications coordinator for [NRL_CLUB/ORGANISATION_NAME] and 
 
 ---
 
-## Medium Complexity: Structured Registration Workflow
+## Medium complexity: structured registration workflow
 
 ```text
-# NRL Club Event Registration Follow-up and Confirmation Template (Medium Complexity)
+# NRL club event registration follow-up and confirmation template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced Event Coordinator for [NRL_CLUB/ORGANISATION_NAME], responsible for managing all communication with registrants for our [EVENT_NAME]. Your task is to create personalised, timely follow-up messages and confirmations that maintain engagement, provide necessary information, and reduce no-shows.
@@ -51,12 +73,12 @@ For each communication template, provide:
 
 ---
 
-## High Complexity: Registration Engagement Control Tower
+## High complexity: registration engagement control tower
 
 Deploy this when handling multi-stage communications, segmentation, and analytics for event registrants.
 
 ```text
-# NRL registration lifecycle orchestration template (High Complexity)
+# NRL registration lifecycle orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Registration Experience Lead for [NRL_CLUB/ORGANISATION_NAME], managing communications for [EVENT_NAME] on [EVENT_DATE]. Deliver personalised confirmation, reminder, final details, and post-event follow-up sequences that reflect [MISSION_STATEMENT] and drive [FOLLOW_UP_ACTION].
@@ -91,19 +113,19 @@ Goal: gather registrant personas, event logistics, and compliance requirements.
 
 <OUTPUT>
 Produce a markdown communications playbook with:
-### Segment Overview
+### Segment overview
 - Table or list describing each audience group with key messaging notes.
 
-### Message Templates
+### Message templates
 - Full email content and SMS snippets for each touchpoint and segment.
 
-### Automation Blueprint
+### Automation blueprint
 - Flow diagram or ordered steps detailing triggers, timing, and fallback actions.
 
-### Personalisation Library
+### Personalisation library
 - List of merge tags/dynamic fields with descriptions and sample values.
 
-### Analytics Checklist
+### Analytics checklist
 - KPIs to monitor, dashboards to configure, and post-event review prompts.
 </OUTPUT>
 ```

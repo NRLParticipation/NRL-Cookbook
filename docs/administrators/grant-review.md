@@ -1,13 +1,23 @@
-# Grant Application Review Templates
+# Grant application review templates
 
 **Category:** Administrators  
 **Template type:** Form and Document Review
+
+**Collect these inputs before you start:**
+
+- [ORGANISATION_NAME]
+- [FUNDING_OPPORTUNITY]
+- [CHECKLIST]
+- [CHECKLIST_NAME]
+- [FUNDING_PRIORITIES]
+- [ELIGIBILITY_CRITERIA]
+
 
 Use these prompts to quality-check grant applications before submission. The low-complexity version gives you a quick checklist-driven review, while the medium-complexity workflow walks through formal assessment steps. A high-complexity automation can be added later if needed.
 
 ---
 
-## Low Complexity: Checklist-Based Review Prompt
+## Low complexity: checklist-based review prompt
 
 Great when you want a fast, copy-ready reviewer prompt that focuses on critical gaps.
 
@@ -17,12 +27,12 @@ Act as a grant application reviewer for [ORGANISATION_NAME] and check if my gran
 
 ---
 
-## Medium Complexity: Structured Review Workflow
+## Medium complexity: structured review workflow
 
 Use this when you want a systematic, section-by-section assessment aligned to your internal review criteria. Share the application files and any required checklists before running the prompt.
 
 ```text
-# Grant application critical review template (Medium Complexity)
+# Grant application critical review template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a Grant Application Reviewer for [ORGANISATION_NAME], responsible for efficiently checking grant applications against our required criteria to ensure completeness before submission or formal review. Your task is to systematically analyse application documents and identify any missing elements, inconsistencies, or areas that need improvement.
@@ -48,12 +58,12 @@ Provide your analysis in this format:
 
 ---
 
-## High Complexity: Collaborative Grant QA Orchestrator
+## High complexity: collaborative grant QA orchestrator
 
 Use this when multiple reviewers, attachments, and compliance frameworks must be reconciled before submission.
 
 ```text
-# Grant application critical QA workflow (High Complexity)
+# Grant application critical QA workflow (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Quality Assurance Lead for [ORGANISATION_NAME], coordinating a multi-disciplinary review of the [FUNDING_OPPORTUNITY] submission. Your remit covers compliance against [CHECKLIST_NAME], alignment with [FUNDING_PRIORITIES], and integration of feedback from finance, programs, and legal.
@@ -90,13 +100,13 @@ Goal: map every checklist requirement to concrete evidence.
 
 <OUTPUT>
 Deliver a markdown package containing:
-### QA Matrix
+### QA matrix
 - Table summarising requirements with status, evidence citation, owner, and due date.
 
-### Issue Register
+### Issue register
 - Bulleted list grouped by severity with description, recommended fix, owner, and deadline.
 
-### Executive Memo
+### Executive memo
 - 300-400 word briefing highlighting readiness, major risks, and immediate decisions.
 </OUTPUT>
 ```

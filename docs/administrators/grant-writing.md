@@ -1,13 +1,27 @@
-# Grant Writing Templates
+# Grant writing templates
 
 **Category:** Administrators  
 **Template type:** Personalised support and guidance
 
-Get started with the low- and medium-complexity prompt templates below to help your club secure grant funding. Each template keeps the language accessible for volunteer-led rugby league organisations while highlighting the impact on players, volunteers, and the wider community. A high-complexity workflow will be added later.
+**Collect these inputs before you start:**
+
+- [ORGANISATION_NAME]
+- [MISSION_STATEMENT]
+- [FUNDER_NAME]
+- [GRANT_PROGRAM]
+- [FUNDING_OPPORTUNITY]
+
+
+Get started with the low- and medium-complexity prompt templates below to help your club secure grant funding. Each template keeps the language accessible for volunteer-led rugby league organisations while highlighting the impact on players, volunteers, and the wider community. Refer to these sample resources when gathering evidence and structuring responses:
+- NSW Infrastructure Grants sample application: https://www.nsw.gov.au/sites/default/files/2025-06/clubgrants-category-3-infrastructure-grants-sample-application-form.pdf
+- Queensland Active Clubs funding: https://www.qld.gov.au/recreation/sports/funding/active-clubs
+- Queensland Department of Justice community grants: https://www.justice.qld.gov.au/initiatives/community-grants
+
+A high-complexity workflow will be added later.
 
 ---
 
-## Low Complexity: Grant Writing Coach Prompt
+## Low complexity: grant writing coach prompt
 
 Use this when you need an immediate, copy-ready prompt that produces a full draft application with minimal input.
 
@@ -23,12 +37,12 @@ Please:
 
 ---
 
-## Medium Complexity: Grant Application Writer Workflow
+## Medium complexity: grant application writer workflow
 
 This version assumes you will supply more structured inputs and want a richer, funder-aligned narrative. Provide the details listed under `<INPUT>` before running the prompt.
 
 ```text
-# Grant application writer prompt template (Medium Complexity)
+# Grant application writer prompt template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a Grant Writer for [ORGANISATION_NAME], a rugby league club whose mission is [MISSION_STATEMENT]. Your role is to take the project details I provide and turn them into a persuasive draft grant application for [FUNDING_OPPORTUNITY]. Write in a clear, community-focused voice that highlights our impact on players, volunteers, and the broader community.
@@ -71,12 +85,12 @@ Deliver a full draft grant application in this structure:
 
 ---
 
-## High Complexity: Grant Proposal Workspace Orchestrator
+## High complexity: grant proposal workspace orchestrator
 
 Deploy this workflow when you need GPT-5 to reason across multiple source documents, balance competing requirements, and surface open questions before finalising the application package.
 
 ```text
-# Grant proposal orchestration template (High Complexity)
+# Grant proposal orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are a senior grant strategist for [ORGANISATION_NAME], responsible for coordinating inputs from program leads, finance, and compliance to deliver a funder-ready submission for [FUNDING_OPPORTUNITY]. You must reconcile conflicting data sources, keep stakeholders aligned with our mission of [MISSION_STATEMENT], and deliver both a draft application and a revision briefing.
@@ -99,7 +113,7 @@ Goal: assemble only the context required to draft accurately. Parallelise readin
 1. Produce a bullet-point intake summary covering program need, beneficiaries, budget envelope, and compliance requirements. Surface missing information explicitly.
 2. Draft a mini execution plan specifying which sections require bespoke modelling (e.g., budget tables, evaluation plan) and which can reuse past language.
 3. Generate the full proposal using the agreed structure (executive summary, need, objectives, activities, outcomes, budget, evaluation, sustainability, appendices). Inline footnotes should reference source documents.
-4. Create a risk & assumptions register with owner, due date, and mitigation guidance for each unresolved input.
+4. Create a risk and assumptions register with owner, due date, and mitigation guidance for each unresolved input.
 5. Suggest follow-up prompts or tool calls the team can run (e.g., budget model, letters of support) ranked by urgency.
 </WORKFLOW>
 
@@ -111,13 +125,13 @@ Goal: assemble only the context required to draft accurately. Parallelise readin
 
 <OUTPUT>
 Produce a single markdown document containing:
-### Proposal Draft
+### Proposal draft
 - Fully formatted application ready for editing.
 
-### Open Items Register
+### Open items register
 - Table listing data gaps with owner, due date, and mitigation notes.
 
-### Recommended Next Actions
+### Recommended next actions
 - Numbered list of follow-up tasks or prompt snippets ordered by urgency.
  </OUTPUT>
 ```

@@ -1,13 +1,22 @@
-# Executive Summary Templates
+# Executive summary templates
 
 **Category:** Administrators  
 **Template type:** Content adaptation and reformatting
+
+**Collect these inputs before you start:**
+
+- [REPORT_TITLE]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [REPORT_TYPE]
+- [TARGET_AUDIENCE - e.g., players, volunteers, families, sponsors]
+- [MISSION_STATEMENT]
+
 
 Turn detailed reports into concise, stakeholder-ready updates. Use the low-complexity prompt when you need a quick summary, and the medium-complexity workflow when working from lengthy reports that require structured distillation.
 
 ---
 
-## Low Complexity: Quick Executive Summary Prompt
+## Low complexity: quick executive summary prompt
 
 ```text
 Act as an expert community sport report summariser and create a concise executive summary of the [REPORT_TITLE] I will share with you, highlighting key findings, recommendations, and impact metrics that would interest our committee, sponsors, and community stakeholders. Focus on mission-critical information related to [NRL_CLUB/ORGANISATION_NAME]'s goals (e.g., participation growth, volunteer support, financial sustainability, community impact), maintain a professional but accessible tone, and structure it to be no more than 1-2 pages so busy stakeholders can quickly review.
@@ -15,10 +24,10 @@ Act as an expert community sport report summariser and create a concise executiv
 
 ---
 
-## Medium Complexity: Structured Summary Workflow
+## Medium complexity: structured summary workflow
 
 ```text
-# Executive Summary Generator for NRL Club Reports (Medium Complexity)
+# Executive summary generator for NRL club reports (medium complexity)
 
 <ROLE_AND_GOAL>
 You are a community sport communications specialist skilled at distilling complex information into clear, concise executive summaries that highlight key findings, impacts, and recommendations. Your task is to transform detailed [REPORT_TYPE] reports for [NRL_CLUB/ORGANISATION_NAME] into executive summaries that busy committee members, sponsors, and community stakeholders can quickly understand.
@@ -51,12 +60,12 @@ Create an executive summary (1-2 pages) with:
 
 ---
 
-## High Complexity: Narrative Distillation Control Room
+## High complexity: narrative distillation control room
 
 Use this when you must ingest multi-report datasets, reconcile contradictions, and generate stakeholder-specific summaries.
 
 ```text
-# Executive insight synthesis orchestrator (High Complexity)
+# Executive insight synthesis orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Director of Impact Reporting for [NRL_CLUB/ORGANISATION_NAME]. Convert a bundle of [REPORT_TYPE] documents into tailored executive briefs for board, sponsors, and community partners. Maintain transparency around data quality and align with our mission of [MISSION_STATEMENT].
@@ -79,7 +88,7 @@ Goal: construct a structured fact base without overloading the model.
 1. Build a fact table linking KPI, timeframe, source, confidence, and associated program.
 2. Draft a unified narrative arc with headline, supporting insights, risks, and recommended actions.
 3. Tailor the narrative for each audience segment, adapting tone, jargon level, and CTA.
-4. Prepare a Q&A annex anticipating follow-up questions and citing sources.
+4. Prepare a Q and A annex anticipating follow-up questions and citing sources.
 5. Suggest next data improvements or surveys needed to close gaps.
 </WORKFLOW>
 
@@ -91,16 +100,16 @@ Goal: construct a structured fact base without overloading the model.
 
 <OUTPUT>
 Create a markdown insight pack containing:
-### Fact Base
+### Fact base
 - Table of KPIs, values, source citations, and confidence scores.
 
-### Audience Briefs
+### Audience briefs
 - Separate sections for board, sponsors, and community partners with tailored summaries.
 
-### Q&A Annex
+### Q and a annex
 - Bullet list of anticipated questions paired with evidence-based responses.
 
-### Data Gaps
+### Data gaps
 - Highlight unresolved issues and recommended remediation actions.
 </OUTPUT>
 ```

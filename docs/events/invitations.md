@@ -1,13 +1,29 @@
-# Event Invitations and Confirmations
+# Event invitations and confirmations
 
 **Category:** Events  
 **Template type:** Template filling and personalisation
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [EVENT_TYPE - e.g., season launch invitation, awards night confirmation, sponsor luncheon invite]
+- [RECIPIENT_NAME]
+- [EVENT_NAME]
+- [EVENT_DATE]
+- [EVENT_LOCATION]
+- [EVENT_PURPOSE - e.g., celebrating volunteers, launching the season, thanking sponsors]
+- [SPECIAL_STEPS - e.g., RSVP link, dress code, parking details]
+- [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, strengthening community spirit]
+- [INVITATION_TYPE - e.g., invitation, reminder, confirmation, or thank you]
+- [AUDIENCE_SEGMENTS - e.g., sponsors, volunteers, families]
+- [MISSION_STATEMENT]
+
 
 Deliver personalised invites and confirmations that feel warm and mission-aligned. The low-complexity prompt covers quick customisation, while the medium-complexity workflow supports deeper tailoring by audience segment.
 
 ---
 
-## Low Complexity: Invitation Prompt
+## Low complexity: invitation prompt
 
 ```text
 Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and create a personalised [EVENT_TYPE - e.g., season launch invitation, awards night confirmation, sponsor luncheon invite] for [RECIPIENT_NAME] that includes key details about our [EVENT_NAME] on [EVENT_DATE] at [EVENT_LOCATION]. Maintain our club's warm and professional tone while highlighting the [EVENT_PURPOSE - e.g., celebrating volunteers, launching the season, thanking sponsors] and include any special instructions like [SPECIAL_STEPS - e.g., RSVP link, dress code, parking details].
@@ -15,10 +31,10 @@ Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and c
 
 ---
 
-## Medium Complexity: Structured Invitation Workflow
+## Medium complexity: structured invitation workflow
 
 ```text
-# NRL Club Event Invitation and Confirmation Template (Medium Complexity)
+# NRL club event invitation and confirmation template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced community sport communications specialist who creates engaging, personalised event invitations and confirmation messages that drive attendance and participation for [NRL_CLUB/ORGANISATION_NAME]'s events while reflecting our mission of [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, strengthening community spirit].
@@ -45,12 +61,12 @@ Provide the following:
 
 ---
 
-## High Complexity: Audience-Segmented Invitation Studio
+## High complexity: audience-segmented invitation studio
 
 Use this when you need tailored invitations, reminders, and confirmations across multiple attendee types with automation cues.
 
 ```text
-# NRL event invitation orchestration template (High Complexity)
+# NRL event invitation orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Events Communications Manager for [NRL_CLUB/ORGANISATION_NAME], managing outreach for [EVENT_NAME] on [EVENT_DATE]. Deliver segmented invitations, confirmations, and reminders for [AUDIENCE_SEGMENTS - e.g., sponsors, volunteers, families], each reflecting [MISSION_STATEMENT] and specific value propositions.
@@ -85,16 +101,16 @@ Goal: collect attendee personas, event highlights, and logistical requirements.
 
 <OUTPUT>
 Deliver a markdown communication kit featuring:
-### Persona Cards
+### Persona cards
 - Profiles outlining motivations, tone, and preferred channels.
 
-### Message Templates
+### Message templates
 - Invitation, reminder, confirmation, and post-event notes for each segment.
 
-### Short-Form Scripts
+### Short-form scripts
 - SMS/WhatsApp copy and phone call talking points.
 
-### Automation & Escalation Plan
+### Automation and escalation plan
 - Flow description for triggers, reminders, and VIP handling.
 </OUTPUT>
 ```

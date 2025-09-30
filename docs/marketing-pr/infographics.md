@@ -1,13 +1,26 @@
-# Infographics About Programs and Impacts
+# Infographics about programs and impacts
 
 **Category:** Marketing and PR  
 **Template type:** Interactive content creation
 
-Turn program data into visual stories. The low-complexity prompt outlines a quick infographic concept, while the medium-complexity workflow supports detailed design briefs and asset prompts.
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PROGRAM_NAME]
+- [TARGET_AUDIENCE]
+- [COLOR1]
+- [COLOR2]
+- [STATISTIC1]
+- [STATISTIC2]
+- [DESIRED_ACTION]
+- [MISSION_STATEMENT]
+
+
+Turn program data into visual stories. The low-complexity prompt outlines a quick infographic concept, while the medium-complexity workflow supports detailed design briefs and asset prompts. *Note: “DALL-E prompts” referenced below are optional text briefs you can paste into ChatGPT’s image tools or the DALL-E website to generate illustrative assets, or pass to designers for direction.*
 
 ---
 
-## Low Complexity: Infographic Concept Prompt
+## Low complexity: infographic concept prompt
 
 ```text
 Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually showcases the impact of [PROGRAM_NAME] on [TARGET_AUDIENCE], using our club brand colours of [COLOR1] and [COLOR2]. Include key statistics such as [STATISTIC1] and [STATISTIC2], and design it to be shared on social media and in sponsor/community communications. Ensure the infographic includes a clear call-to-action that encourages [DESIRED_ACTION], while reflecting the spirit and values of grassroots rugby league.
@@ -15,10 +28,10 @@ Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually s
 
 ---
 
-## Medium Complexity: Structured Infographic Workflow
+## Medium complexity: structured infographic workflow
 
 ```text
-# NRL Club Infographic Creator Template (Medium Complexity)
+# NRL club infographic creator template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an expert community sport infographic designer who specialises in creating compelling visual storytelling concepts that clearly communicate program impact and outcomes to diverse stakeholders. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create an effective infographic about [PROGRAM_NAME] that will resonate with [TARGET_AUDIENCE] (e.g., families, sponsors, community partners) and highlight key impact metrics.
@@ -45,12 +58,12 @@ Provide the following:
 
 ---
 
-## High Complexity: Impact Visualization Lab
+## High complexity: impact visualisation lab
 
 Use this when designing infographic suites for multiple channels with data storytelling, prompts, and accessibility controls.
 
 ```text
-# NRL infographic orchestration template (High Complexity)
+# NRL infographic orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Insights Designer for [NRL_CLUB/ORGANISATION_NAME], visualising [PROGRAM_NAME] impact for [TARGET_AUDIENCE]. Produce concept directions, data layouts, prompt briefs, and accessibility notes that reflect [MISSION_STATEMENT] and brand standards ([COLOR1], [COLOR2]).
@@ -85,19 +98,19 @@ Goal: identify the most compelling metrics, stories, and visual metaphors.
 
 <OUTPUT>
 Produce a markdown design kit featuring:
-### Narrative Overview
+### Narrative overview
 - Summary of story arc and key messages.
 
-### Metric Highlights
+### Metric highlights
 - Table of chosen statistics with source and confidence level.
 
-### Layout Concepts
+### Layout concepts
 - Descriptions of each layout with annotations for sections and content hierarchy.
 
-### Prompt Library
+### Prompt library
 - List of DALL-E or illustration prompts for visual elements.
 
-### Accessibility & Localisation Notes
+### Accessibility and localisation notes
 - Bulleted guidance on contrast, fonts, text alternatives, and translation considerations.
 </OUTPUT>
 ```

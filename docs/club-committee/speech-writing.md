@@ -1,13 +1,39 @@
-# Speech Writing for Events and Presentations
+# Speech writing for events and presentations
 
 **Category:** Club Committee  
 **Template type:** Script and narrative writing
+
+**Collect these inputs before you start:**
+
+- [LENGTH]
+- [NRL_CLUB/ORGANISATION_NAME]
+- [TOPIC]
+- [AUDIENCE - e.g., players, families, sponsors, community leaders]
+- [EVENT_TYPE - e.g., season launch, awards night, fundraiser]
+- [MISSION_STATEMENT - e.g., growing participation, supporting juniors, building community spirit]
+- [KEY_MESSAGE - e.g., teamwork, inclusivity, resilience]
+- [DESIRED_OUTCOME - e.g., new memberships, volunteer sign-ups, sponsorship support]
+- [TONE - e.g., inspiring, celebratory, heartfelt]
+- [LENGTH_IN_MINUTES]
+- [SPEAKER_ROLE - e.g., Club President, Head Coach, Captain]
+- [EVENT_NAME - e.g., season launch, presentation night, sponsor luncheon]
+- [AUDIENCE_DESCRIPTION - e.g., players, families, sponsors, community leaders]
+- [MISSION_STATEMENT - e.g., growing participation, supporting juniors, strengthening community spirit]
+- [KEY_MESSAGE_1]
+- [KEY_MESSAGE_2]
+- [KEY_MESSAGE_3]
+- [AUDIENCE_DESCRIPTION]
+- [WORD_COUNT]
+- [SPEAKER_ROLE]
+- [EVENT_NAME]
+- [MISSION_STATEMENT]
+
 
 Craft memorable speeches that inspire action and celebrate your club. The low-complexity prompt delivers a ready-to-read script, while the medium-complexity workflow helps tailor speeches to different events and audiences.
 
 ---
 
-## Low Complexity: Event Speech Prompt
+## Low complexity: event speech prompt
 
 ```text
 Act as an expert speechwriter for community sport organisations. Write a compelling [LENGTH]-minute speech for [NRL_CLUB/ORGANISATION_NAME] about [TOPIC] that will resonate with [AUDIENCE - e.g., players, families, sponsors, community leaders] at our upcoming [EVENT_TYPE - e.g., season launch, awards night, fundraiser]. Include our mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, building community spirit], incorporate [KEY_MESSAGE - e.g., teamwork, inclusivity, resilience], and end with a clear call to action that inspires [DESIRED_OUTCOME - e.g., new memberships, volunteer sign-ups, sponsorship support]. Use a [TONE - e.g., inspiring, celebratory, heartfelt] tone throughout.
@@ -15,10 +41,10 @@ Act as an expert speechwriter for community sport organisations. Write a compell
 
 ---
 
-## Medium Complexity: Structured Speech Workflow
+## Medium complexity: structured speech workflow
 
 ```text
-# NRL Club Speech Writing Template (Medium Complexity)
+# NRL club speech writing template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced speechwriter for community sport organisations who understands how to craft compelling narratives that inspire action, connect with diverse audiences, and effectively communicate mission-driven messages. Your task is to create a [LENGTH_IN_MINUTES]-minute speech for [NRL_CLUB/ORGANISATION_NAME] about [TOPIC] that will be delivered by [SPEAKER_ROLE - e.g., Club President, Head Coach, Captain] at [EVENT_NAME - e.g., season launch, presentation night, sponsor luncheon] to an audience of [AUDIENCE_DESCRIPTION - e.g., players, families, sponsors, community leaders].
@@ -43,12 +69,12 @@ Provide the complete speech script with:
 
 ---
 
-## High Complexity: Speech Campaign Studio
+## High complexity: speech campaign studio
 
 Use this when you need multiple speech variants, rehearsal assets, and follow-up communications aligned with key objectives.
 
 ```text
-# NRL event speech orchestration template (High Complexity)
+# NRL event speech orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Communications Lead for [NRL_CLUB/ORGANISATION_NAME], supporting [SPEAKER_ROLE] to deliver a [LENGTH_IN_MINUTES]-minute speech on [TOPIC] at [EVENT_NAME]. Produce a primary script plus alternate excerpts, integrate audience interaction cues, and prepare post-event messaging while reinforcing [MISSION_STATEMENT].
@@ -57,7 +83,7 @@ You are the Communications Lead for [NRL_CLUB/ORGANISATION_NAME], supporting [SP
 <SYSTEM_PARAMETERS>
 - reasoning_effort: high
 - tool_budget: 6 (audience insight, storytelling design, emotion mapping, CTA development, rehearsal planning)
-- delivery_bundle: main script, highlight reel excerpt, Q&A prep, follow-up comms.
+- delivery_bundle: main script, highlight reel excerpt, Q and A prep, follow-up comms.
 </SYSTEM_PARAMETERS>
 
 <CONTEXT_GATHERING>
@@ -83,16 +109,16 @@ Goal: gather audience demographics, event context, and desired outcomes.
 
 <OUTPUT>
 Deliver a markdown speech pack comprising:
-### Full Script
+### Full script
 - Paragraph-form speech ready for delivery with stage directions.
 
-### Highlight Assets
+### Highlight assets
 - Short excerpt, quote cards, and social teaser copy.
 
-### Rehearsal Guide
+### Rehearsal guide
 - Notes on pacing, emphasis, gestures, and audience engagement moments.
 
-### Follow-up Messaging
+### Follow-up messaging
 - Bulleted suggestions for post-event communications tied to the speech themes.
 </OUTPUT>
 ```

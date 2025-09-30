@@ -1,61 +1,67 @@
 site_name: AI Guide - NRL Volunteers
 site_description: >-
-  The AI Prompt Cookbook is your club or organization's guide to getting started with
+  The AI Prompt Cookbook is your club or organisation's guide to getting started with
   artificial intelligence tools like ChatGPT, Claude and Gemini. Instead of starting
   at a blank chat box wondering what to ask, this guide provides you with ready-to-use
-  prompts that solve real nonprofit challenges.
+  prompts that solve real non-profit challenges.
 nav:
   - Home: index.md
   - Overview:
-      - Getting Started: overview/getting-started.md
-      - How to Use the Guide: overview/using-the-guide.md
+      - Getting started: overview/getting-started.md
+      - How to use the guide: overview/using-the-guide.md
   - Administrators:
-      - Grant Writing: administrators/grant-writing.md
-      - Grant Application Review: administrators/grant-review.md
-      - Staff Handbook & Policy Manuals: administrators/policy-manuals.md
-      - Social Media Content Calendars: administrators/social-media.md
-      - Sponsor Thank You Communications: administrators/sponsor-thankyou.md
-      - Volunteer Recruitment & Onboarding: administrators/volunteer-communications.md
-      - Training Materials & Onboarding Guides: administrators/training-guides.md
-      - Volunteer & Candidate Screening: administrators/volunteer-screening.md
-      - Presentation Slide Designs: administrators/presentation-design.md
-      - Membership Renewals & Reminders: administrators/membership-renewals.md
-      - Executive Summaries: administrators/executive-summaries.md
-      - Safety Protocols & Emergency Procedures: administrators/safety-protocols.md
-      - Strategic Planning & Scenarios: administrators/strategic-planning.md
-      - Invoice Processing & Vendor Management: administrators/invoice-processing.md
-      - Volunteer Agreements & Contracts: administrators/volunteer-agreements.md
-      - Financial Reconciliation & Reporting: administrators/financial-reconciliation.md
-      - Client Service Communications: administrators/client-communications.md
-      - Expense Report Review: administrators/expense-review.md
-      - Volunteer Timesheet Processing: administrators/volunteer-timesheets.md
-      - Training Curricula & Workshops: administrators/training-curricula.md
+      - Client service communications: administrators/client-communications.md
+      - Coach accreditation reminder templates: administrators/coach-accreditation-reminders.md
+      - Competition fairness assessment: administrators/competition-fairness-assessment.md
+      - Executive summaries: administrators/executive-summaries.md
+      - Grant application review: administrators/grant-review.md
+      - Grant writing: administrators/grant-writing.md
+      - Invoice processing and vendor management: administrators/invoice-processing.md
+      - Ladder performance review: administrators/ladder-performance-review.md
+      - Membership registration and reminders: administrators/membership-renewals.md
+      - Player recruitment strategy: administrators/player-recruitment-strategy.md
+      - Presentation slide designs: administrators/presentation-design.md
+      - Referee roster: administrators/referee-roster.md
+      - Safety protocols and emergency procedures: administrators/safety-protocols.md
+      - Social media content calendars: administrators/social-media.md
+      - Sponsor thank you communications: administrators/sponsor-thankyou.md
+      - Staff handbook and policy manuals: administrators/policy-manuals.md
+      - Strategic planning and scenarios: administrators/strategic-planning.md
+      - Training materials and workshops: administrators/training-materials.md
+      - Training materials and onboarding guides: administrators/training-guides.md
+      - Volunteer agreements and contracts: administrators/volunteer-agreements.md
+      - Volunteer recruitment and onboarding: administrators/volunteer-communications.md
+  - Coaches:
+      - Adapt coaching plans: coaches/adapt-coaching-plans.md
+      - Coaching plan templates: coaches/coaching-plan.md
   - Club Committee:
-      - Board Reports & Meeting Materials: club-committee/board-reports.md
-      - Survey Design & Evaluation Forms: club-committee/survey-design.md
-      - Survey Results & Insights: club-committee/survey-insights.md
-      - Annual Reports & Impact Summaries: club-committee/annual-report.md
-      - Personalised Sponsor Appeals: club-committee/sponsor-appeals.md
-      - Speech Writing for Events: club-committee/speech-writing.md
-      - Board Member Assessments: club-committee/board-candidate-assessment.md
-      - Program Summaries for Stakeholders: club-committee/program-summaries.md
-  - Marketing & PR:
-      - Corporate Partnership Pitches: marketing-pr/corporate-partnerships.md
-      - Press Releases & Media Announcements: marketing-pr/press-releases.md
-      - Website Copy & Program Descriptions: marketing-pr/website-copy.md
-      - Newsletter Content & Email Campaigns: marketing-pr/newsletters.md
-      - Social Media Graphics & Quote Cards: marketing-pr/social-graphics.md
-      - Photo Captions & Alt Text: marketing-pr/photo-captions.md
-      - Infographics About Programs: marketing-pr/infographics.md
-      - Video Script Conversion: marketing-pr/video-scripts.md
+      - Annual club budget planner: club-committee/annual-budget.md
+      - Annual reports and impact summaries: club-committee/annual-report.md
+      - Board member assessments: club-committee/board-candidate-assessment.md
+      - Board reports and meeting materials: club-committee/board-reports.md
+      - Personalised sponsor appeals: club-committee/sponsor-appeals.md
+      - Program summaries for stakeholders: club-committee/program-summaries.md
+      - Speech writing for events: club-committee/speech-writing.md
+      - Survey design and evaluation forms: club-committee/survey-design.md
+      - Survey results and insights: club-committee/survey-insights.md
+      - Volunteer recruitment and retention strategy: club-committee/volunteer-strategy.md
+  - Marketing and PR:
+      - Corporate partnership pitches: marketing-pr/corporate-partnerships.md
+      - Infographics about programs: marketing-pr/infographics.md
+      - Newsletter content and email campaigns: marketing-pr/newsletters.md
+      - Photo captions and alt text: marketing-pr/photo-captions.md
+      - Press releases and media announcements: marketing-pr/press-releases.md
+      - Social media graphics and quote cards: marketing-pr/social-graphics.md
+      - Video script conversion: marketing-pr/video-scripts.md
+      - Website copy and program descriptions: marketing-pr/website-copy.md
   - Events:
-      - Event Flyers & Promotional Images: events/flyers.md
-      - Event Promotional Materials: events/promo-package.md
-      - Event Invitations & Confirmations: events/invitations.md
-      - Event Registrations & Follow-ups: events/registrations.md
+      - Event flyers and promotional images: events/flyers.md
+      - Event invitations and confirmations: events/invitations.md
+      - Event promotional materials: events/promo-package.md
+      - Event registrations and follow-ups: events/registrations.md
   - Team Managers:
-      - Newsletter to Social Media: team-managers/newsletter-adaptation.md
-      - Volunteer Shift Reminders: team-managers/shift-reminders.md
+      - Newsletter to social media: team-managers/newsletter-adaptation.md
+      - Volunteer shift reminders: team-managers/shift-reminders.md
 docs_dir: docs
 theme:
   name: material

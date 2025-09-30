@@ -1,13 +1,34 @@
-# Invoice Processing and Vendor Management
+# Invoice processing and vendor management
 
 **Category:** Administrators  
 **Template type:** Repetitive data processing
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PAYMENT_TERMS]
+- [PROGRAM_NAME - e.g., junior development, women's team, facilities maintenance]
+- [DEPARTMENT_NAME - e.g., operations, events, sponsorship]
+- [Extracted vendor name]
+- [Extracted invoice number]
+- [Extracted date]
+- [Extracted amount]
+- [Extracted terms]
+- [Brief description]
+- [Suggested category]
+- [Relevant program/department]
+- [List any discrepancies, missing information, or required follow-ups]
+- [Payment scheduling recommendations]
+- [Any relevant history or special considerations for this vendor]
+- [PROGRAM_NAME]
+- [DEPARTMENT_NAME]
+
 
 Streamline accounts payable tasks with AI support. Use the low-complexity prompt for quick invoice reviews, or adopt the medium-complexity workflow for structured summaries and vendor notes.
 
 ---
 
-## Low Complexity: Invoice Review Prompt
+## Low complexity: invoice review prompt
 
 ```text
 Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review the attached invoice PDF, extract key details (vendor name, invoice number, amount, due date), flag any discrepancies with our standard payment terms of [PAYMENT_TERMS], and prepare a summary for approval that includes payment status, vendor history with the club, and any recommended actions (e.g., approve, hold, query).
@@ -15,10 +36,10 @@ Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review 
 
 ---
 
-## Medium Complexity: Structured Invoice Workflow
+## Medium complexity: structured invoice workflow
 
 ```text
-# Invoice Processing and Vendor Management Template for NRL (Medium Complexity)
+# Invoice processing and vendor management template for NRL (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced finance assistant for [NRL_CLUB/ORGANISATION_NAME] who specialises in invoice processing and vendor management for community sport clubs. Your task is to help streamline our accounts payable workflow by efficiently processing invoice information, identifying any issues that require attention, and maintaining organised vendor records.
@@ -59,12 +80,12 @@ VENDOR NOTES
 
 ---
 
-## High Complexity: Accounts Payable Control Tower
+## High complexity: accounts payable control tower
 
 Use this orchestrated prompt to manage multi-vendor pipelines, exception handling, and reporting automation.
 
 ```text
-# Invoice processing and vendor intelligence workspace (High Complexity)
+# Invoice processing and vendor intelligence workspace (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Finance Systems Lead for [NRL_CLUB/ORGANISATION_NAME], coordinating accounts payable for programs such as [PROGRAM_NAME] and departments like [DEPARTMENT_NAME]. Automate invoice validation, anomaly detection, and stakeholder notifications while maintaining compliance with [PAYMENT_TERMS] and club policies.
@@ -99,19 +120,19 @@ Goal: normalise invoice data and historical spend trends.
 
 <OUTPUT>
 Produce a markdown finance briefing including:
-### Spend Dashboard
+### Spend dashboard
 - Table summarising totals, variance, and alerts by program or department.
 
-### Exception Log
+### Exception log
 - Bulleted list of issues detailing status, owner, severity, and recommended action.
 
-### Vendor Snapshot
+### Vendor snapshot
 - Profiles covering history, contract notes, and risk rating.
 
-### Stakeholder Notifications
+### Stakeholder notifications
 - Ready-to-send message templates for approvers and programme leads.
 
-### Automation Recommendations
+### Automation recommendations
 - List of proposed system rules and audit logging requirements.
 </OUTPUT>
 ```

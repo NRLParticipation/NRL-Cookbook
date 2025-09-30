@@ -1,13 +1,30 @@
-# Press Releases and Media Announcements
+# Press releases and media announcements
 
 **Category:** Marketing and PR  
 **Template type:** Content generation from scratch
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [ANNOUNCEMENT_TOPIC - e.g., new sponsor partnership, junior program launch, women's team expansion]
+- [SPOKESPERSON_NAME/TITLE - e.g., Club President, Head Coach]
+- [ANNOUNCEMENT_TYPE - e.g., new sponsorship, program launch, milestone achievement, community initiative]
+- [SPOKESPERSON_NAME]
+- [NRL_CLUB_NAME]
+- [CONTACT_NAME]
+- [CONTACT_TITLE]
+- [CONTACT_EMAIL]
+- [CONTACT_PHONE]
+- [ANNOUNCEMENT_TYPE]
+- [ANNOUNCEMENT_DATE]
+- [MISSION_STATEMENT]
+
 
 Secure media coverage with professional, newsworthy announcements. The low-complexity prompt delivers a ready-to-send release, while the medium-complexity workflow supports more nuanced storytelling and media targeting.
 
 ---
 
-## Low Complexity: Press Release Prompt
+## Low complexity: press release prompt
 
 ```text
 Act as a community sport PR specialist and create a compelling press release for [NRL_CLUB/ORGANISATION_NAME] about [ANNOUNCEMENT_TOPIC - e.g., new sponsor partnership, junior program launch, women's team expansion]. Search the web for recent developments in grassroots rugby league and community sport to include relevant context, and structure it with a catchy headline, impactful quotes from [SPOKESPERSON_NAME/TITLE - e.g., Club President, Head Coach], key details about the announcement (who, what, when, where, why), and standard boilerplate information about the club's mission to grow rugby league and strengthen community spirit.
@@ -15,10 +32,10 @@ Act as a community sport PR specialist and create a compelling press release for
 
 ---
 
-## Medium Complexity: Structured Press Release Workflow
+## Medium complexity: structured press release workflow
 
 ```text
-# NRL Club Press Release Generator Template (Medium Complexity)
+# NRL club press release generator template (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced sport communications specialist who crafts compelling press releases and media announcements that generate positive coverage for rugby league organisations. Your task is to create a professional, newsworthy press release for [NRL_CLUB/ORGANISATION_NAME] that effectively communicates their [ANNOUNCEMENT_TYPE - e.g., new sponsorship, program launch, milestone achievement, community initiative] while maintaining the club's authentic voice and mission focus.
@@ -45,12 +62,12 @@ Provide a complete, publication-ready press release with:
 
 ---
 
-## High Complexity: Media Campaign Control Room
+## High complexity: media campaign control room
 
 Use this when the announcement requires multi-outlet targeting, asset coordination, and stakeholder follow-up.
 
 ```text
-# NRL integrated press campaign template (High Complexity)
+# NRL integrated press campaign template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Communications Director for [NRL_CLUB/ORGANISATION_NAME], preparing a media campaign around [ANNOUNCEMENT_TYPE] on [ANNOUNCEMENT_DATE]. Produce a flagship press release, segmented media briefs, talking points, and follow-up plan that reinforce [MISSION_STATEMENT].
@@ -73,7 +90,7 @@ Goal: capture announcement facts, stakeholder priorities, and media angles witho
 1. Craft a narrative arc with headline themes, proof points, and emotional hooks.
 2. Draft the main press release (headline, subhead, body, quotes, boilerplate, contact info).
 3. Produce tailored media briefs (e.g., local news, sports, community) highlighting the most relevant angles.
-4. Create talking points and Q&A for spokespeople, including suggested sound bites.
+4. Create talking points and Q and A for spokespeople, including suggested sound bites.
 5. Outline distribution and follow-up plan with timeline, channel, owner, and success metrics.
 </WORKFLOW>
 
@@ -85,16 +102,16 @@ Goal: capture announcement facts, stakeholder priorities, and media angles witho
 
 <OUTPUT>
 Deliver a markdown media kit containing:
-### Flagship Press Release
+### Flagship press release
 - Fully formatted release ready for distribution.
 
-### Segmented Media Briefs
+### Segmented media briefs
 - Bullet summaries tailored to each outlet segment with suggested angles.
 
-### Spokesperson Toolkit
-- Talking points, Q&A, and quote cards for spokespeople.
+### Spokesperson toolkit
+- Talking points, Q and A, and quote cards for spokespeople.
 
-### Distribution & Follow-up Plan
+### Distribution and follow-up plan
 - Timeline outlining channels, owners, metrics, and monitoring tasks.
 </OUTPUT>
 ```

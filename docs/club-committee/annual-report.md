@@ -1,13 +1,26 @@
-# Annual Reports and Impact Summaries
+# Annual reports and impact summaries
 
 **Category:** Club Committee  
 **Template type:** Structured report creation
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB_NAME]
+- [YEAR]
+- [TIME_PERIOD]
+- [MISSION_STATEMENT - e.g., growing rugby league and strengthening community spirit]
+- [PROGRAM_RESULTS]
+- [FINANCIAL_INFORMATION]
+- [PLAYER_OR_VOLUNTEER_STORIES]
+- [SPONSOR_RECOGNITION]
+- [MISSION_STATEMENT]
+
 
 Showcase a full season of progress with compelling stories and data. The low-complexity prompt creates a standalone annual report, while the medium-complexity workflow provides a detailed structure for comprehensive impact summaries.
 
 ---
 
-## Low Complexity: Annual Report Prompt
+## Low complexity: annual report prompt
 
 ```text
 Act as an expert community sport annual report writer and create a comprehensive annual report for [NRL_CLUB_NAME] that highlights our key accomplishments, participation growth, volunteer contributions, financial summary, and impact stories from [YEAR]. Use our mission statement, program data (e.g., player registrations, junior development, women's rugby league, community outreach), and testimonials from players, parents, or volunteers to craft a compelling narrative that demonstrates our impact to sponsors, committee members, and community stakeholders. Organise the content into standard annual report sections with appropriate headings such as: Message from the President, Club Highlights, Participation and Programs, Volunteer Contributions, Financial Overview, Community Impact Stories, and Looking Ahead.
@@ -15,10 +28,10 @@ Act as an expert community sport annual report writer and create a comprehensive
 
 ---
 
-## Medium Complexity: Structured Annual Report Workflow
+## Medium complexity: structured annual report workflow
 
 ```text
-# NRL Club Annual Report and Impact Summary Generator (Medium Complexity)
+# NRL club annual report and impact summary generator (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an expert community sport communications specialist who excels at creating compelling annual reports and impact summaries that effectively communicate a club's achievements, challenges, and future direction to stakeholders including sponsors, committee members, volunteers, players, and the local community.
@@ -52,12 +65,12 @@ Format with clear headers, bullet points for key statistics, and suggestions for
 
 ---
 
-## High Complexity: Annual Impact Studio
+## High complexity: annual impact studio
 
 Deploy this when you need to integrate multiple data sources, stakeholder stories, and future strategy into a single publication.
 
 ```text
-# NRL annual report orchestration template (High Complexity)
+# NRL annual report orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Communications Director for [NRL_CLUB_NAME], producing an annual report covering [TIME_PERIOD] for audiences including sponsors, members, volunteers, and the wider community. Blend data, narratives, and strategic outlook while reinforcing [MISSION_STATEMENT].
@@ -92,16 +105,16 @@ Goal: assemble validated figures, stories, and testimonials without duplicating 
 
 <OUTPUT>
 Deliver a markdown production kit containing:
-### Section Drafts
+### Section drafts
 - Fully written content per section with subheadings and inline callout suggestions.
 
-### Visual & Testimonial Log
+### Visual and testimonial log
 - Table listing suggested images, quotes, captions, and approval status.
 
-### Compliance Checklist
+### Compliance checklist
 - Bullet list covering acknowledgements, legal requirements, and review steps.
 
-### Distribution Plan
+### Distribution plan
 - Outline of channels, timeline, and audience-specific follow-ups.
 </OUTPUT>
 ```

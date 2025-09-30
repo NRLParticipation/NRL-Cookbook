@@ -1,13 +1,28 @@
-# Website Copy and Program Descriptions
+# Website copy and program descriptions
 
 **Category:** Marketing and PR  
 **Template type:** Content generation from scratch
+
+**Collect these inputs before you start:**
+
+- [NRL_CLUB/ORGANISATION_NAME]
+- [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative]
+- [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]
+- [TONE - warm/professional/family-friendly/inspiring]
+- [MISSION_STATEMENT - e.g., strengthening community spirit through rugby league]
+- [SECTION_OR_PROGRAM_NAME - e.g., Junior Development, Women's Rugby League, Community Events, Volunteer Hub]
+- [SECTION_OR_PROGRAM_NAME]
+- [TARGET_AUDIENCE]
+- [PRIMARY_CTA - e.g., register, volunteer, donate]
+- [MISSION_STATEMENT]
+- [TONE]
+
 
 Create web content that converts visitors into participants, volunteers, and supporters. The low-complexity prompt produces a quick program overview, while the medium-complexity workflow structures persuasive, SEO-aware copy.
 
 ---
 
-## Low Complexity: Website Copy Prompt
+## Low complexity: website copy prompt
 
 ```text
 Act as a community sport communications specialist and create compelling website copy for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative] that clearly explains the program's purpose, impact, and how [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] can participate or benefit. Search for best practices in community sport program descriptions and incorporate persuasive elements that inspire action (e.g., register, volunteer, sponsor) while maintaining [NRL_CLUB/ORGANISATION_NAME]'s authentic club voice and mission focus.
@@ -15,10 +30,10 @@ Act as a community sport communications specialist and create compelling website
 
 ---
 
-## Medium Complexity: Structured Website Copy Workflow
+## Medium complexity: structured website copy workflow
 
 ```text
-# NRL Club Website Copy and Program Description Generator (Medium Complexity)
+# NRL club website copy and program description generator (medium complexity)
 
 <ROLE_AND_GOAL>
 You are an experienced community sport communications specialist who excels at creating compelling, mission-aligned website copy and program descriptions that engage diverse stakeholders while clearly communicating impact. Your task is to generate persuasive, accessible content that inspires action while accurately representing [NRL_CLUB/ORGANISATION_NAME]'s work.
@@ -45,12 +60,12 @@ Provide the following content elements:
 
 ---
 
-## High Complexity: Web Experience Orchestration Studio
+## High complexity: web experience orchestration studio
 
 Use this when building multi-section web experiences with SEO strategy, audience variants, and conversion tracking.
 
 ```text
-# NRL website copy orchestration template (High Complexity)
+# NRL website copy orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
 You are the Digital Experience Lead for [NRL_CLUB/ORGANISATION_NAME], refreshing the [SECTION_OR_PROGRAM_NAME] section to engage [TARGET_AUDIENCE] and drive [PRIMARY_CTA - e.g., register, volunteer, donate]. Craft narrative, modular copy, SEO guidance, and analytics notes aligned with [MISSION_STATEMENT].
@@ -85,19 +100,19 @@ Goal: gather audience needs, program differentiators, and keyword opportunities 
 
 <OUTPUT>
 Deliver a markdown web content pack including:
-### Audience Insight Grid
+### Audience insight grid
 - Table summarising motivations, barriers, and key messages.
 
-### Page Architecture & Copy Blocks
+### Page architecture and copy blocks
 - Section-by-section content with headings, body copy, and CTA prompts.
 
-### Copy Variations
+### Copy variations
 - Alternate headlines, CTAs, and intro snippets for testing.
 
-### SEO & Metadata Guide
+### SEO and metadata guide
 - Recommended keywords, meta description, and structured data notes.
 
-### Analytics Checklist
+### Analytics checklist
 - Metrics to track, events to configure, and optimisation experiments to run post-launch.
 </OUTPUT>
 ```
