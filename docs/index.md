@@ -1,6 +1,6 @@
 # ChatGPT Guide - NRL Volunteers
 
-> Ready-to-use AI workflows that help rugby league volunteers work faster while staying mission aligned.
+> Ready to use ChatGPT workflows that help rugby league volunteers work faster while staying mission aligned.
 
 ## Start here
 - [Getting started](overview/getting-started.md) – understand how the guide is structured and what each complexity level offers.
