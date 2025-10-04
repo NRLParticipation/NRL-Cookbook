@@ -20,7 +20,7 @@ Compile professional board packs that combine metrics, narratives, and action it
 ## Low complexity: board report prompt
 
 ```text
-Act as a community sport board report specialist and create a comprehensive board report for [NRL_CLUB_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, financial summary, volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
+Act as a community sport board report specialist and create a comprehensive board report for [NRL_CLUB_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, a financial summary section that clearly labels where to insert updated figures (e.g., "[Add latest finance summary here]"), volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
 ```
 
 ---
@@ -36,7 +36,7 @@ You are an experienced sports communications specialist who excels at synthesisi
 
 <STEPS>
 Using the information provided, create a comprehensive board report that:
-1. Summarises key program activities, financial updates, and organisational developments.
+1. Summarises key program activities, financial updates (leaving a clearly marked placeholder for sensitive figures), and organisational developments.
 2. Highlights achievements, challenges, and upcoming opportunities.
 3. Presents data in an accessible format with clear section headers.
 4. Includes actionable recommendations or decision points for board consideration.
@@ -47,7 +47,7 @@ Using the information provided, create a comprehensive board report that:
 The board report should follow this structure:
 1. Executive summary (3-5 bullet points of critical information)
 2. Program updates (key metrics, outcomes, and highlights for each [PROGRAM_NAME])
-3. Financial overview (budget status, fundraising progress, financial concerns)
+3. Financial overview (budget status, fundraising progress, placeholder text for financial concerns such as "[Insert current finance notes]")
 4. Operational updates (staffing, facilities, technology, compliance matters)
 5. Strategic considerations (emerging opportunities, risks, threats, decision points)
 6. Upcoming events and important dates

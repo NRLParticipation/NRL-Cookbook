@@ -9,10 +9,8 @@ We group NRL volunteer AI solutions into role-based problem types:
 - Club Committee
 - Coaches
 - Events
-- General Tasks
 - Marketing and PR
 - Team Managers
-- Others (coming soon)
 
 Each collection provides three levels of support:
 - **Low complexity** - copy-paste prompts that work immediately in ChatGPT.

@@ -37,7 +37,6 @@ nav:
   - Club Committee:
       - Annual club budget planner: club-committee/annual-budget.md
       - Annual reports and impact summaries: club-committee/annual-report.md
-      - Board member assessments: club-committee/board-candidate-assessment.md
       - Board reports and meeting materials: club-committee/board-reports.md
       - Personalised sponsor appeals: club-committee/sponsor-appeals.md
       - Program summaries for stakeholders: club-committee/program-summaries.md
@@ -62,8 +61,19 @@ nav:
   - Team Managers:
       - Newsletter to social media: team-managers/newsletter-adaptation.md
       - Volunteer shift reminders: team-managers/shift-reminders.md
+  - Draw/Comp builder:
+      - Overview: draw-comp-builder/index.md
+      - Home venue schedule builder: draw-comp-builder/home-venue-schedule.md
+      - Season calendar planner: draw-comp-builder/season-calendar-planner.md
+      - Single competition creator: draw-comp-builder/competition-upload-planner.md
+      - Multi competition synchroniser: draw-comp-builder/multi-competition-synchroniser.md
+      - Field allocation scheduler: draw-comp-builder/field-allocation-scheduler.md
+      - Gala day scheduler: draw-comp-builder/gala-day-scheduler.md
+      - Template transformer: draw-comp-builder/template-transformer.md
 docs_dir: docs
+use_directory_urls: false
 theme:
+  custom_dir: overrides
   name: material
   language: en
   logo: assets/images/National_Rugby_League.svg

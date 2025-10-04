@@ -21,7 +21,7 @@ Develop partnership proposals that highlight mutual value. The low-complexity pr
 ## Low complexity: partnership pitch prompt
 
 ```text
-Act as a community sport corporate partnership specialist and create a compelling partnership pitch for [NRL_CLUB_NAME] targeting [COMPANY_NAME]. Search the web for [COMPANY_NAME]'s recent CSR initiatives, values, and business priorities, then craft a 1-page pitch that highlights alignment between our mission of [MISSION_STATEMENT - e.g., growing participation, supporting junior players, strengthening community spirit] and their corporate goals. Include specific partnership opportunities such as [PARTNERSHIP_TYPE - e.g., junior team sponsorship, women's rugby league program support, community event partnership] with clear mutual benefits, visibility opportunities, and impact metrics that show the value of supporting grassroots rugby league.
+Act as a community sport corporate partnership specialist and create a compelling partnership pitch for [NRL_CLUB_NAME] targeting [COMPANY_NAME]. Search the web for [COMPANY_NAME]'s recent corporate social responsibility initiatives, values, and business priorities, then craft a 1-page pitch that highlights alignment between our mission of [MISSION_STATEMENT - e.g., growing participation, supporting junior players, strengthening community spirit] and their corporate goals. Include specific partnership opportunities such as [PARTNERSHIP_TYPE - e.g., junior team sponsorship, women's rugby league program support, community event partnership] with clear mutual benefits, visibility opportunities, and impact metrics that show the value of supporting grassroots rugby league.
 ```
 
 ---
@@ -38,7 +38,7 @@ You are an experienced community sport partnership development specialist who ex
 <STEPS>
 Generate a corporate partnership pitch that includes:
 1. A compelling introduction about [NRL_CLUB_NAME], our mission, and the role we play in the rugby league community.
-2. Clear explanation of why [COMPANY_NAME] is an ideal partner (values alignment, CSR priorities, community engagement).
+2. Clear explanation of why [COMPANY_NAME] is an ideal partner (values alignment, corporate social responsibility priorities, community engagement).
 3. Two or three specific partnership opportunities ([PARTNERSHIP_TYPE] such as junior team sponsorship, women's program support, community events, in-kind donations, or volunteer initiatives).
 4. Concrete benefits for the company (local and regional brand visibility, employee engagement opportunities, alignment with NRL values of respect and inclusivity, contribution to grassroots sport).
 5. Impact metrics that demonstrate potential reach and effectiveness (e.g., number of registered players, volunteer hours, game day attendance, community engagement online and offline).
@@ -67,18 +67,18 @@ Use this workflow when you need a multi-tier proposal, activation roadmap, and s
 # NRL corporate partnership orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Head of Partnerships for [NRL_CLUB/ORGANISATION_NAME], developing a strategic proposal for [COMPANY_NAME]. Align our mission of [MISSION_STATEMENT] with their CSR and business goals, presenting short-, mid-, and long-term opportunities across brand, employee engagement, and community impact.
+You are the Head of Partnerships for [NRL_CLUB/ORGANISATION_NAME], developing a strategic proposal for [COMPANY_NAME]. Align our mission of [MISSION_STATEMENT] with their corporate social responsibility and business goals, presenting short-, mid-, and long-term opportunities across brand, employee engagement, and community impact.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
 - reasoning_effort: high
-- tool_budget: 7 (CSR analysis, opportunity design, impact modelling, activation planning, risk review)
+- tool_budget: 7 (corporate social responsibility analysis, opportunity design, impact modelling, activation planning, risk review)
 - delivery_bundle: executive summary, opportunity portfolio, activation roadmap, measurement plan.
 </SYSTEM_PARAMETERS>
 
 <CONTEXT_GATHERING>
 Goal: understand partner priorities, existing activations, and stakeholder expectations without duplicating research.
-- Summarise COMPANY_NAME's recent CSR initiatives, sponsorships, and stated objectives (cite sources).
+- Summarise COMPANY_NAME's recent corporate social responsibility initiatives, sponsorships, and stated objectives (cite sources).
 - Capture key metrics about our club (audience reach, participation, digital footprint) with references.
 - Stop once you can articulate at least three value propositions linking club assets to partner goals or flag gaps requiring follow-up.
 </CONTEXT_GATHERING>
@@ -87,7 +87,7 @@ Goal: understand partner priorities, existing activations, and stakeholder expec
 1. Build a partner insight profile covering motivations, KPI focus, and potential barriers.
 2. Design an opportunity portfolio with tiers (e.g., community, brand, employee engagement) detailing activation ideas and required resources.
 3. Map an activation roadmap spanning planning, launch, and optimisation phases, including responsibilities and timelines.
-4. Create an impact measurement framework (KPIs, data sources, reporting cadence) tied to CSR outcomes and club mission.
+4. Create an impact measurement framework (KPIs, data sources, reporting cadence) tied to corporate social responsibility outcomes and club mission.
 5. Suggest next steps: meeting agenda, materials for stakeholder buy-in, and follow-up prompts for due diligence items.
 </WORKFLOW>
 
