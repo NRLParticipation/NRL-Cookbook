@@ -1,12 +1,20 @@
-# Draw/Comp builder templates
-Use the shortcuts below to jump into the prompt that suits your scenario.
+# ChatGPT Guide - NRL Volunteers
 
-| Prompt | Purpose |
+> Ready to use ChatGPT workflows that help rugby league volunteers work faster while staying mission aligned.
+
+## Start here
+- [Getting started](overview/getting-started.md) – understand how the guide is structured and what each complexity level offers.
+- [How to use the guide](overview/using-the-guide.md) – follow best practices, safety tips, and first-time AI workflows.
+
+## Choose your role
+Use the navigation menu or the table below to jump straight into the prompts that match your responsibilities.
+
+| Role | Explore |
 | --- | --- |
-| [Home venue schedule builder](draw-comp-builder/home-venue-schedule.md) | Build a schedule for all games at your venue so multiple fields and operating windows are balanced. |
-| [Season calendar planner](draw-comp-builder/season-calendar-planner.md) | Plan start dates, regular-season length, and finals timing while analysing holiday gaps across team-count scenarios. |
-| [Single competition creator](draw-comp-builder/competition-upload-planner.md) | Generate a fair premier competition draw ready for MySideline import (circular rotation, equal byes, constrained fixtures). |
-| [Multi competition synchroniser](draw-comp-builder/multi-competition-synchroniser.md) | Align supporting competitions with the premier draw so clubs play together and fairness metrics stay balanced. |
-| [Field allocation scheduler](draw-comp-builder/field-allocation-scheduler.md) | Assign TBD match times/fields for a specific weekend using official duration rules and admin sequencing preferences. |
-| [Gala day scheduler](draw-comp-builder/gala-day-scheduler.md) | Build a school gala day draw and timetable (including lunch breaks and finals) ready for MySideline import. |
-| [Template transformer](draw-comp-builder/template-transformer.md) | Convert custom draw spreadsheets into the MySideline import template and highlight missing data (e.g., venues, kick-offs). |
+| Administrators | Operational, finance, compliance, and communication workflows. [Browse the collection](administrators/grant-writing.md) |
+| Club Committee | Governance, reporting, strategy, and stakeholder storytelling. [Browse the collection](club-committee/board-reports.md) |
+| Marketing and PR | Media, partnerships, campaigns, and storytelling assets. [Browse the collection](marketing-pr/corporate-partnerships.md) |
+| Events | Promotions, logistics, and attendee communications. [Browse the collection](events/flyers.md) |
+| Team Managers | Rosters, volunteer updates, and content adaptations. [Browse the collection](team-managers/newsletter-adaptation.md) |
+| Coaches | Coaching programs and plan adaptation resources. [Browse the collection](coaches/coaching-plan.md) |
+| Draw builder | Build full-season draws or weekend comps with ready-to-go prompts. [Browse the collection](draw-comp-builder/index.md) |
