@@ -22,7 +22,7 @@ Plan club-wide social media with prompts tuned for grassroots rugby league. Star
 
 ---
 
-## Low complexity: monthly content sprint
+## Low complexity: Monthly Content Sprint
 
 ```text
 Act as a community sport social media specialist and create a month's worth of engaging social media content for [NRL_CLUB_NAME], a grassroots rugby league organisation. Focus on our mission to [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit].
@@ -42,7 +42,7 @@ Make the posts platform-specific (Facebook, Instagram, Twitter/X, LinkedIn) with
 
 ---
 
-## Medium complexity: structured calendar workflow
+## Medium complexity: Structured Calendar Workflow
 
 ```text
 # NRL club social media content calendar template (medium complexity)
@@ -97,7 +97,7 @@ You are an experienced sports and community social media manager who creates eng
 
 ---
 
-## High complexity: cross-channel social command centre
+## High complexity: Cross-Channel Social Command Centre
 
 Use this to coordinate multi-week campaigns with automated experimentation, asset prompts, and performance checkpoints.
 

@@ -14,7 +14,7 @@ Use these prompts to design club-wide strategies that attract, onboard, and reta
 
 ---
 
-## Low complexity: volunteer strategy prompt
+## Low complexity: Volunteer Strategy Prompt
 
 Ideal when you need a fast framework to brief committee members or volunteers on next steps.
 
@@ -28,7 +28,7 @@ Keep the language friendly, practical, and aligned with rugby league club cultur
 
 ---
 
-## Medium complexity: structured volunteer strategy workflow
+## Medium complexity: Structured Volunteer Strategy Workflow
 
 Choose this template when you have some data or stakeholder input and need a reusable playbook.
 
@@ -73,7 +73,7 @@ I will provide:
 
 ---
 
-## High complexity: volunteer strategy orchestrator
+## High complexity: Volunteer Strategy Orchestrator
 
 Use this workflow to coordinate multiple data sources, stakeholder inputs, and long-term planning.
 

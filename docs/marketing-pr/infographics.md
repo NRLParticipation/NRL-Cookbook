@@ -20,7 +20,7 @@ Turn program data into visual stories. The low-complexity prompt outlines a quic
 
 ---
 
-## Low complexity: infographic concept prompt
+## Low complexity: Infographic Concept Prompt
 
 ```text
 Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually showcases the impact of [PROGRAM_NAME] on [TARGET_AUDIENCE], using our club brand colours of [COLOR1] and [COLOR2]. Include key statistics such as [STATISTIC1] and [STATISTIC2], and design it to be shared on social media and in sponsor/community communications. Ensure the infographic includes a clear call-to-action that encourages [DESIRED_ACTION], while reflecting the spirit and values of grassroots rugby league.
@@ -28,7 +28,7 @@ Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually s
 
 ---
 
-## Medium complexity: structured infographic workflow
+## Medium complexity: Structured Infographic Workflow
 
 ```text
 # NRL club infographic creator template (medium complexity)
@@ -58,7 +58,7 @@ Provide the following:
 
 ---
 
-## High complexity: impact visualisation lab
+## High complexity: Impact Visualisation Lab
 
 Use this when designing infographic suites for multiple channels with data storytelling, prompts, and accessibility controls.
 

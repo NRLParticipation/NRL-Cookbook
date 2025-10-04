@@ -23,7 +23,7 @@ Create feedback tools that generate actionable insights without overwhelming res
 
 ---
 
-## Low complexity: quick survey prompt
+## Low complexity: Quick Survey Prompt
 
 ```text
 Act as a community sport survey design specialist and create a [PURPOSE] survey for [ORGANISATION_NAME] targeting [TARGET_AUDIENCE]. Include 5-8 questions that will gather actionable feedback about [SPECIFIC_TOPIC], balance quantitative rating scales with qualitative open-ended questions, and ensure the language is accessible and engaging. Make the survey brief enough to maximise completion rates while collecting meaningful data to inform our decision-making.
@@ -31,7 +31,7 @@ Act as a community sport survey design specialist and create a [PURPOSE] survey 
 
 ---
 
-## Medium complexity: structured survey workflow
+## Medium complexity: Structured Survey Workflow
 
 ```text
 # NRL club survey design and evaluation template (medium complexity)
@@ -61,7 +61,7 @@ Provide the complete survey with:
 
 ---
 
-## High complexity: insight-driven survey lab
+## High complexity: Insight-Driven Survey Lab
 
 Choose this workflow when you need to craft multi-segment surveys with experimentation plans and governance artifacts.
 

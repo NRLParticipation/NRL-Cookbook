@@ -21,7 +21,7 @@ Design scroll-stopping visuals that reinforce club values. The low-complexity pr
 
 ---
 
-## Low complexity: graphic concept prompt
+## Low complexity: Graphic Concept Prompt
 
 ```text
 Act as a community sport social media designer and create a compelling social media graphic or quote card for [NRL_CLUB/ORGANISATION_NAME] that highlights [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact] for our [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]. Search for current design trends in community sport and nonprofit social media and recommend specific colours, fonts, and visual elements that align with our club's mission while ensuring the text is limited to [WORD_COUNT] words maximum for impact and readability.
@@ -29,7 +29,7 @@ Act as a community sport social media designer and create a compelling social me
 
 ---
 
-## Medium complexity: structured graphic workflow
+## Medium complexity: Structured Graphic Workflow
 
 ```text
 # NRL club social media graphics and quote cards template (medium complexity)
@@ -56,7 +56,7 @@ You are a community sport visual content specialist who creates engaging, club-a
 
 ---
 
-## High complexity: visual campaign studio
+## High complexity: Visual Campaign Studio
 
 Apply this workflow when you need a full suite of graphics across platforms, experiment plans, and accessibility checks.
 

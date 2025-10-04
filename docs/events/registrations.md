@@ -29,7 +29,7 @@ Keep attendees informed from sign-up to post-event. The low-complexity prompt ge
 
 ---
 
-## Low complexity: registration follow-up prompt
+## Low complexity: Registration Follow-Up Prompt
 
 ```text
 Act as an event communications coordinator for [NRL_CLUB/ORGANISATION_NAME] and generate a set of follow-up emails for our [EVENT_NAME] on [EVENT_DATE], including: a registration confirmation, a one-week reminder with event details, a day-before reminder with last-minute instructions, and a post-event thank you message that requests feedback. Use a warm, welcoming tone that reflects our mission of [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, building community spirit], and include our club logo and contact information in each message.
@@ -37,7 +37,7 @@ Act as an event communications coordinator for [NRL_CLUB/ORGANISATION_NAME] and 
 
 ---
 
-## Medium complexity: structured registration workflow
+## Medium complexity: Structured Registration Workflow
 
 ```text
 # NRL club event registration follow-up and confirmation template (medium complexity)
@@ -73,7 +73,7 @@ For each communication template, provide:
 
 ---
 
-## High complexity: registration engagement control tower
+## High complexity: Registration Engagement Control Tower
 
 Deploy this when handling multi-stage communications, segmentation, and analytics for event registrants.
 

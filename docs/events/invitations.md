@@ -23,7 +23,7 @@ Deliver personalised invites and confirmations that feel warm and mission-aligne
 
 ---
 
-## Low complexity: invitation prompt
+## Low complexity: Invitation Prompt
 
 ```text
 Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and create a personalised [EVENT_TYPE - e.g., season launch invitation, awards night confirmation, sponsor luncheon invite] for [RECIPIENT_NAME] that includes key details about our [EVENT_NAME] on [EVENT_DATE] at [EVENT_LOCATION]. Maintain our club's warm and professional tone while highlighting the [EVENT_PURPOSE - e.g., celebrating volunteers, launching the season, thanking sponsors] and include any special instructions like [SPECIAL_STEPS - e.g., RSVP link, dress code, parking details].
@@ -31,7 +31,7 @@ Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and c
 
 ---
 
-## Medium complexity: structured invitation workflow
+## Medium complexity: Structured Invitation Workflow
 
 ```text
 # NRL club event invitation and confirmation template (medium complexity)
@@ -61,7 +61,7 @@ Provide the following:
 
 ---
 
-## High complexity: audience-segmented invitation studio
+## High complexity: Audience-Segmented Invitation Studio
 
 Use this when you need tailored invitations, reminders, and confirmations across multiple attendee types with automation cues.
 

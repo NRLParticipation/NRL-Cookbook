@@ -15,7 +15,7 @@ Design end-to-end campaigns that grow player numbers through school partnerships
 
 ---
 
-## Low complexity: quick recruitment blueprint
+## Low complexity: Quick Recruitment Blueprint
 
 Use this when you need a fast plan to kick-start player recruitment.
 
@@ -29,7 +29,7 @@ Wrap up with two success metrics to track and a reminder about safeguarding requ
 
 ---
 
-## Medium complexity: structured player recruitment workflow
+## Medium complexity: Structured Player Recruitment Workflow
 
 Choose this template when you have club data and want a 6-12 month strategy covering multiple channels.
 
@@ -75,7 +75,7 @@ I will provide:
 
 ---
 
-## High complexity: recruitment growth orchestrator
+## High complexity: Recruitment Growth Orchestrator
 
 Use this workflow when you need a multi-year participation strategy with stakeholder governance and resource alignment.
 

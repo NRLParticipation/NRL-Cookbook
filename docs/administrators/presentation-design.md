@@ -29,7 +29,7 @@ Design presentations that hold attention while staying true to NRL branding. The
 
 ---
 
-## Low complexity: slide inspiration prompt
+## Low complexity: Slide Inspiration Prompt
 
 ```text
 Act as a community sport presentation designer and create visually appealing slide designs for [NRL_CLUB/ORGANISATION_NAME]'s presentation on [TOPIC] that align with our mission and NRL brand guidelines. Search the web for current design trends in community sport presentations and generate 5-7 DALL-E prompts I can use to create custom slide backgrounds, infographics, or visual elements that will enhance our message about [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact] while maintaining a professional, club-focused aesthetic.
@@ -37,7 +37,7 @@ Act as a community sport presentation designer and create visually appealing sli
 
 ---
 
-## Medium complexity: structured slide design workflow
+## Medium complexity: Structured Slide Design Workflow
 
 ```text
 # NRL club presentation slide design template (medium complexity)
@@ -69,7 +69,7 @@ For each slide type, provide:
 
 ---
 
-## High complexity: multi-audience presentation studio
+## High complexity: Multi-Audience Presentation Studio
 
 Select this workflow when you must generate slide specifications for different stakeholder decks, along with asset prompts and speaker guidance.
 

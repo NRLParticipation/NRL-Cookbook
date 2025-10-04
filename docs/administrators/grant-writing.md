@@ -21,7 +21,7 @@ A high-complexity workflow will be added later.
 
 ---
 
-## Low complexity: grant writing coach prompt
+## Low complexity: Grant Writing Coach Prompt
 
 Use this when you need an immediate, copy-ready prompt that produces a full draft application with minimal input.
 
@@ -37,7 +37,7 @@ Please:
 
 ---
 
-## Medium complexity: grant application writer workflow
+## Medium complexity: Grant Application Writer Workflow
 
 This version assumes you will supply more structured inputs and want a richer, funder-aligned narrative. Provide the details listed under `<INPUT>` before running the prompt.
 
@@ -85,7 +85,7 @@ Deliver a full draft grant application in this structure:
 
 ---
 
-## High complexity: grant proposal workspace orchestrator
+## High complexity: Grant Proposal Workspace Orchestrator
 
 Deploy this workflow when you need GPT-5 to reason across multiple source documents, balance competing requirements, and surface open questions before finalising the application package.
 

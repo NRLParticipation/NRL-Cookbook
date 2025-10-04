@@ -19,7 +19,7 @@ Support club compliance by nudging coaches who still need to complete or provide
 
 ---
 
-## Low complexity: quick coach reminder prompt
+## Low complexity: Quick Coach Reminder Prompt
 
 Use this when you need an immediate email or SMS for outstanding accreditation records.
 
@@ -29,7 +29,7 @@ Act as a club compliance coordinator. Craft a friendly reminder for [COACH_NAME]
 
 ---
 
-## Medium complexity: structured accreditation follow-up workflow
+## Medium complexity: Structured Accreditation Follow-Up Workflow
 
 Choose this template when you have multiple coaches to contact and need a mini-campaign with tracking.
 
@@ -72,7 +72,7 @@ I will provide:
 
 ---
 
-## High complexity: accreditation compliance orchestrator
+## High complexity: Accreditation Compliance Orchestrator
 
 Use this workflow when you must manage compliance across entire coaching staff, integrate reporting, and plan escalation.
 

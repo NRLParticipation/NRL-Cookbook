@@ -14,7 +14,7 @@ Create a balanced single competition draw that can be uploaded straight into MyS
 
 ---
 
-## Low complexity: quick single competition creator prompt
+## Low complexity: Quick Single Competition Creator Prompt
 
 ```text
 You are building a single competition draw for MySideline.
@@ -42,7 +42,7 @@ Outputs
 
 ---
 
-## Medium complexity: structured single competition creator workflow
+## Medium complexity: Structured Single Competition Creator Workflow
 
 ```text
 # Single competition creator template (medium complexity)
@@ -80,7 +80,7 @@ You are a competition administrator producing the season draw for [COMPETITION_N
 
 ---
 
-## High complexity: governance-ready single competition creator
+## High complexity: Governance-Ready Single Competition Creator
 
 ```text
 # Single competition creator template (high complexity)

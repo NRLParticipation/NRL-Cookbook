@@ -20,7 +20,7 @@ Personalise member, volunteer, and sponsor follow-ups with ease. Use the low-com
 
 ---
 
-## Low complexity: personalised follow-up prompt
+## Low complexity: Personalised Follow-Up Prompt
 
 ```text
 Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [NRL_CLUB/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details or sensitive data are included.
@@ -28,7 +28,7 @@ Act as a community sport member communications specialist and personalise this [
 
 ---
 
-## Medium complexity: structured communication workflow
+## Medium complexity: Structured Communication Workflow
 
 ```text
 # Member and volunteer communications template (medium complexity)
@@ -57,7 +57,7 @@ Provide a personalised communication that includes:
 
 ---
 
-## High complexity: relationship communications control tower
+## High complexity: Relationship Communications Control Tower
 
 Use this when you must coordinate multi-touch, multi-channel follow-ups across members, volunteers, and partners while integrating data-driven insights.
 

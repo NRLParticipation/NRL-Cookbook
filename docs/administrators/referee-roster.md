@@ -16,7 +16,7 @@ Assign accredited referees to busy match schedules while respecting availability
 
 ---
 
-## Low complexity: referee assignment prompt
+## Low complexity: Referee Assignment Prompt
 
 Use this when you have a single weekend draw and need a quick referee allocation.
 
@@ -30,7 +30,7 @@ Return a table grouped by venue and date with assigned referee names, start time
 
 ---
 
-## Medium complexity: structured referee roster workflow
+## Medium complexity: Structured Referee Roster Workflow
 
 Choose this template when you are working across multiple venues and need a clear operating plan for volunteers.
 
@@ -73,7 +73,7 @@ I will provide:
 
 ---
 
-## High complexity: referee scheduling orchestrator
+## High complexity: Referee Scheduling Orchestrator
 
 Deploy this workflow when you must manage large rounds (50+ games per venue) and integrate referee development, travel budgets, and compliance tracking.
 

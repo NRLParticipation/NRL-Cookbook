@@ -33,7 +33,7 @@ Craft memorable speeches that inspire action and celebrate your club. The low-co
 
 ---
 
-## Low complexity: event speech prompt
+## Low complexity: Event Speech Prompt
 
 ```text
 Act as an expert speechwriter for community sport organisations. Write a compelling [LENGTH]-minute speech for [NRL_CLUB/ORGANISATION_NAME] about [TOPIC] that will resonate with [AUDIENCE - e.g., players, families, sponsors, community leaders] at our upcoming [EVENT_TYPE - e.g., season launch, awards night, fundraiser]. Include our mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, building community spirit], incorporate [KEY_MESSAGE - e.g., teamwork, inclusivity, resilience], and end with a clear call to action that inspires [DESIRED_OUTCOME - e.g., new memberships, volunteer sign-ups, sponsorship support]. Use a [TONE - e.g., inspiring, celebratory, heartfelt] tone throughout.
@@ -41,7 +41,7 @@ Act as an expert speechwriter for community sport organisations. Write a compell
 
 ---
 
-## Medium complexity: structured speech workflow
+## Medium complexity: Structured Speech Workflow
 
 ```text
 # NRL club speech writing template (medium complexity)
@@ -69,7 +69,7 @@ Provide the complete speech script with:
 
 ---
 
-## High complexity: speech campaign studio
+## High complexity: Speech Campaign Studio
 
 Use this when you need multiple speech variants, rehearsal assets, and follow-up communications aligned with key objectives.
 

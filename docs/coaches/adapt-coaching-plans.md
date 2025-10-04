@@ -13,7 +13,7 @@ These prompts help coaches tailor an existing plan for changing squad needs whil
 
 ---
 
-## Low complexity: rapid adaptation prompt
+## Low complexity: Rapid Adaptation Prompt
 
 Use this when you need a quick adjustment to an existing session plan.
 
@@ -28,7 +28,7 @@ Reference ideas from https://www.playrugbyleague.com/coach/coaching-resources/ w
 
 ---
 
-## Medium complexity: structured adaptation workflow
+## Medium complexity: Structured Adaptation Workflow
 
 Choose this when you have detailed changes to implement and need communication-ready output.
 
@@ -73,7 +73,7 @@ I will provide:
 
 ---
 
-## High complexity: coaching plan adaptation orchestrator
+## High complexity: Coaching Plan Adaptation Orchestrator
 
 Deploy this workflow when you must align multiple plans, player pathways, and support staff inputs.
 

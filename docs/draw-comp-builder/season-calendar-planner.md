@@ -15,7 +15,7 @@ Plan the overall rugby league calendar leading into finals and the grand final. 
 
 ---
 
-## Low complexity: quick season calendar prompt
+## Low complexity: Quick Season Calendar Prompt
 
 ```text
 You are planning the upcoming rugby league season and want suggested competition calendars. Inputs:
@@ -40,7 +40,7 @@ Steps:
 
 ---
 
-## Medium complexity: structured season-planning workflow
+## Medium complexity: Structured Season-Planning Workflow
 
 ```text
 # Season calendar planner template (medium complexity)
@@ -79,7 +79,7 @@ You are a competition administrator building next season’s calendar, aiming to
 
 ---
 
-## High complexity: governance-ready season orchestration
+## High complexity: Governance-Ready Season Orchestration
 
 ```text
 # Season orchestration template (high complexity)

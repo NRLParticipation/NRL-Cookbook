@@ -24,7 +24,7 @@ Secure media coverage with professional, newsworthy announcements. The low-compl
 
 ---
 
-## Low complexity: press release prompt
+## Low complexity: Press Release Prompt
 
 ```text
 Act as a community sport PR specialist and create a compelling press release for [NRL_CLUB/ORGANISATION_NAME] about [ANNOUNCEMENT_TOPIC - e.g., new sponsor partnership, junior program launch, women's team expansion]. Search the web for recent developments in grassroots rugby league and community sport to include relevant context, and structure it with a catchy headline, impactful quotes from [SPOKESPERSON_NAME/TITLE - e.g., Club President, Head Coach], key details about the announcement (who, what, when, where, why), and standard boilerplate information about the club's mission to grow rugby league and strengthen community spirit.
@@ -32,7 +32,7 @@ Act as a community sport PR specialist and create a compelling press release for
 
 ---
 
-## Medium complexity: structured press release workflow
+## Medium complexity: Structured Press Release Workflow
 
 ```text
 # NRL club press release generator template (medium complexity)
@@ -62,7 +62,7 @@ Provide a complete, publication-ready press release with:
 
 ---
 
-## High complexity: media campaign control room
+## High complexity: Media Campaign Control Room
 
 Use this when the announcement requires multi-outlet targeting, asset coordination, and stakeholder follow-up.
 

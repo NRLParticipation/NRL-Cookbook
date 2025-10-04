@@ -38,7 +38,7 @@ Launch events with cohesive messaging across channels. The low-complexity prompt
 
 ---
 
-## Low complexity: promotional package prompt
+## Low complexity: Promotional Package Prompt
 
 ```text
 Act as a community sport event marketing specialist and create compelling promotional materials for [EVENT_NAME] hosted by [NRL_CLUB/ORGANISATION_NAME] on [EVENT_DATE]. Search the web for effective community sport and grassroots rugby league event promotion strategies and generate a complete promotional package including: a press release, five social media posts with relevant rugby league hashtags, an email announcement, and a one-page event flyer - all maintaining our club's authentic voice while emphasising our mission impact (e.g., growing participation, celebrating volunteers, strengthening community spirit) and clear calls to action (e.g., register, attend, support).
@@ -46,7 +46,7 @@ Act as a community sport event marketing specialist and create compelling promot
 
 ---
 
-## Medium complexity: structured promotional workflow
+## Medium complexity: Structured Promotional Workflow
 
 ```text
 # NRL club event promotional materials template (medium complexity)
@@ -109,7 +109,7 @@ Call-to-action
 
 ---
 
-## High complexity: multi-channel event launch studio
+## High complexity: Multi-Channel Event Launch Studio
 
 Use this when you require a strategic event campaign across owned, earned, and paid channels with experimentation hooks and measurement plans.
 

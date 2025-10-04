@@ -16,7 +16,7 @@ Use these prompts to prepare an annual rugby league club budget that balances pa
 
 ---
 
-## Low complexity: quick budget outline prompt
+## Low complexity: Quick Budget Outline Prompt
 
 Use this when you need a fast draft for committee review.
 
@@ -30,7 +30,7 @@ Keep figures in Australian dollars and highlight any assumptions.
 
 ---
 
-## Medium complexity: structured annual budget workflow
+## Medium complexity: Structured Annual Budget Workflow
 
 Pick this template when you have detailed inputs and want a committee-ready workbook.
 
@@ -75,7 +75,7 @@ I will provide:
 
 ---
 
-## High complexity: financial strategy orchestrator
+## High complexity: Financial Strategy Orchestrator
 
 Deploy this workflow when you need multi-scenario forecasts, sensitivity testing, and governance artefacts.
 

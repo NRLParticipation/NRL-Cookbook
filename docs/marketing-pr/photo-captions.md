@@ -21,7 +21,7 @@ Ensure every image is both engaging and accessible. The low-complexity prompt de
 
 ---
 
-## Low complexity: caption and alt text prompt
+## Low complexity: Caption And Alt Text Prompt
 
 ```text
 You are a community sport accessibility expert. Create descriptive alt text and engaging captions for [NUMBER] images from [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that accurately convey both the visual content and the emotion of grassroots rugby league while incorporating our mission of [MISSION_STATEMENT]. For each image, provide:
@@ -31,7 +31,7 @@ You are a community sport accessibility expert. Create descriptive alt text and 
 
 ---
 
-## Medium complexity: structured caption workflow
+## Medium complexity: Structured Caption Workflow
 
 ```text
 # NRL club photo caption and alt text generator (medium complexity)
@@ -62,7 +62,7 @@ Website Caption:
 
 ---
 
-## High complexity: visual accessibility command centre
+## High complexity: Visual Accessibility Command Centre
 
 Use this when managing large image sets, multiple platforms, and accessibility compliance requirements.
 

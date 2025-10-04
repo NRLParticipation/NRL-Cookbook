@@ -15,7 +15,7 @@ These prompts help administrators assemble clear staff handbooks and policy manu
 
 ---
 
-## Low complexity: policy manual draft prompt
+## Low complexity: Policy Manual Draft Prompt
 
 Use this copy-ready prompt to generate a full policy document focused on a specific area without additional setup.
 
@@ -25,7 +25,7 @@ Act as a rugby league policy documentation specialist and create a comprehensive
 
 ---
 
-## Medium complexity: structured handbook workflow
+## Medium complexity: Structured Handbook Workflow
 
 Choose this template when you want a tailored document with clear structure, legal considerations, and implementation guidance. Gather the information requested before running the prompt.
 
@@ -57,7 +57,7 @@ Provide the completed documentation with:
 
 ---
 
-## High complexity: policy suite automation workspace
+## High complexity: Policy Suite Automation Workspace
 
 When you must harmonise multiple policies, legal obligations, and stakeholder feedback in a single pass, use this orchestrated prompt.
 

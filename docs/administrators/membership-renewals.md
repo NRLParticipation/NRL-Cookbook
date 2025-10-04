@@ -21,7 +21,7 @@ Keep registrations on track with friendly, retention-focused reminders. The low-
 
 ---
 
-## Low complexity: registration reminder series
+## Low complexity: Registration Reminder Series
 
 ```text
 Act as a membership coordinator for [NRL_CLUB/ORGANISATION_NAME] and create a series of personalised registration and retention messages for our [MEMBERSHIP_TYPE - e.g., player, family, supporter] members who have not yet registered for the upcoming season starting on [SEASON_START_DATE]. Use the participant type [PARTICIPANT_TYPE - adult or child] to tailor tone and benefits. Deliver:
@@ -33,7 +33,7 @@ Keep the tone warm, community-led, and focused on welcoming members back.
 
 ---
 
-## Medium complexity: full registration campaign workflow
+## Medium complexity: Full Registration Campaign Workflow
 
 ```text
 # NRL club membership registration reminder template (medium complexity)
@@ -81,7 +81,7 @@ For each communication stage, provide:
 
 ---
 
-## High complexity: membership registration command centre
+## High complexity: Membership Registration Command Centre
 
 Deploy this prompt when you need automated sequences, segmentation experiments, and KPI governance across the full registration cycle.
 

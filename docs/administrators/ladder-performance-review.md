@@ -16,7 +16,7 @@ Analyse ladder reports for fairness across divisions. These prompts help competi
 
 ---
 
-## Low complexity: ladder review prompt
+## Low complexity: Ladder Review Prompt
 
 Use this when you have a single MySideline ladder export and need a quick fairness scan with clear next steps.
 
@@ -45,7 +45,7 @@ After all divisional summaries, create a list of teams that should be checked to
 
 ---
 
-## Medium complexity: ladder review workflow
+## Medium complexity: Ladder Review Workflow
 
 Choose this option when you can provide the structured MySideline ladder export and need division-by-division recommendations ready for committee review.
 
@@ -102,7 +102,7 @@ Doveton Steelers: Moderate Concern (PD +6, 62% win ratio)
 
 ---
 
-## High complexity: ladder equity audit orchestrator
+## High complexity: Ladder Equity Audit Orchestrator
 
 Deploy this workflow when you need to reconcile multiple ladder reports, integrate match notes, and log evidence before proposing competition structure changes.
 

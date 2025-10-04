@@ -18,7 +18,7 @@ Develop partnership proposals that highlight mutual value. The low-complexity pr
 
 ---
 
-## Low complexity: partnership pitch prompt
+## Low complexity: Partnership Pitch Prompt
 
 ```text
 Act as a community sport corporate partnership specialist and create a compelling partnership pitch for [NRL_CLUB_NAME] targeting [COMPANY_NAME]. Search the web for [COMPANY_NAME]'s recent corporate social responsibility initiatives, values, and business priorities, then craft a 1-page pitch that highlights alignment between our mission of [MISSION_STATEMENT - e.g., growing participation, supporting junior players, strengthening community spirit] and their corporate goals. Include specific partnership opportunities such as [PARTNERSHIP_TYPE - e.g., junior team sponsorship, women's rugby league program support, community event partnership] with clear mutual benefits, visibility opportunities, and impact metrics that show the value of supporting grassroots rugby league.
@@ -26,7 +26,7 @@ Act as a community sport corporate partnership specialist and create a compellin
 
 ---
 
-## Medium complexity: structured partnership pitch workflow
+## Medium complexity: Structured Partnership Pitch Workflow
 
 ```text
 # NRL corporate partnership pitch generator template (medium complexity)
@@ -59,7 +59,7 @@ The tone should be professional yet passionate, showcasing rugby league as a com
 
 ---
 
-## High complexity: partnership growth studio
+## High complexity: Partnership Growth Studio
 
 Use this workflow when you need a multi-tier proposal, activation roadmap, and stakeholder engagement plan tailored to corporate partners.
 

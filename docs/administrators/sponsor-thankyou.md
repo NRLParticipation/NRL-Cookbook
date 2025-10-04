@@ -24,7 +24,7 @@ Generate heartfelt thank-you messages that acknowledge sponsor impact and encour
 
 ---
 
-## Low complexity: quick thank-you draft
+## Low complexity: Quick Thank-You Draft
 
 ```text
 Act as an expert community sport donor communications specialist and write a personalised thank you letter for [DONATION_AMOUNT] from [SPONSOR_NAME] to [ORGANISATION_NAME]. Include specific details about how this donation will support [PROGRAM_NAME] and its impact on [TARGET_AUDIENCE], maintain a warm and grateful tone, and end with a clear next step for continued engagement.
@@ -32,7 +32,7 @@ Act as an expert community sport donor communications specialist and write a per
 
 ---
 
-## Medium complexity: structured sponsor letter workflow
+## Medium complexity: Structured Sponsor Letter Workflow
 
 ```text
 # NRL club sponsor/donor thank you letter generator (medium complexity)
@@ -61,7 +61,7 @@ Create a personalised thank-you communication that:
 
 ---
 
-## High complexity: sponsor relationship nurture suite
+## High complexity: Sponsor Relationship Nurture Suite
 
 Use this when you want GPT-5 to orchestrate ongoing recognition, reporting, and upsell pathways for top-tier sponsors.
 

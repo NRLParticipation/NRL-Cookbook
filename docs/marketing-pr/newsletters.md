@@ -24,7 +24,7 @@ Keep members, sponsors, and volunteers engaged with mission-driven updates. When
 
 ---
 
-## Low complexity: newsletter content prompt
+## Low complexity: Newsletter Content Prompt
 
 ```text
 Act as an expert community sport newsletter writer who understands member, sponsor, and volunteer engagement through impact storytelling. Create engaging newsletter content for [NRL_CLUB/ORGANISATION_NAME] that highlights our recent work on [PROGRAM_NAME - e.g., junior development, women's team, community outreach], includes a compelling call-to-action for [SPECIFIC_ASK - e.g., register now, volunteer sign-up, sponsor support, attend event] with a direct link to https://www.playrugbyleague.com, and maintains our club's authentic voice while being accessible to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Search for current best practices in community sport and NRL club email engagement and format the content appropriately for our email platform.
@@ -32,7 +32,7 @@ Act as an expert community sport newsletter writer who understands member, spons
 
 ---
 
-## Medium complexity: structured newsletter workflow
+## Medium complexity: Structured Newsletter Workflow
 
 ```text
 # NRL club newsletter and email campaign content generator (medium complexity)
@@ -61,7 +61,7 @@ Provide the following:
 
 ---
 
-## High complexity: lifecycle email command centre
+## High complexity: Lifecycle Email Command Centre
 
 Use this when you need coordinated newsletter and email journeys, experimentation plans, and analytics governance.
 

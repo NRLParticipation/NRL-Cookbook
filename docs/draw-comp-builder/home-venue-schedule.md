@@ -13,7 +13,7 @@ Plan match-day schedules across multiple fields using venue availability, field 
 
 ---
 
-## Low complexity: quick venue scheduler prompt
+## Low complexity: Quick Venue Scheduler Prompt
 
 ```text
 You are scheduling games for [VENUE_NAME] using the provided list of fixtures. Inputs:
@@ -35,7 +35,7 @@ Steps:
 
 ---
 
-## Medium complexity: structured venue scheduling workflow
+## Medium complexity: Structured Venue Scheduling Workflow
 
 ```text
 # Venue draw builder template (medium complexity)
@@ -73,7 +73,7 @@ You are a competitions officer creating the match day schedule for [VENUE_NAME] 
 
 ---
 
-## High complexity: multi-day venue orchestration
+## High complexity: Multi-Day Venue Orchestration
 
 ```text
 # Venue orchestration template (high complexity)
