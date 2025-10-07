@@ -15,7 +15,7 @@ Review season draws to confirm every club receives a fair balance of home fixtur
 
 ---
 
-## Low complexity: Competition Fairness Prompt
+## Low complexity: Competition fairness prompt
 
 Use this when you have a single draw export and need a fast fairness check with ready-to-share recommendations.
 
@@ -27,7 +27,7 @@ You are a competition administrator reviewing the latest MySideline "Matches Det
 
 ---
 
-## Medium complexity: Competition Fairness Workflow
+## Medium complexity: Competition fairness workflow
 
 Pick this workflow when you can supply a structured draw file and want division-level diagnostics that can be handed to scheduling staff.
 
@@ -78,7 +78,7 @@ Provide the following information:
 
 ---
 
-## High complexity: Competition Equity Orchestrator
+## High complexity: Competition equity orchestrator
 
 Use this option when you must audit multiple draws, integrate venue or travel constraints, and produce a governance-ready change log.
 

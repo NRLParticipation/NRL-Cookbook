@@ -22,7 +22,7 @@ Create web content that converts visitors into participants, volunteers, and sup
 
 ---
 
-## Low complexity: Website Copy Prompt
+## Low complexity: Website copy prompt
 
 ```text
 Act as a community sport communications specialist and create compelling website copy for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative] that clearly explains the program's purpose, impact, and how [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] can participate or benefit. Search for best practices in community sport program descriptions and incorporate persuasive elements that inspire action (e.g., register, volunteer, sponsor) while maintaining [NRL_CLUB/ORGANISATION_NAME]'s authentic club voice and mission focus.
@@ -30,7 +30,7 @@ Act as a community sport communications specialist and create compelling website
 
 ---
 
-## Medium complexity: Structured Website Copy Workflow
+## Medium complexity: Structured website copy workflow
 
 ```text
 # NRL club website copy and program description generator (medium complexity)
@@ -60,7 +60,7 @@ Provide the following content elements:
 
 ---
 
-## High complexity: Web Experience Orchestration Studio
+## High complexity: Web experience orchestration studio
 
 Use this when building multi-section web experiences with SEO strategy, audience variants, and conversion tracking.
 

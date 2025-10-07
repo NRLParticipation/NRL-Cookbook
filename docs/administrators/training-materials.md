@@ -24,7 +24,7 @@ Design engaging workshops that build skills and enthusiasm. The low-complexity p
 
 ---
 
-## Low complexity: Workshop Activity Prompt
+## Low complexity: Workshop activity prompt
 
 ```text
 Act as a community sport training designer and create an engaging, interactive workshop or training activity for [NRL_CLUB/ORGANISATION_NAME] focused on [TOPIC] that achieves the learning objectives of [LEARNING_OBJECTIVES]. Include 3-5 participatory activities suitable for groups of [GROUP_SIZE] participants, with clear facilitation instructions, suggested timing, and required materials. Make the content accessible for [TARGET_AUDIENCE] (e.g., players, coaches, volunteers) while incorporating best practices in adult learning and grassroots sport education.
@@ -32,7 +32,7 @@ Act as a community sport training designer and create an engaging, interactive w
 
 ---
 
-## Medium complexity: Structured Workshop Workflow
+## Medium complexity: Structured workshop workflow
 
 ```text
 # NRL club workshop activity generator (medium complexity)
@@ -67,7 +67,7 @@ For each activity, provide:
 
 ---
 
-## High complexity: Multi-Cohort Training Lab
+## High complexity: Multi-cohort training lab
 
 Use this workflow when you must design an end-to-end training program across multiple cohorts, delivery modes, and evaluation checkpoints.
 

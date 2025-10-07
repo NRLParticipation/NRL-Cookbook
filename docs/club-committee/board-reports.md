@@ -17,7 +17,7 @@ Compile professional board packs that combine metrics, narratives, and action it
 
 ---
 
-## Low complexity: Board Report Prompt
+## Low complexity: Board report prompt
 
 ```text
 Act as a community sport board report specialist and create a comprehensive board report for [NRL_CLUB_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, a financial summary section that clearly labels where to insert updated figures (e.g., "[Add latest finance summary here]"), volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
@@ -25,7 +25,7 @@ Act as a community sport board report specialist and create a comprehensive boar
 
 ---
 
-## Medium complexity: Structured Board Report Workflow
+## Medium complexity: Structured board report workflow
 
 ```text
 # NRL club board report template (medium complexity)
@@ -57,7 +57,7 @@ The board report should follow this structure:
 
 ---
 
-## High complexity: Board Intelligence Command Centre
+## High complexity: Board intelligence command centre
 
 Use this workflow when you must fuse multiple data sources, scenario flags, and decision requests into one briefing.
 

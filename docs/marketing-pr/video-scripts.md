@@ -23,7 +23,7 @@ Turn articles and updates into engaging video narratives. The low-complexity pro
 
 ---
 
-## Low complexity: Video Script Prompt
+## Low complexity: Video script prompt
 
 ```text
 As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]'s written content about [TOPIC] into an engaging video script that captures our mission while being visually compelling. Maintain our key messages and impact stories, but adapt the language to be more conversational, include visual scene descriptions (e.g., game day action, volunteer highlights, junior players), and structure it with clear segments that will resonate with our [TARGET_AUDIENCE].
@@ -31,7 +31,7 @@ As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]
 
 ---
 
-## Medium complexity: Structured Video Script Workflow
+## Medium complexity: Structured video script workflow
 
 ```text
 # NRL club video script conversion template (medium complexity)
@@ -66,7 +66,7 @@ CALL TO ACTION: [Clear next step for viewers - e.g., register, volunteer, attend
 
 ---
 
-## High complexity: Video Story Production Studio
+## High complexity: Video story production studio
 
 Use this when transforming large content sets into multi-segment video scripts with storyboard cues and optimisation notes.
 

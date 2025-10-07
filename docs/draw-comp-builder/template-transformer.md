@@ -12,7 +12,7 @@ Convert a user-defined draw spreadsheet into the MySideline import template, hig
 
 ---
 
-## Low complexity: Quick Template Transformer Prompt
+## Low complexity: Quick template transformer prompt
 
 ```text
 You have a custom draw spreadsheet that needs to match the MySideline import template.
@@ -34,7 +34,7 @@ Steps
 
 ---
 
-## Medium complexity: Structured Template Transformer Workflow
+## Medium complexity: Structured template transformer workflow
 
 ```text
 # Template transformer template (medium complexity)
@@ -66,7 +66,7 @@ You are converting a user-defined draw into the MySideline import template while
 
 ---
 
-## High complexity: Governance-Ready Template Transformer
+## High complexity: Governance-ready template transformer
 
 ```text
 # Template transformer template (high complexity)

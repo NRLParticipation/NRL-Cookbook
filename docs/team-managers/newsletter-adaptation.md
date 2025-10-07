@@ -26,7 +26,7 @@ Turn longer club updates into scroll-stopping social content. Start with the low
 
 ---
 
-## Low complexity: Newsletter-To-Social Prompt
+## Low complexity: Newsletter-to-social prompt
 
 ```text
 You are a community sport social media specialist. Transform the content from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #PlayNRL, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
@@ -34,7 +34,7 @@ You are a community sport social media specialist. Transform the content from [N
 
 ---
 
-## Medium complexity: Structured Adaptation Workflow
+## Medium complexity: Structured adaptation workflow
 
 ```text
 # NRL club newsletter to social media adaptation template (medium complexity)
@@ -66,7 +66,7 @@ For each post, provide:
 
 ---
 
-## High complexity: Newsletter Intelligence Studio
+## High complexity: Newsletter intelligence studio
 
 Use this when you need to transform long-form content into multi-platform campaigns, experiment with messaging variants, and coordinate analytics follow-up.
 

@@ -14,7 +14,7 @@ Use these prompts to build age-appropriate rugby league coaching plans that inco
 
 ---
 
-## Low complexity: Quick Coaching Plan Prompt
+## Low complexity: Quick coaching plan prompt
 
 Ideal when you need a fast session outline tailored to a specific age group and weekly schedule.
 
@@ -28,7 +28,7 @@ Act as an NRL community coach. Using the age range [AGE_RANGE] and [SESSIONS_PER
 
 ---
 
-## Medium complexity: Structured Coaching Plan Workflow
+## Medium complexity: Structured coaching plan workflow
 
 Choose this template when you want a richer, multi-week program that can be shared with assistant coaches and volunteers.
 
@@ -73,7 +73,7 @@ I will provide:
 
 ---
 
-## High complexity: Coaching Strategy Orchestrator
+## High complexity: Coaching strategy orchestrator
 
 Use this workflow when you must integrate athlete monitoring, long-term skill progression, and resource planning for a full season.
 

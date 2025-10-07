@@ -17,7 +17,7 @@ Use these prompts to quality-check grant applications before submission. The low
 
 ---
 
-## Low complexity: Checklist-Based Review Prompt
+## Low complexity: Checklist-based review prompt
 
 Great when you want a fast, copy-ready reviewer prompt that focuses on critical gaps.
 
@@ -27,7 +27,7 @@ Act as a grant application reviewer for [ORGANISATION_NAME] and check if my gran
 
 ---
 
-## Medium complexity: Structured Review Workflow
+## Medium complexity: Structured review workflow
 
 Use this when you want a systematic, section-by-section assessment aligned to your internal review criteria. Share the application files and any required checklists before running the prompt.
 
@@ -58,7 +58,7 @@ Provide your analysis in this format:
 
 ---
 
-## High complexity: Collaborative Grant QA Orchestrator
+## High complexity: Collaborative grant QA orchestrator
 
 Use this when multiple reviewers, attachments, and compliance frameworks must be reconciled before submission.
 

@@ -20,7 +20,7 @@ Showcase a full season of progress with compelling stories and data. The low-com
 
 ---
 
-## Low complexity: Annual Report Prompt
+## Low complexity: Annual report prompt
 
 ```text
 Act as an expert community sport annual report writer and create a comprehensive annual report for [NRL_CLUB_NAME] that highlights our key accomplishments, participation growth, volunteer contributions, financial summary, and impact stories from [YEAR]. Use our mission statement, program data (e.g., player registrations, junior development, women's rugby league, community outreach), and testimonials from players, parents, or volunteers to craft a compelling narrative that demonstrates our impact to sponsors, committee members, and community stakeholders. Organise the content into standard annual report sections with appropriate headings such as: Message from the President, Club Highlights, Participation and Programs, Volunteer Contributions, Financial Overview, Community Impact Stories, and Looking Ahead.
@@ -28,7 +28,7 @@ Act as an expert community sport annual report writer and create a comprehensive
 
 ---
 
-## Medium complexity: Structured Annual Report Workflow
+## Medium complexity: Structured annual report workflow
 
 ```text
 # NRL club annual report and impact summary generator (medium complexity)
@@ -65,7 +65,7 @@ Format with clear headers, bullet points for key statistics, and suggestions for
 
 ---
 
-## High complexity: Annual Impact Studio
+## High complexity: Annual impact studio
 
 Deploy this when you need to integrate multiple data sources, stakeholder stories, and future strategy into a single publication.
 

@@ -27,7 +27,7 @@ Design striking flyers that highlight key details and reflect the club's brand. 
 
 ---
 
-## Low complexity: Flyer Concept Prompt
+## Low complexity: Flyer concept prompt
 
 ```text
 Create a visually compelling event flyer for [EVENT_NAME] hosted by [NRL_CLUB/ORGANISATION_NAME] on [DATE] at [LOCATION], including our [LOGO_DESCRIPTION] and [BRAND_COLORS]. The flyer should highlight our mission to [MISSION_STATEMENT - e.g., grow participation, celebrate volunteers, strengthen community spirit] while appealing to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Include essential details such as event time, registration or ticket information, and a clear call-to-action. Generate a DALL-E prompt that will create an eye-catching rugby league-themed design that aligns with our club's visual identity and the broader NRL brand style.
@@ -35,7 +35,7 @@ Create a visually compelling event flyer for [EVENT_NAME] hosted by [NRL_CLUB/OR
 
 ---
 
-## Medium complexity: Structured Flyer Workflow
+## Medium complexity: Structured flyer workflow
 
 ```text
 # NRL club event flyer and promotional image generator template (medium complexity)
@@ -72,7 +72,7 @@ Additional Design Notes: Any special considerations for accessibility, printing 
 
 ---
 
-## High complexity: Event Creative Command Centre
+## High complexity: Event creative command centre
 
 Use this when you need a comprehensive visual campaign for an event, spanning multiple asset formats, experimentation ideas, and accessibility considerations.
 

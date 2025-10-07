@@ -16,7 +16,7 @@ Turn detailed reports into concise, stakeholder-ready updates. Use the low-compl
 
 ---
 
-## Low complexity: Quick Executive Summary Prompt
+## Low complexity: Quick executive summary prompt
 
 ```text
 Act as an expert community sport report summariser and create a concise executive summary of the [REPORT_TITLE] I will share with you, highlighting key findings, recommendations, and impact metrics that would interest our committee, sponsors, and community stakeholders. Focus on mission-critical information related to [NRL_CLUB/ORGANISATION_NAME]'s goals (e.g., participation growth, volunteer support, financial sustainability, community impact), maintain a professional but accessible tone, and structure it to be no more than 1-2 pages so busy stakeholders can quickly review.
@@ -24,7 +24,7 @@ Act as an expert community sport report summariser and create a concise executiv
 
 ---
 
-## Medium complexity: Structured Summary Workflow
+## Medium complexity: Structured summary workflow
 
 ```text
 # Executive summary generator for NRL club reports (medium complexity)
@@ -60,7 +60,7 @@ Create an executive summary (1-2 pages) with:
 
 ---
 
-## High complexity: Narrative Distillation Control Room
+## High complexity: Narrative distillation control room
 
 Use this when you must ingest multi-report datasets, reconcile contradictions, and generate stakeholder-specific summaries.
 

@@ -17,7 +17,7 @@ Deliver concise program updates tailored to different audiences. The low-complex
 
 ---
 
-## Low complexity: Program Summary Prompt
+## Low complexity: Program summary prompt
 
 ```text
 Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
@@ -25,7 +25,7 @@ Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and creat
 
 ---
 
-## Medium complexity: Structured Program Summary Workflow
+## Medium complexity: Structured program summary workflow
 
 ```text
 # Program summary generator for NRL club stakeholders (medium complexity)
@@ -56,7 +56,7 @@ Create a formatted program summary with these sections:
 
 ---
 
-## High complexity: Stakeholder Impact Briefing Studio
+## High complexity: Stakeholder impact briefing studio
 
 Use this when you must deliver tailored program summaries for multiple stakeholder groups, integrating data, stories, and action requests.
 

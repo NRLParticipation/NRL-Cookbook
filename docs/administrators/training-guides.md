@@ -19,7 +19,7 @@ Capture club knowledge in reusable guides that make onboarding easy. These promp
 
 ---
 
-## Low complexity: Procedure Guide Builder
+## Low complexity: Procedure guide builder
 
 ```text
 Act as a community sport documentation specialist. Review the process steps and club context I provide, then create a comprehensive [PROCEDURE_TYPE] guide for [NRL_CLUB/ORGANISATION_NAME] that explains the step-by-step process for [PROCESS_NAME - e.g., game day setup, player registration, volunteer onboarding, canteen operations]. Include required materials, key stakeholders (e.g., coaches, managers, volunteers), compliance considerations (e.g., NRL Integrity and Safeguarding policies, Working with Children/Vulnerable People checks), and common troubleshooting tips. Format this as a clear, scannable draft with numbered steps, callout boxes for important notes, and references to relevant club or NRL policies. Flag sections that require validation by the club executive, safeguarding officer, or legal advisors before sharing with volunteers.
@@ -27,7 +27,7 @@ Act as a community sport documentation specialist. Review the process steps and 
 
 ---
 
-## Medium complexity: Formal Training Document Workflow
+## Medium complexity: Formal training document workflow
 
 ```text
 # NRL club training and onboarding documentation template (medium complexity)
@@ -59,7 +59,7 @@ Create a formal [DOCUMENT_TYPE] with these sections:
 
 ---
 
-## High complexity: Knowledge Base Automation Flow
+## High complexity: Knowledge base automation flow
 
 Use this when you need to consolidate process notes, compliance requirements, and multimedia resources into a live handbook.
 

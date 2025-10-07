@@ -19,7 +19,7 @@ Craft targeted volunteer outreach that speaks to different roles and audiences. 
 
 ---
 
-## Low complexity: Volunteer Outreach Prompt
+## Low complexity: Volunteer outreach prompt
 
 ```text
 Act as a community sport volunteer communications specialist and create personalised volunteer recruitment and onboarding messages for [NRL_CLUB_NAME], a grassroots rugby league organisation. Highlight our mission to [MISSION_STATEMENT - e.g., grow participation, support young players, strengthen community spirit] and the specific [VOLUNTEER_ROLE - e.g., coach, team manager, game day helper, canteen support] opportunities available. Adapt the tone to appeal to our [TARGET_VOLUNTEER_DEMOGRAPHIC - e.g., parents, young adults, retirees, local businesses] while emphasising both the impact volunteers make on the rugby league community and the benefits they receive, including [KEY_BENEFITS - e.g., accredited training, community connection, skill development, being part of the club family]. Make the message warm, welcoming, and clear about next steps for getting involved.
@@ -27,7 +27,7 @@ Act as a community sport volunteer communications specialist and create personal
 
 ---
 
-## Medium complexity: Personalised Volunteer Journey Workflow
+## Medium complexity: Personalised volunteer journey workflow
 
 ```text
 # NRL club volunteer recruitment and onboarding communications template (medium complexity)
@@ -65,7 +65,7 @@ Provide the personalised communication with:
 
 ---
 
-## High complexity: Volunteer Lifecycle Journey Builder
+## High complexity: Volunteer lifecycle journey builder
 
 Use this to design segmented nurture paths, automated follow-ups, and experimentation hooks for diverse volunteer personas.
 

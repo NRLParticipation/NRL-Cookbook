@@ -23,7 +23,7 @@ This workflow assigns kick-off times and fields across venues while respecting o
 
 ---
 
-## Low complexity: Quick Field Allocation Prompt
+## Low complexity: Quick field allocation prompt
 
 ```text
 You have filtered the MySideline Matches Detail report to the upcoming weekend and need to set times/fields.
@@ -47,7 +47,7 @@ Steps
 
 ---
 
-## Medium complexity: Structured Field Allocation Workflow
+## Medium complexity: Structured field allocation workflow
 
 ```text
 # Field allocation scheduler template (medium complexity)
@@ -81,7 +81,7 @@ You are a competitions officer assigning kick-off times to [WEEKEND_DATE] fixtur
 
 ---
 
-## High complexity: Governance-Ready Field Allocation Orchestrator
+## High complexity: Governance-ready field allocation orchestrator
 
 ```text
 # Field allocation orchestrator template (high complexity)

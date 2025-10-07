@@ -22,7 +22,7 @@ Document clear, actionable safety plans for any situation. Start with the low-co
 
 ---
 
-## Low complexity: Emergency Procedure Prompt
+## Low complexity: Emergency procedure prompt
 
 ```text
 Act as a safety protocol specialist for community sport organisations and create comprehensive emergency procedures for [NRL_CLUB/ORGANISATION_NAME] covering [EMERGENCY_TYPE - e.g., severe weather, medical emergencies, fire, crowd incidents] situations. Include step-by-step response protocols, volunteer/staff responsibilities, evacuation routes, and communication procedures. Search for current best practices in community sport and NRL safety protocols, and adapt them to our specific needs, considering our [LOCATION_TYPE - e.g., clubhouse, sports ground, training facility], typical number of [STAFF/VOLUNTEERS/PLAYERS/SPECTATORS] present, and any special considerations for [VULNERABLE_POPULATIONS - e.g., juniors, people with disabilities] we support. Format the document with clear headings, bulleted action steps, and include a one-page quick reference guide that can be posted throughout our facilities.
@@ -30,7 +30,7 @@ Act as a safety protocol specialist for community sport organisations and create
 
 ---
 
-## Medium complexity: Comprehensive Safety Workflow
+## Medium complexity: Comprehensive safety workflow
 
 ```text
 # NRL club safety protocols and emergency procedures template (medium complexity)
@@ -69,7 +69,7 @@ Provide the complete safety protocol document with:
 
 ---
 
-## High complexity: Integrated Safety Management Suite
+## High complexity: Integrated safety management suite
 
 Use this workflow when you must consolidate multi-venue protocols, regulatory change tracking, and training automation.
 

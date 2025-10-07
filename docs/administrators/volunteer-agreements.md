@@ -18,7 +18,7 @@ Draft volunteer agreements that balance legal protection with community warmth. 
 
 ---
 
-## Low complexity: Volunteer Agreement Prompt
+## Low complexity: Volunteer agreement prompt
 
 ```text
 Act as a community sport legal document specialist and create a comprehensive volunteer agreement for [NRL_CLUB/ORGANISATION_NAME] that includes clear responsibilities, time commitments, confidentiality requirements, child safety expectations, and liability protections. Use [STATE/COUNTRY] legal standards for volunteer relationships and incorporate [NRL_CLUB/ORGANISATION_NAME]'s specific volunteer policies, ensuring the document is both legally sound and aligned with our club's values and mission of [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit]. Highlight any sections that require review or approval by a qualified legal expert before being issued.
@@ -26,7 +26,7 @@ Act as a community sport legal document specialist and create a comprehensive vo
 
 ---
 
-## Medium complexity: Structured Agreement Workflow
+## Medium complexity: Structured agreement workflow
 
 ```text
 # NRL volunteer club agreement and contract template generator (medium complexity)
@@ -64,7 +64,7 @@ Provide the volunteer agreement as a complete document with:
 
 ---
 
-## High complexity: Volunteer Contract Lifecycle Manager
+## High complexity: Volunteer contract lifecycle manager
 
 Use this when you need GPT-5 to build agreement suites, jurisdictional variations, and onboarding automation.
 

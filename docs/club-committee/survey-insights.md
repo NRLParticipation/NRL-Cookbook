@@ -20,7 +20,7 @@ Translate survey responses into narratives that drive action. The low-complexity
 
 ---
 
-## Low complexity: Survey Insights Prompt
+## Low complexity: Survey insights prompt
 
 ```text
 Act as a community sport survey data storyteller who transforms survey results into compelling narratives. Analyse my [SURVEY_DATA] from [PROGRAM_NAME] and create a concise summary that highlights 3-5 key insights, explains their significance to our mission, and suggests 2-3 actionable recommendations tailored for [TARGET_AUDIENCE] (e.g., board members, donors, program participants). Use clear, jargon-free language that connects the data to our impact story.
@@ -28,7 +28,7 @@ Act as a community sport survey data storyteller who transforms survey results i
 
 ---
 
-## Medium complexity: Structured Survey Storytelling Workflow
+## Medium complexity: Structured survey storytelling workflow
 
 ```text
 # NRL club survey results storytelling template (medium complexity)
@@ -57,7 +57,7 @@ Please structure your response as follows:
 
 ---
 
-## High complexity: Insight Storytelling Studio
+## High complexity: Insight storytelling studio
 
 Use this when multiple datasets, conflicting signals, and stakeholder-specific narratives must be woven together.
 

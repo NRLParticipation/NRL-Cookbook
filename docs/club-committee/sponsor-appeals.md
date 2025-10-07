@@ -24,7 +24,7 @@ Strengthen sponsor relationships with letters tailored to their history and inte
 
 ---
 
-## Low complexity: Sponsor Appeal Prompt
+## Low complexity: Sponsor appeal prompt
 
 ```text
 Act as an expert fundraising copywriter who specialises in donor communications for nonprofits. Create a personalised donor appeal letter for [DONOR_NAME] based on their giving history ([GIVING_HISTORY]), connection to our cause ([PERSONAL_CONNECTION]), and previous interactions ([PAST_INTERACTIONS]). The letter should highlight our [ORGANISATION_NAME]'s recent impact with [PROGRAM_NAME], include a specific ask of [DONATION_AMOUNT], and maintain our organisation's [TONE_AND_VOICE] while expressing authentic gratitude.
@@ -32,7 +32,7 @@ Act as an expert fundraising copywriter who specialises in donor communications 
 
 ---
 
-## Medium complexity: Structured Sponsor Appeal Workflow
+## Medium complexity: Structured sponsor appeal workflow
 
 ```text
 # NRL club personalised sponsor and donor appeal letters template (medium complexity)
@@ -65,7 +65,7 @@ Provide a complete, ready-to-send personalised appeal letter that includes:
 
 ---
 
-## High complexity: Sponsor Growth Studio
+## High complexity: Sponsor growth studio
 
 Use this when developing tailored appeal campaigns for multiple sponsor tiers with integrated follow-up strategy.
 

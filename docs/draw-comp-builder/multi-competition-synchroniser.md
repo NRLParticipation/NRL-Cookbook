@@ -17,7 +17,7 @@ This prompt generates companion draws for additional competitions (e.g., reserve
 
 ---
 
-## Low complexity: Quick Multi-Comp Synchroniser Prompt
+## Low complexity: Quick multi-comp synchroniser prompt
 
 ```text
 You have already created the premier competition draw using the Single competition creator. Now schedule additional competitions.
@@ -42,7 +42,7 @@ Steps
 
 ---
 
-## Medium complexity: Structured Multi-Comp Synchroniser Workflow
+## Medium complexity: Structured multi-comp synchroniser workflow
 
 ```text
 # Multi competition synchroniser template (medium complexity)
@@ -80,7 +80,7 @@ You are a competition administrator scheduling supporting competitions so that c
 
 ---
 
-## High complexity: Governance-Ready Multi-Comp Synchroniser
+## High complexity: Governance-ready multi-comp synchroniser
 
 ```text
 # Multi competition synchroniser template (high complexity)

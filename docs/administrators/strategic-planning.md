@@ -16,7 +16,7 @@ Develop long-range plans grounded in community rugby league realities. The low-c
 
 ---
 
-## Low complexity: Three-Year Plan With Scenarios
+## Low complexity: Three-year plan with scenarios
 
 ```text
 Act as a community sport strategic planning consultant for [NRL_CLUB/ORGANISATION_NAME] and help develop a three-year strategic plan with scenario planning. Search the web for current trends in [COMMUNITY_SPORT_FOCUS - e.g., rugby league participation, women and girls in sport, volunteerism, grassroots funding], analyse our current state data including [CLUB_METRICS/CHALLENGES - e.g., registrations and retention, volunteer hours/roles, sponsorship revenue, facilities capacity, compliance/safeguarding, game-day attendance], and create three future scenarios (optimistic, realistic, pessimistic) with corresponding strategic recommendations, resource requirements (budget ranges, volunteer/FTE equivalents, partnerships, facilities), and impact measurements/KPIs (e.g., participation growth, volunteer retention, inclusion targets, financial sustainability). Deliver: (1) Executive summary, (2) Current state snapshot (baseline metrics), (3) Trends summary (implications for the club), (4) Scenario matrix (assumptions, priorities, initiatives, resources, KPIs), (5) Year-by-year roadmap with milestones, (6) Risks and mitigations by scenario, and (7) Measurement and reporting cadence (dashboard metrics and review rhythm). Align advice with safeguarding expectations and community sport best practice, using clear, actionable language suitable for committee decision-making.
@@ -24,7 +24,7 @@ Act as a community sport strategic planning consultant for [NRL_CLUB/ORGANISATIO
 
 ---
 
-## Medium complexity: Structured Strategic Planning Workflow
+## Medium complexity: Structured strategic planning workflow
 
 ```text
 # NRL strategic planning and scenario development template (medium complexity)
@@ -56,7 +56,7 @@ Provide a strategic planning document with:
 
 ---
 
-## High complexity: Scenario Planning Command Suite
+## High complexity: Scenario planning command suite
 
 Use this when you need GPT-5 to orchestrate multi-scenario modelling, stakeholder heatmaps, and implementation governance.
 

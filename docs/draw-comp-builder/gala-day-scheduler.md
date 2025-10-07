@@ -14,7 +14,7 @@ Design school gala day draws with fair matchups and time allocations that can be
 
 ---
 
-## Low complexity: Quick Gala Day Prompt
+## Low complexity: Quick gala day prompt
 
 ```text
 You are organising a school gala day with [NUMBER_OF_SCHOOLS] schools.
@@ -38,7 +38,7 @@ Steps
 
 ---
 
-## Medium complexity: Structured Gala Day Scheduler Workflow
+## Medium complexity: Structured gala day scheduler workflow
 
 ```text
 # Gala day scheduler template (medium complexity)
@@ -71,7 +71,7 @@ You are a competitions officer preparing a gala day draw for [VENUE_NAME] with [
 
 ---
 
-## High complexity: Governance-Ready Gala Day Orchestration
+## High complexity: Governance-ready gala day orchestration
 
 ```text
 # Gala day orchestration template (high complexity)

@@ -28,7 +28,7 @@ Streamline accounts payable tasks with AI support. Use the low-complexity prompt
 
 ---
 
-## Low complexity: Invoice Review Prompt
+## Low complexity: Invoice review prompt
 
 ```text
 Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review the attached invoice PDF, extract key details (vendor name, invoice number, amount, due date), flag any discrepancies with our standard payment terms of [PAYMENT_TERMS], and prepare a summary for approval that includes payment status, vendor history with the club, and any recommended actions (e.g., approve, hold, query).
@@ -36,7 +36,7 @@ Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review 
 
 ---
 
-## Medium complexity: Structured Invoice Workflow
+## Medium complexity: Structured invoice workflow
 
 ```text
 # Invoice processing and vendor management template for NRL (medium complexity)
@@ -80,7 +80,7 @@ VENDOR NOTES
 
 ---
 
-## High complexity: Accounts Payable Control Tower
+## High complexity: Accounts payable control tower
 
 Use this orchestrated prompt to manage multi-vendor pipelines, exception handling, and reporting automation.
 

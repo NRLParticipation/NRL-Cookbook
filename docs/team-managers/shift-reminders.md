@@ -22,7 +22,7 @@ Keep volunteers informed and appreciated. Use the low-complexity prompt for quic
 
 ---
 
-## Low complexity: Shift Reminder Prompt
+## Low complexity: Shift reminder prompt
 
 ```text
 Act as a volunteer coordinator assistant for [NRL_CLUB/ORGANISATION_NAME] and generate personalised volunteer shift reminders for [EVENT_NAME] on [EVENT_DATE]. Include essential details such as shift time, location, parking information, dress code, and coordinator contact information. Adapt the tone to reflect our club's culture (e.g., community-focused, friendly, family-oriented) while keeping messages concise, warm, and actionable.
@@ -30,7 +30,7 @@ Act as a volunteer coordinator assistant for [NRL_CLUB/ORGANISATION_NAME] and ge
 
 ---
 
-## Medium complexity: Structured Reminder Workflow
+## Medium complexity: Structured reminder workflow
 
 ```text
 # NRL club volunteer shift reminder template (medium complexity)
@@ -66,7 +66,7 @@ SMS Version (if requested):
 
 ---
 
-## High complexity: Volunteer Shift Engagement Suite
+## High complexity: Volunteer shift engagement suite
 
 Use this when coordinating complex rosters, multiple communication channels, and dynamic updates for volunteers.
 
