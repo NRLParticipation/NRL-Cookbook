@@ -686,7 +686,7 @@
         <li class="md-nav__item">
   <a href="#low-complexity-competition-fairness-prompt" class="md-nav__link">
     <span class="md-ellipsis">
-      Low complexity: competition fairness prompt
+      Low complexity: Competition Fairness Prompt
     </span>
   </a>
   
@@ -695,7 +695,7 @@
         <li class="md-nav__item">
   <a href="#medium-complexity-competition-fairness-workflow" class="md-nav__link">
     <span class="md-ellipsis">
-      Medium complexity: competition fairness workflow
+      Medium complexity: Competition Fairness Workflow
     </span>
   </a>
   
@@ -704,7 +704,7 @@
         <li class="md-nav__item">
   <a href="#high-complexity-competition-equity-orchestrator" class="md-nav__link">
     <span class="md-ellipsis">
-      High complexity: competition equity orchestrator
+      High complexity: Competition Equity Orchestrator
     </span>
   </a>
   
@@ -2216,7 +2216,7 @@
         <li class="md-nav__item">
   <a href="#low-complexity-competition-fairness-prompt" class="md-nav__link">
     <span class="md-ellipsis">
-      Low complexity: competition fairness prompt
+      Low complexity: Competition Fairness Prompt
     </span>
   </a>
   
@@ -2225,7 +2225,7 @@
         <li class="md-nav__item">
   <a href="#medium-complexity-competition-fairness-workflow" class="md-nav__link">
     <span class="md-ellipsis">
-      Medium complexity: competition fairness workflow
+      Medium complexity: Competition Fairness Workflow
     </span>
   </a>
   
@@ -2234,7 +2234,7 @@
         <li class="md-nav__item">
   <a href="#high-complexity-competition-equity-orchestrator" class="md-nav__link">
     <span class="md-ellipsis">
-      High complexity: competition equity orchestrator
+      High complexity: Competition Equity Orchestrator
     </span>
   </a>
   
@@ -2268,14 +2268,14 @@
 </ul>
 <p>Review season draws to confirm every club receives a fair balance of home fixtures, travel, byes, and divisional matchups before the competition begins.</p>
 <hr />
-<h2 id="low-complexity-competition-fairness-prompt">Low complexity: competition fairness prompt</h2>
+<h2 id="low-complexity-competition-fairness-prompt">Low complexity: Competition Fairness Prompt</h2>
 <p>Use this when you have a single draw export and need a fast fairness check with ready-to-share recommendations.</p>
 <pre><code class="language-text">You are a competition administrator reviewing the latest MySideline &quot;Matches Detail&quot; export (columns include `Competition Season`, `Competition Name`, `Pool Name`, `Round Type`, `Round Number`, `Venue`, `Date &amp; Time`, `Home Team`, `Away Team`, plus `Bye` and `Tba` flags) to check whether divisions are fair. Start by acknowledging the administrator's [AUDIT_FOCUS_ITEMS] so your assessment targets the areas they care about (e.g., home/away balance, bye spacing, travel load, finals preparation). Treat each row as a scheduled fixture and ignore entries flagged as byes (`Bye = 'BYE'` or `Home Team`/`Away Team` missing) or placeholders (`Tba = 'TBA'`). Using the remaining data, count how many home and away games each team has, check how many byes each team has and whether they are fairly shared, and make sure each team is playing all the other teams in their `Pool Name` (division) and note how often. When discussing travel, state that detailed distance analysis may be limited because the export only contains venue names, not full addresses, and note any data gaps that prevent deeper review. Respond with two outputs:
 1. **Chat Summary** – 3-4 sentences highlighting the biggest fairness issues, data gaps, and the recommended next action for administrators.
 2. **CSV Export Set** – Provide a short instruction line telling the user they can copy each CSV block into its own `.csv` file (or paste into Excel using Data → From Text/CSV), then supply three CSV code blocks labelled `TeamBreakdown`, `DivisionSummary`, and `Recommendations`. Each block should include column headers and rows formatted as comma-separated values.
 </code></pre>
 <hr />
-<h2 id="medium-complexity-competition-fairness-workflow">Medium complexity: competition fairness workflow</h2>
+<h2 id="medium-complexity-competition-fairness-workflow">Medium complexity: Competition Fairness Workflow</h2>
 <p>Pick this workflow when you can supply a structured draw file and want division-level diagnostics that can be handed to scheduling staff.</p>
 <pre><code class="language-text"># Competition fairness review template (medium complexity)
 
@@ -2321,7 +2321,7 @@ Provide the following information:
 &lt;/OUTPUT&gt;
 </code></pre>
 <hr />
-<h2 id="high-complexity-competition-equity-orchestrator">High complexity: competition equity orchestrator</h2>
+<h2 id="high-complexity-competition-equity-orchestrator">High complexity: Competition Equity Orchestrator</h2>
 <p>Use this option when you must audit multiple draws, integrate venue or travel constraints, and produce a governance-ready change log.</p>
 <pre><code class="language-text"># Competition equity audit template (high complexity)
 
