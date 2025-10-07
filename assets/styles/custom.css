@@ -9,6 +9,23 @@
   top: 0.6rem;
 }
 
+:root {
+  --md-primary-fg-color: #007239;
+  --md-primary-fg-color--light: #338e60;
+  --md-primary-fg-color--dark: #005b2e;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #007239;
+  --md-primary-fg-color--light: #338e60;
+  --md-primary-fg-color--dark: #005b2e;
+}
+
+.md-header,
+.md-tabs {
+  background-color: #007239;
+}
+
 @media (max-width: 600px) {
   .md-typeset .md-code__button {
     left: -2rem;
