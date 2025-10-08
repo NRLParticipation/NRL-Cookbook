@@ -104,7 +104,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/
       name: GitHub
-  footer: |
-    Need support using the cookbook? Visit <a href="https://support.playrugbyleague.com" target="_blank" rel="noopener">support.playrugbyleague.com</a>.
+  footer: Need support using the cookbook? Visit <a href="https://support.playrugbyleague.com" target="_blank" rel="noopener">support.playrugbyleague.com</a>.
 extra_css:
   - assets/styles/custom.css
