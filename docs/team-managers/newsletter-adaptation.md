@@ -29,7 +29,7 @@ Turn longer club updates into scroll-stopping social content. Start with the low
 ## Low complexity: Newsletter-to-social prompt
 
 ```text
-You are a community sport social media specialist. Transform the content from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #PlayNRL, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
+You are a community sport social media specialist. Transform the content from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #playrugbyleague, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
 ```
 
 ---
@@ -49,7 +49,7 @@ You are a community sport social media specialist who excels at adapting longer 
    - Captures the essence of the original message in a concise, engaging way.
    - Includes a compelling hook or question to drive interaction.
    - Incorporates our club's mission language and community impact focus.
-   - Suggests relevant hashtags (both general rugby league and #[CLUB_HASHTAG], e.g., #PlayNRL, #RugbyLeagueFamily).
+   - Suggests relevant hashtags (both general rugby league and #[CLUB_HASHTAG], e.g., #playrugbyleague, #RugbyLeagueFamily).
    - Recommends image or visual ideas that would complement the post (e.g., game day action shots, volunteer spotlights, junior teams).
 3. Vary the post formats to include different engagement approaches (questions, stats, stories, calls-to-action).
 </STEPS>
