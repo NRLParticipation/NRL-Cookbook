@@ -6,6 +6,14 @@
 - [Getting started](overview/getting-started.md) – understand how the guide is structured and what each complexity level offers.
 - [How to use the guide](overview/using-the-guide.md) – follow best practices, safety tips, and first-time AI workflows.
 
+## Responsible Use of AI
+- Protect confidential or personal data
+- Keep a human in the loop for important work
+- Watch for bias and perspective
+- Seek expert review for legal, medical, or financial advice
+- Use Search or Deep Research for up-to-date answers
+- Be transparent when you use ChatGPT
+
 ## Choose your role
 Use the navigation menu or the table below to jump straight into the prompts that match your responsibilities.
 
