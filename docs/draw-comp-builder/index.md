@@ -6,6 +6,7 @@ Use the shortcuts below to jump into the prompt that suits your scenario.
 | --- | --- |
 | [Home venue schedule builder](home-venue-schedule.md) | Build a schedule for all games at your venue so multiple fields and operating windows are balanced. |
 | [Season calendar planner](season-calendar-planner.md) | Plan start dates, regular-season length, and finals timing while analysing holiday gaps across team-count scenarios. |
+| [Competition fairness assessment](competition-fairness-assessment.md) | Audit draws for fairness across divisions, home/away balance, bye spacing, and travel considerations. |
 | [Single competition creator](competition-upload-planner.md) | Generate a fair premier competition draw ready for MySideline import (circular rotation, equal byes, constrained fixtures). |
 | [Multi competition synchroniser](multi-competition-synchroniser.md) | Align supporting competitions with the premier draw so clubs play together and fairness metrics stay balanced. |
 | [Field allocation scheduler](field-allocation-scheduler.md) | Assign TBD match times/fields for a specific weekend using official duration rules and admin sequencing preferences. |

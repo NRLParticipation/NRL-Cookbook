@@ -12,7 +12,6 @@ nav:
   - Administrators:
       - Client service communications: administrators/client-communications.md
       - Coach accreditation reminder templates: administrators/coach-accreditation-reminders.md
-      - Competition fairness assessment: administrators/competition-fairness-assessment.md
       - Executive summaries: administrators/executive-summaries.md
       - Grant application review: administrators/grant-review.md
       - Grant writing: administrators/grant-writing.md
@@ -63,6 +62,7 @@ nav:
       - Volunteer shift reminders: team-managers/shift-reminders.md
   - Draw/Comp builder:
       - Overview: draw-comp-builder/index.md
+      - Competition fairness assessment: draw-comp-builder/competition-fairness-assessment.md
       - Home venue schedule builder: draw-comp-builder/home-venue-schedule.md
       - Season calendar planner: draw-comp-builder/season-calendar-planner.md
       - Single competition creator: draw-comp-builder/competition-upload-planner.md
