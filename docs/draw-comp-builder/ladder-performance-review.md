@@ -1,6 +1,6 @@
 # Ladder performance review templates
 
-**Category:** Administrators  
+**Category:** Draw/Comp builder
 **Template type:** Interactive content creation
 
 **Collect these inputs before you start:**

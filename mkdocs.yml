@@ -16,7 +16,6 @@ nav:
       - Grant application review: administrators/grant-review.md
       - Grant writing: administrators/grant-writing.md
       - Invoice processing and vendor management: administrators/invoice-processing.md
-      - Ladder performance review: administrators/ladder-performance-review.md
       - Membership registration and reminders: administrators/membership-renewals.md
       - Player recruitment strategy: administrators/player-recruitment-strategy.md
       - Presentation slide designs: administrators/presentation-design.md
@@ -62,6 +61,7 @@ nav:
       - Volunteer shift reminders: team-managers/shift-reminders.md
   - Draw/Comp builder:
       - Overview: draw-comp-builder/index.md
+      - Ladder performance review: draw-comp-builder/ladder-performance-review.md
       - Competition fairness assessment: draw-comp-builder/competition-fairness-assessment.md
       - Home venue schedule builder: draw-comp-builder/home-venue-schedule.md
       - Season calendar planner: draw-comp-builder/season-calendar-planner.md
