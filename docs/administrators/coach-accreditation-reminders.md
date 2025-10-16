@@ -3,19 +3,11 @@
 **Category:** Administrators  
 **Template type:** Compliance communications
 
-**Collect these inputs before you start:**
+Collect these inputs before you start: 
 
-- [COACH_NAME]
-- [PROGRAM_NAME]
-- [COURSE_NAME]
-- [DEADLINE_DATE]
-- [CONTACT_EMAIL/PHONE]
-- [NRL_CLUB/ORGANISATION_NAME]
-- [LEAGUE_POLICY_REFERENCE]
-- [NUMBER_OF_COACHES]
+[ACCREDITATION NAME]
+[DEADLINE_DATE]
 
-
-Support club compliance by nudging coaches who still need to complete or provide accreditation details.
 
 ---
 
