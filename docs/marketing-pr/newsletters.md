@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME - e.g., junior development, women's team, community outreach]
 - [SPECIFIC_ASK - e.g., register now, volunteer sign-up, sponsor support, attend event]
 - [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]
@@ -27,7 +27,7 @@ Keep members, sponsors, and volunteers engaged with mission-driven updates. When
 ## Low complexity: Newsletter content prompt
 
 ```text
-Act as an expert community sport newsletter writer who understands member, sponsor, and volunteer engagement through impact storytelling. Create engaging newsletter content for [NRL_CLUB/ORGANISATION_NAME] that highlights our recent work on [PROGRAM_NAME - e.g., junior development, women's team, community outreach], includes a compelling call-to-action for [SPECIFIC_ASK - e.g., register now, volunteer sign-up, sponsor support, attend event] with a direct link to https://www.playrugbyleague.com, and maintains our club's authentic voice while being accessible to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Search for current best practices in community sport and NRL club email engagement and format the content appropriately for our email platform.
+Act as an expert community sport newsletter writer who understands member, sponsor, and volunteer engagement through impact storytelling. Create engaging newsletter content for [Rugby_League_Club/ORGANISATION_NAME] that highlights our recent work on [PROGRAM_NAME - e.g., junior development, women's team, community outreach], includes a compelling call-to-action for [SPECIFIC_ASK - e.g., register now, volunteer sign-up, sponsor support, attend event] with a direct link to https://www.playrugbyleague.com, and maintains our club's authentic voice while being accessible to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Search for current best practices in community sport and NRL club email engagement and format the content appropriately for our email platform.
 ```
 
 ---
@@ -38,15 +38,15 @@ Act as an expert community sport newsletter writer who understands member, spons
 # NRL club newsletter and email campaign content generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport communications specialist who understands how to craft engaging, mission-aligned content that resonates with players, families, volunteers, and sponsors. Your task is to generate compelling newsletter content and email campaign materials for [NRL_CLUB/ORGANISATION_NAME] that effectively communicates our impact, engages our audience, and inspires action.
+You are an experienced community sport communications specialist who understands how to craft engaging, mission-aligned content that resonates with players, families, volunteers, and sponsors. Your task is to generate compelling newsletter content and email campaign materials for [Rugby_League_Club/ORGANISATION_NAME] that effectively communicates our impact, engages our audience, and inspires action.
 </ROLE_AND_GOAL>
 
 <STEPS>
 Create [CONTENT_TYPE - e.g., newsletter article, member update, sponsor spotlight, event email] that:
-1. Aligns with [NRL_CLUB/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit].
+1. Aligns with [Rugby_League_Club/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, supporting volunteers, strengthening community spirit].
 2. Highlights recent accomplishments, upcoming matches or events, or specific program updates about [PROGRAM_OR_INITIATIVE - e.g., junior development, women's rugby league, community outreach].
 3. Incorporates a clear call-to-action for [TARGET_AUDIENCE - e.g., register now, volunteer sign-up, attend event, sponsor support], pointing readers to https://www.playrugbyleague.com for registrations when relevant.
-4. Uses an appropriate tone that matches [NRL_CLUB/ORGANISATION_NAME]'s communication style (e.g., warm, family-friendly, professional, celebratory).
+4. Uses an appropriate tone that matches [Rugby_League_Club/ORGANISATION_NAME]'s communication style (e.g., warm, family-friendly, professional, celebratory).
 5. Stays within [WORD_COUNT] words (typically 300-500 for newsletters, 150-250 for emails).
 </STEPS>
 
@@ -55,7 +55,7 @@ Provide the following:
 1. **Subject line/headline options** - Three to five variations.
 2. **Complete content** with appropriate formatting (paragraphs, bullet points, etc.).
 3. **Call-to-action statement**.
-4. **Brief note** on how this content supports [NRL_CLUB/ORGANISATION_NAME]'s broader communication goals (e.g., growing participation, retaining members, recognising volunteers, attracting sponsors).
+4. **Brief note** on how this content supports [Rugby_League_Club/ORGANISATION_NAME]'s broader communication goals (e.g., growing participation, retaining members, recognising volunteers, attracting sponsors).
 </OUTPUT>
 ```
 
@@ -69,7 +69,7 @@ Use this when you need coordinated newsletter and email journeys, experimentatio
 # NRL email campaign orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Community Engagement Lead for [NRL_CLUB/ORGANISATION_NAME], creating a multi-touch campaign around [PROGRAM_OR_INITIATIVE]. Engage [TARGET_AUDIENCE] segments, highlight impact stories, and drive [PRIMARY_ACTION] while reinforcing [MISSION_STATEMENT].
+You are the Community Engagement Lead for [Rugby_League_Club/ORGANISATION_NAME], creating a multi-touch campaign around [PROGRAM_OR_INITIATIVE]. Engage [TARGET_AUDIENCE] segments, highlight impact stories, and drive [PRIMARY_ACTION] while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

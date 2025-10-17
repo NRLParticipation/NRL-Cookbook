@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative]
 - [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]
 - [TONE - warm/professional/family-friendly/inspiring]
@@ -25,7 +25,7 @@ Create web content that converts visitors into participants, volunteers, and sup
 ## Low complexity: Website copy prompt
 
 ```text
-Act as a community sport communications specialist and create compelling website copy for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative] that clearly explains the program's purpose, impact, and how [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] can participate or benefit. Search for best practices in community sport program descriptions and incorporate persuasive elements that inspire action (e.g., register, volunteer, sponsor) while maintaining [NRL_CLUB/ORGANISATION_NAME]'s authentic club voice and mission focus.
+Act as a community sport communications specialist and create compelling website copy for [Rugby_League_Club/ORGANISATION_NAME]'s [PROGRAM_NAME - e.g., junior development program, women's rugby league team, community outreach initiative] that clearly explains the program's purpose, impact, and how [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] can participate or benefit. Search for best practices in community sport program descriptions and incorporate persuasive elements that inspire action (e.g., register, volunteer, sponsor) while maintaining [Rugby_League_Club/ORGANISATION_NAME]'s authentic club voice and mission focus.
 ```
 
 ---
@@ -36,15 +36,15 @@ Act as a community sport communications specialist and create compelling website
 # NRL club website copy and program description generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport communications specialist who excels at creating compelling, mission-aligned website copy and program descriptions that engage diverse stakeholders while clearly communicating impact. Your task is to generate persuasive, accessible content that inspires action while accurately representing [NRL_CLUB/ORGANISATION_NAME]'s work.
+You are an experienced community sport communications specialist who excels at creating compelling, mission-aligned website copy and program descriptions that engage diverse stakeholders while clearly communicating impact. Your task is to generate persuasive, accessible content that inspires action while accurately representing [Rugby_League_Club/ORGANISATION_NAME]'s work.
 </ROLE_AND_GOAL>
 
 <STEPS>
-Create compelling website copy or program descriptions for [NRL_CLUB/ORGANISATION_NAME] that effectively communicates the club's mission, impact, and offerings to [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]. The content should be:
+Create compelling website copy or program descriptions for [Rugby_League_Club/ORGANISATION_NAME] that effectively communicates the club's mission, impact, and offerings to [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors]. The content should be:
 1. Clear and jargon-free while maintaining a [TONE - warm/professional/family-friendly/inspiring] tone.
 2. Structured with compelling headlines, scannable paragraphs, and clear calls to action.
 3. Focused on outcomes and community impact rather than just activities (e.g., growing participation, building pathways, supporting volunteers).
-4. Aligned with [NRL_CLUB/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., strengthening community spirit through rugby league].
+4. Aligned with [Rugby_League_Club/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., strengthening community spirit through rugby league].
 5. Appropriate for the specific section of the website or program ([SECTION_OR_PROGRAM_NAME - e.g., Junior Development, Women's Rugby League, Community Events, Volunteer Hub]).
 </STEPS>
 
@@ -68,7 +68,7 @@ Use this when building multi-section web experiences with SEO strategy, audience
 # NRL website copy orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Digital Experience Lead for [NRL_CLUB/ORGANISATION_NAME], refreshing the [SECTION_OR_PROGRAM_NAME] section to engage [TARGET_AUDIENCE] and drive [PRIMARY_CTA - e.g., register, volunteer, donate]. Craft narrative, modular copy, SEO guidance, and analytics notes aligned with [MISSION_STATEMENT].
+You are the Digital Experience Lead for [Rugby_League_Club/ORGANISATION_NAME], refreshing the [SECTION_OR_PROGRAM_NAME] section to engage [TARGET_AUDIENCE] and drive [PRIMARY_CTA - e.g., register, volunteer, donate]. Craft narrative, modular copy, SEO guidance, and analytics notes aligned with [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

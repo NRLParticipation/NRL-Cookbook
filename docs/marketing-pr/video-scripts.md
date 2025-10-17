@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [TOPIC]
 - [TARGET_AUDIENCE]
 - [Suggested title]
@@ -26,7 +26,7 @@ Turn articles and updates into engaging video narratives. The low-complexity pro
 ## Low complexity: Video script prompt
 
 ```text
-As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]'s written content about [TOPIC] into an engaging video script that captures our mission while being visually compelling. Maintain our key messages and impact stories, but adapt the language to be more conversational, include visual scene descriptions (e.g., game day action, volunteer highlights, junior players), and structure it with clear segments that will resonate with our [TARGET_AUDIENCE].
+As a community sport video script expert, transform [Rugby_League_Club/ORGANISATION_NAME]'s written content about [TOPIC] into an engaging video script that captures our mission while being visually compelling. Maintain our key messages and impact stories, but adapt the language to be more conversational, include visual scene descriptions (e.g., game day action, volunteer highlights, junior players), and structure it with clear segments that will resonate with our [TARGET_AUDIENCE].
 ```
 
 ---
@@ -37,7 +37,7 @@ As a community sport video script expert, transform [NRL_CLUB/ORGANISATION_NAME]
 # NRL club video script conversion template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a community sport video script specialist who excels at transforming written content into engaging, concise video scripts that highlight grassroots rugby league impact. Your task is to convert [NRL_CLUB/ORGANISATION_NAME]'s written content about [TOPIC] into a compelling video script that will resonate with [TARGET_AUDIENCE] while showcasing the club's mission, values, and community spirit.
+You are a community sport video script specialist who excels at transforming written content into engaging, concise video scripts that highlight grassroots rugby league impact. Your task is to convert [Rugby_League_Club/ORGANISATION_NAME]'s written content about [TOPIC] into a compelling video script that will resonate with [TARGET_AUDIENCE] while showcasing the club's mission, values, and community spirit.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -45,7 +45,7 @@ You are a community sport video script specialist who excels at transforming wri
 2. Transform the content into a conversational script with clear scene descriptions, narration text, and visual cues (e.g., match day action, training, volunteers, community events).
 3. Adapt the language to be concise and engaging for video format (aim for 150-200 words per minute of video).
 4. Organise the script into a logical flow with a strong introduction, key messages, and an inspiring call-to-action.
-5. Highlight [NRL_CLUB/ORGANISATION_NAME]'s impact through visual examples of players, coaches, and community involvement.
+5. Highlight [Rugby_League_Club/ORGANISATION_NAME]'s impact through visual examples of players, coaches, and community involvement.
 </STEPS>
 
 <OUTPUT>
@@ -74,7 +74,7 @@ Use this when transforming large content sets into multi-segment video scripts w
 # NRL video storytelling orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Video Content Director for [NRL_CLUB/ORGANISATION_NAME], adapting written materials about [TOPIC] into an engaging video series targeting [TARGET_AUDIENCE]. Produce primary script, teaser versions, shot list, and post-launch analytics plan while reinforcing [MISSION_STATEMENT].
+You are the Video Content Director for [Rugby_League_Club/ORGANISATION_NAME], adapting written materials about [TOPIC] into an engaging video series targeting [TARGET_AUDIENCE]. Produce primary script, teaser versions, shot list, and post-launch analytics plan while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

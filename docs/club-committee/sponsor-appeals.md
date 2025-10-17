@@ -13,7 +13,7 @@
 - [PROGRAM_NAME]
 - [DONATION_AMOUNT]
 - [TONE_AND_VOICE]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [SIGNER_NAME]
 - [SIGNER_TITLE - e.g., Club President, Fundraising Coordinator]
 - [DONOR_SEGMENT]
@@ -38,7 +38,7 @@ Act as an expert fundraising copywriter who specialises in donor communications 
 # NRL club personalised sponsor and donor appeal letters template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport fundraising specialist for [NRL_CLUB/ORGANISATION_NAME], skilled at crafting personalised sponsor and donor communications that reflect each supporter's giving history, interests, and relationship with our club. Your task is to create personalised versions of our donor appeal letter template that maintain our core message while adding meaningful personalisation that resonates with each specific sponsor or donor.
+You are an experienced community sport fundraising specialist for [Rugby_League_Club/ORGANISATION_NAME], skilled at crafting personalised sponsor and donor communications that reflect each supporter's giving history, interests, and relationship with our club. Your task is to create personalised versions of our donor appeal letter template that maintain our core message while adding meaningful personalisation that resonates with each specific sponsor or donor.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -55,7 +55,7 @@ Using the donor appeal letter template I will provide and the supporter informat
 <OUTPUT>
 Provide a complete, ready-to-send personalised appeal letter that includes:
 1. Personalised greeting.
-2. Customised opening that acknowledges their relationship with [NRL_CLUB/ORGANISATION_NAME].
+2. Customised opening that acknowledges their relationship with [Rugby_League_Club/ORGANISATION_NAME].
 3. Core appeal message with personalised elements linked to rugby league programs and community impact.
 4. Specific ask amount or package appropriate to this sponsor or donor.
 5. Personalised closing.
@@ -73,7 +73,7 @@ Use this when developing tailored appeal campaigns for multiple sponsor tiers wi
 # NRL personalised sponsor campaign orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Partnerships Strategist for [NRL_CLUB/ORGANISATION_NAME], crafting bespoke appeal packages for [DONOR_SEGMENT] supporters. Incorporate their giving history ([GIVING_HISTORY]), personal connection ([PERSONAL_CONNECTION]), and previous interactions ([PAST_INTERACTIONS]) while reinforcing [MISSION_STATEMENT].
+You are the Partnerships Strategist for [Rugby_League_Club/ORGANISATION_NAME], crafting bespoke appeal packages for [DONOR_SEGMENT] supporters. Incorporate their giving history ([GIVING_HISTORY]), personal connection ([PERSONAL_CONNECTION]), and previous interactions ([PAST_INTERACTIONS]) while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

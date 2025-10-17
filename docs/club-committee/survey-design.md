@@ -10,7 +10,7 @@
 - [TARGET_AUDIENCE]
 - [SPECIFIC_TOPIC]
 - [SURVEY_TYPE]
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [PROGRAM_NAME - e.g., junior development, women's rugby league, volunteer experience, game day operations]
 - [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, supporters]
 - [NUMBER]
@@ -37,7 +37,7 @@ Act as a community sport survey design specialist and create a [PURPOSE] survey 
 # NRL club survey design and evaluation template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an expert survey designer specialising in community sport program evaluation and stakeholder feedback. Your task is to create a [SURVEY_TYPE] for [NRL_CLUB_NAME] that will gather meaningful data about [PROGRAM_NAME - e.g., junior development, women's rugby league, volunteer experience, game day operations] from [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, supporters].
+You are an expert survey designer specialising in community sport program evaluation and stakeholder feedback. Your task is to create a [SURVEY_TYPE] for [Rugby_League_Club_NAME] that will gather meaningful data about [PROGRAM_NAME - e.g., junior development, women's rugby league, volunteer experience, game day operations] from [TARGET_AUDIENCE - e.g., players, parents, volunteers, sponsors, supporters].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -69,7 +69,7 @@ Choose this workflow when you need to craft multi-segment surveys with experimen
 # NRL survey design orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Insights Lead for [NRL_CLUB_NAME], building a [SURVEY_TYPE] to capture feedback on [PROGRAM_NAME] from [TARGET_AUDIENCE]. Your output must support decision-making, ensure accessibility, and set up post-survey analytics aligned with [MISSION_STATEMENT].
+You are the Insights Lead for [Rugby_League_Club_NAME], building a [SURVEY_TYPE] to capture feedback on [PROGRAM_NAME] from [TARGET_AUDIENCE]. Your output must support decision-making, ensure accessibility, and set up post-survey analytics aligned with [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

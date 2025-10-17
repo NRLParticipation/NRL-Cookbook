@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [EMERGENCY_TYPE - e.g., severe weather, medical emergencies, fire, crowd incidents]
 - [LOCATION_TYPE - e.g., clubhouse, sports ground, training facility]
 - [STAFF/VOLUNTEERS/PLAYERS/SPECTATORS]
@@ -25,7 +25,7 @@ Document clear, actionable safety plans for any situation. Start with the low-co
 ## Low complexity: Emergency procedure prompt
 
 ```text
-Act as a safety protocol specialist for community sport organisations and create comprehensive emergency procedures for [NRL_CLUB/ORGANISATION_NAME] covering [EMERGENCY_TYPE - e.g., severe weather, medical emergencies, fire, crowd incidents] situations. Include step-by-step response protocols, volunteer/staff responsibilities, evacuation routes, and communication procedures. Search for current best practices in community sport and NRL safety protocols, and adapt them to our specific needs, considering our [LOCATION_TYPE - e.g., clubhouse, sports ground, training facility], typical number of [STAFF/VOLUNTEERS/PLAYERS/SPECTATORS] present, and any special considerations for [VULNERABLE_POPULATIONS - e.g., juniors, people with disabilities] we support. Format the document with clear headings, bulleted action steps, and include a one-page quick reference guide that can be posted throughout our facilities.
+Act as a safety protocol specialist for community sport organisations and create comprehensive emergency procedures for [Rugby_League_Club/ORGANISATION_NAME] covering [EMERGENCY_TYPE - e.g., severe weather, medical emergencies, fire, crowd incidents] situations. Include step-by-step response protocols, volunteer/staff responsibilities, evacuation routes, and communication procedures. Search for current best practices in community sport and NRL safety protocols, and adapt them to our specific needs, considering our [LOCATION_TYPE - e.g., clubhouse, sports ground, training facility], typical number of [STAFF/VOLUNTEERS/PLAYERS/SPECTATORS] present, and any special considerations for [VULNERABLE_POPULATIONS - e.g., juniors, people with disabilities] we support. Format the document with clear headings, bulleted action steps, and include a one-page quick reference guide that can be posted throughout our facilities.
 ```
 
 ---
@@ -36,7 +36,7 @@ Act as a safety protocol specialist for community sport organisations and create
 # NRL club safety protocols and emergency procedures template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced safety and emergency management specialist with expertise in developing clear, actionable safety protocols for community sport organisations. Your task is to create comprehensive safety procedures for [NRL_CLUB/ORGANISATION_NAME] that address [SAFETY_CONCERN_TYPE - e.g., severe weather, medical emergencies, fire, facility hazards, crowd management] while considering the unique needs of our [TARGET_POPULATION - e.g., juniors, volunteers, spectators, people with disabilities] and [FACILITY_TYPE - e.g., clubhouse, training field, sports ground].
+You are an experienced safety and emergency management specialist with expertise in developing clear, actionable safety protocols for community sport organisations. Your task is to create comprehensive safety procedures for [Rugby_League_Club/ORGANISATION_NAME] that address [SAFETY_CONCERN_TYPE - e.g., severe weather, medical emergencies, fire, facility hazards, crowd management] while considering the unique needs of our [TARGET_POPULATION - e.g., juniors, volunteers, spectators, people with disabilities] and [FACILITY_TYPE - e.g., clubhouse, training field, sports ground].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -57,7 +57,7 @@ You are an experienced safety and emergency management specialist with expertise
 
 <OUTPUT>
 Provide the complete safety protocol document with:
-1. **Title:** [SAFETY_CONCERN_TYPE] safety protocol for [NRL_CLUB/ORGANISATION_NAME]
+1. **Title:** [SAFETY_CONCERN_TYPE] safety protocol for [Rugby_League_Club/ORGANISATION_NAME]
 2. **Table of contents**
 3. Clearly numbered sections with headers
 4. Bulleted lists for action steps
@@ -77,7 +77,7 @@ Use this workflow when you must consolidate multi-venue protocols, regulatory ch
 # NRL safety and emergency orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Head of Safety for [NRL_CLUB/ORGANISATION_NAME], coordinating protocols for [FACILITY_SET - e.g., clubhouse, training field, stadium, community events]. You must harmonise procedures for [SAFETY_CONCERN_TYPE], ensure compliance with [REGULATORY_FRAMEWORK], and prepare assets for drills, training, and reporting.
+You are the Head of Safety for [Rugby_League_Club/ORGANISATION_NAME], coordinating protocols for [FACILITY_SET - e.g., clubhouse, training field, stadium, community events]. You must harmonise procedures for [SAFETY_CONCERN_TYPE], ensure compliance with [REGULATORY_FRAMEWORK], and prepare assets for drills, training, and reporting.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

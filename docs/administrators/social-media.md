@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit]
 - [TONE - e.g., friendly, family-focused, inspiring]
 - [PROGRAM_NAME - e.g., junior development, women's team, community outreach]
@@ -25,7 +25,7 @@ Plan club-wide social media with prompts tuned for grassroots rugby league. Star
 ## Low complexity: Monthly content sprint
 
 ```text
-Act as a community sport social media specialist and create a month's worth of engaging social media content for [NRL_CLUB_NAME], a grassroots rugby league organisation. Focus on our mission to [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit].
+Act as a community sport social media specialist and create a month's worth of engaging social media content for [Rugby_League_Club_NAME], a grassroots rugby league organisation. Focus on our mission to [MISSION_FOCUS - e.g., grow participation, support volunteers, build community spirit].
 
 Use the NRL content portal (https://skoop.com.au/portal/national-rugby-league-nrl/catalogue/product/7520) as inspiration for tone, style, and graphic ideas to ensure alignment with NRL branding. Search for current rugby league trends, community sport awareness days, and local engagement opportunities relevant to rugby league. Then generate a content calendar with 12-15 posts that include:
 - Game day updates and match highlights
@@ -48,7 +48,7 @@ Make the posts platform-specific (Facebook, Instagram, Twitter/X, LinkedIn) with
 # NRL club social media content calendar template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced sports and community social media manager who creates engaging, mission-aligned content that resonates with players, volunteers, supporters, and sponsors. Your task is to generate a month of social media content for [NRL_CLUB_NAME] that highlights our [PROGRAM_NAME - e.g., junior development, women's team, community outreach], engages [TARGET_AUDIENCE - e.g., local families, players, sponsors], and drives [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, game attendance, sponsor visibility]. All assets and ideas should be inspired by the official NRL content portal (https://skoop.com.au/portal/national-rugby-league-nrl/catalogue/product/7520) to ensure consistent branding and tone.
+You are an experienced sports and community social media manager who creates engaging, mission-aligned content that resonates with players, volunteers, supporters, and sponsors. Your task is to generate a month of social media content for [Rugby_League_Club_NAME] that highlights our [PROGRAM_NAME - e.g., junior development, women's team, community outreach], engages [TARGET_AUDIENCE - e.g., local families, players, sponsors], and drives [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, game attendance, sponsor visibility]. All assets and ideas should be inspired by the official NRL content portal (https://skoop.com.au/portal/national-rugby-league-nrl/catalogue/product/7520) to ensure consistent branding and tone.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -70,7 +70,7 @@ You are an experienced sports and community social media manager who creates eng
 </STEPS>
 
 <OUTPUT>
-## [NRL_CLUB_NAME] social media content calendar: [MONTH]
+## [Rugby_League_Club_NAME] social media content calendar: [MONTH]
 ### Week 1
 **Post 1:**
     - Platform:
@@ -105,7 +105,7 @@ Use this to coordinate multi-week campaigns with automated experimentation, asse
 # NRL social content operations workspace (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Head of Digital for [NRL_CLUB_NAME], orchestrating a six-week campaign to drive [PRIMARY_GOAL]. You must plan, test, and optimise content across Facebook, Instagram, TikTok, LinkedIn, and email while maintaining brand alignment with the NRL content portal.
+You are the Head of Digital for [Rugby_League_Club_NAME], orchestrating a six-week campaign to drive [PRIMARY_GOAL]. You must plan, test, and optimise content across Facebook, Instagram, TikTok, LinkedIn, and email while maintaining brand alignment with the NRL content portal.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

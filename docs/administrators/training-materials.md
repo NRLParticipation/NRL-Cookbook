@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [TOPIC]
 - [LEARNING_OBJECTIVES]
 - [GROUP_SIZE]
@@ -27,7 +27,7 @@ Design engaging workshops that build skills and enthusiasm. The low-complexity p
 ## Low complexity: Workshop activity prompt
 
 ```text
-Act as a community sport training designer and create an engaging, interactive workshop or training activity for [NRL_CLUB/ORGANISATION_NAME] focused on [TOPIC] that achieves the learning objectives of [LEARNING_OBJECTIVES]. Include 3-5 participatory activities suitable for groups of [GROUP_SIZE] participants, with clear facilitation instructions, suggested timing, and required materials. Make the content accessible for [TARGET_AUDIENCE] (e.g., players, coaches, volunteers) while incorporating best practices in adult learning and grassroots sport education.
+Act as a community sport training designer and create an engaging, interactive workshop or training activity for [Rugby_League_Club/ORGANISATION_NAME] focused on [TOPIC] that achieves the learning objectives of [LEARNING_OBJECTIVES]. Include 3-5 participatory activities suitable for groups of [GROUP_SIZE] participants, with clear facilitation instructions, suggested timing, and required materials. Make the content accessible for [TARGET_AUDIENCE] (e.g., players, coaches, volunteers) while incorporating best practices in adult learning and grassroots sport education.
 ```
 
 ---
@@ -38,7 +38,7 @@ Act as a community sport training designer and create an engaging, interactive w
 # NRL club workshop activity generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an expert workshop facilitator and material designer for community sport and rugby league clubs. Your task is to create engaging, participatory learning activities for [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that will effectively teach [TARGET_AUDIENCE] about [LEARNING_TOPIC] while keeping them actively engaged and connected to the values of rugby league.
+You are an expert workshop facilitator and material designer for community sport and rugby league clubs. Your task is to create engaging, participatory learning activities for [Rugby_League_Club/ORGANISATION_NAME]'s [PROGRAM_NAME] that will effectively teach [TARGET_AUDIENCE] about [LEARNING_TOPIC] while keeping them actively engaged and connected to the values of rugby league.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -75,7 +75,7 @@ Use this workflow when you must design an end-to-end training program across mul
 # NRL training material orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Learning and Development Director for [NRL_CLUB/ORGANISATION_NAME], tasked with building a comprehensive program on [LEARNING_TOPIC] for [TARGET_AUDIENCE] spanning [TIME_FRAME]. The material must blend in-person workshops, digital modules, and on-field practice while reinforcing [MISSION_STATEMENT].
+You are the Learning and Development Director for [Rugby_League_Club/ORGANISATION_NAME], tasked with building a comprehensive program on [LEARNING_TOPIC] for [TARGET_AUDIENCE] spanning [TIME_FRAME]. The material must blend in-person workshops, digital modules, and on-field practice while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [FINANCIAL_YEAR]
 - [REVENUE_SOURCES]
 - [EXPENSE_CATEGORIES]
@@ -21,7 +21,7 @@ Use these prompts to prepare an annual rugby league club budget that balances pa
 Use this when you need a fast draft for committee review.
 
 ```text
-Act as a community sport finance advisor. Build an annual budget outline for [NRL_CLUB/ORGANISATION_NAME] covering [FINANCIAL_YEAR]. Use the following revenue streams: [REVENUE_SOURCES], and expenses: [EXPENSE_CATEGORIES]. Provide:
+Act as a community sport finance advisor. Build an annual budget outline for [Rugby_League_Club/ORGANISATION_NAME] covering [FINANCIAL_YEAR]. Use the following revenue streams: [REVENUE_SOURCES], and expenses: [EXPENSE_CATEGORIES]. Provide:
 - Summary table of projected income versus expenditure
 - Notes on cashflow pinch points across the season
 - Two cost-saving or fundraising ideas aligned with club culture
@@ -38,7 +38,7 @@ Pick this template when you have detailed inputs and want a committee-ready work
 # Annual club budget template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are the Treasurer for [NRL_CLUB/ORGANISATION_NAME]. Develop a detailed budget for [FINANCIAL_YEAR] that supports participation growth, complies with governance obligations, and maintains cash reserves.
+You are the Treasurer for [Rugby_League_Club/ORGANISATION_NAME]. Develop a detailed budget for [FINANCIAL_YEAR] that supports participation growth, complies with governance obligations, and maintains cash reserves.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -83,7 +83,7 @@ Deploy this workflow when you need multi-scenario forecasts, sensitivity testing
 # Comprehensive club budgeting template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Chief Financial Steward for [NRL_CLUB/ORGANISATION_NAME], preparing a three-year financial strategy centred on [MISSION_STATEMENT]. Deliver a compliant budget pack that supports strategic initiatives, risk management, and stakeholder transparency.
+You are the Chief Financial Steward for [Rugby_League_Club/ORGANISATION_NAME], preparing a three-year financial strategy centred on [MISSION_STATEMENT]. Deliver a compliant budget pack that supports strategic initiatives, risk management, and stakeholder transparency.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

@@ -5,10 +5,10 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [DATE]
 - [SPECIFIC_TOPICS]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME]
 - [MISSION_STATEMENT]
 
@@ -20,7 +20,7 @@ Compile professional board packs that combine metrics, narratives, and action it
 ## Low complexity: Board report prompt
 
 ```text
-Act as a community sport board report specialist and create a comprehensive board report for [NRL_CLUB_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, a financial summary section that clearly labels where to insert updated figures (e.g., "[Add latest finance summary here]"), volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
+Act as a community sport board report specialist and create a comprehensive board report for [Rugby_League_Club_NAME]'s upcoming committee meeting on [DATE]. Include sections for game day and competition updates, junior and senior program highlights, a financial summary section that clearly labels where to insert updated figures (e.g., "[Add latest finance summary here]"), volunteer and player participation metrics, and upcoming initiatives based on the information I provide about [SPECIFIC_TOPICS]. Format the report with clear headings, bullet points for key takeaways, and a professional tone suitable for committee members with varying familiarity with rugby league operations.
 ```
 
 ---
@@ -31,7 +31,7 @@ Act as a community sport board report specialist and create a comprehensive boar
 # NRL club board report template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced sports communications specialist who excels at synthesising club activities and operations into clear, concise board reports that highlight key metrics, achievements, challenges, and strategic considerations. Your task is to create a professional board report for [NRL_CLUB/ORGANISATION_NAME] that will inform committee members about recent rugby league activities and guide effective decision-making.
+You are an experienced sports communications specialist who excels at synthesising club activities and operations into clear, concise board reports that highlight key metrics, achievements, challenges, and strategic considerations. Your task is to create a professional board report for [Rugby_League_Club/ORGANISATION_NAME] that will inform committee members about recent rugby league activities and guide effective decision-making.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -65,7 +65,7 @@ Use this workflow when you must fuse multiple data sources, scenario flags, and 
 # NRL board operations orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Chief of Staff for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering a board-ready intelligence pack for the upcoming meeting on [DATE]. Synthesise program data, finance metrics, risk updates, and strategic decisions while keeping the narrative aligned with our mission of [MISSION_STATEMENT].
+You are the Chief of Staff for [Rugby_League_Club/ORGANISATION_NAME], responsible for delivering a board-ready intelligence pack for the upcoming meeting on [DATE]. Synthesise program data, finance metrics, risk updates, and strategic decisions while keeping the narrative aligned with our mission of [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

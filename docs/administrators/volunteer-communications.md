@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [MISSION_STATEMENT - e.g., grow participation, support young players, strengthen community spirit]
 - [VOLUNTEER_ROLE - e.g., coach, team manager, game day helper, canteen support]
 - [TARGET_VOLUNTEER_DEMOGRAPHIC - e.g., parents, young adults, retirees, local businesses]
@@ -22,7 +22,7 @@ Craft targeted volunteer outreach that speaks to different roles and audiences. 
 ## Low complexity: Volunteer outreach prompt
 
 ```text
-Act as a community sport volunteer communications specialist and create personalised volunteer recruitment and onboarding messages for [NRL_CLUB_NAME], a grassroots rugby league organisation. Highlight our mission to [MISSION_STATEMENT - e.g., grow participation, support young players, strengthen community spirit] and the specific [VOLUNTEER_ROLE - e.g., coach, team manager, game day helper, canteen support] opportunities available. Adapt the tone to appeal to our [TARGET_VOLUNTEER_DEMOGRAPHIC - e.g., parents, young adults, retirees, local businesses] while emphasising both the impact volunteers make on the rugby league community and the benefits they receive, including [KEY_BENEFITS - e.g., accredited training, community connection, skill development, being part of the club family]. Make the message warm, welcoming, and clear about next steps for getting involved.
+Act as a community sport volunteer communications specialist and create personalised volunteer recruitment and onboarding messages for [Rugby_League_Club_NAME], a grassroots rugby league organisation. Highlight our mission to [MISSION_STATEMENT - e.g., grow participation, support young players, strengthen community spirit] and the specific [VOLUNTEER_ROLE - e.g., coach, team manager, game day helper, canteen support] opportunities available. Adapt the tone to appeal to our [TARGET_VOLUNTEER_DEMOGRAPHIC - e.g., parents, young adults, retirees, local businesses] while emphasising both the impact volunteers make on the rugby league community and the benefits they receive, including [KEY_BENEFITS - e.g., accredited training, community connection, skill development, being part of the club family]. Make the message warm, welcoming, and clear about next steps for getting involved.
 ```
 
 ---
@@ -33,7 +33,7 @@ Act as a community sport volunteer communications specialist and create personal
 # NRL club volunteer recruitment and onboarding communications template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a volunteer coordinator and communications specialist for [NRL_CLUB_NAME], skilled at creating engaging, personalised communications that inspire action and make volunteers feel valued. Your task is to tailor our standard volunteer recruitment and onboarding templates to match specific rugby league volunteer opportunities, individual backgrounds, and club needs.
+You are a volunteer coordinator and communications specialist for [Rugby_League_Club_NAME], skilled at creating engaging, personalised communications that inspire action and make volunteers feel valued. Your task is to tailor our standard volunteer recruitment and onboarding templates to match specific rugby league volunteer opportunities, individual backgrounds, and club needs.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -50,7 +50,7 @@ Using our standard template content and the specific variables I provide, create
 2. Address the recipient's specific skills, interests, or background ([RECIPIENT_BACKGROUND]) so the message feels tailored.
 3. Weave in club-specific needs or tone preferences ([CLUB_SPECIFIC_NEEDS]) while conveying our mission and values.
 4. Include clear next steps and calls to action (e.g., how to sign up, who to contact, what to bring on their first day).
-5. Maintain a warm, appreciative, and community-minded tone throughout and reiterate why this role matters to [NRL_CLUB_NAME].
+5. Maintain a warm, appreciative, and community-minded tone throughout and reiterate why this role matters to [Rugby_League_Club_NAME].
 </STEPS>
 
 <OUTPUT>
@@ -73,7 +73,7 @@ Use this to design segmented nurture paths, automated follow-ups, and experiment
 # Volunteer journey orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Volunteer Experience Lead for [NRL_CLUB_NAME]. Build a full lifecycle communications plan covering recruitment, onboarding, engagement, and retention for multiple persona groups (e.g., parents, alumni players, corporate teams). Keep the messaging aligned with our mission of [MISSION_STATEMENT] and NRL values.
+You are the Volunteer Experience Lead for [Rugby_League_Club_NAME]. Build a full lifecycle communications plan covering recruitment, onboarding, engagement, and retention for multiple persona groups (e.g., parents, alumni players, corporate teams). Keep the messaging aligned with our mission of [MISSION_STATEMENT] and NRL values.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
