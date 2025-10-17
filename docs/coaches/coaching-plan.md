@@ -19,11 +19,11 @@ Use these prompts to build age-appropriate rugby league coaching plans that inco
 Ideal when you need a fast session outline tailored to a specific age group and weekly schedule.
 
 ```text
-Act as an NRL community coach. Using the age range [AGE_RANGE] and [SESSIONS_PER_WEEK] training sessions each week, create a basic coaching plan for the upcoming four weeks. Reference suitable drills and safety points from https://www.playrugbyleague.com/coach/coaching-resources/. Provide:
-- Weekly focus areas (skills, conditioning, game sense)
-- Two or three recommended drills per session with brief instructions
-- Key coaching cues and safety checks
-- Simple equipment list
+"Act as an NRL community coach. Using the age range [AGE_RANGE] and [SESSIONS_PER_WEEK] training sessions per week, create a basic four-week coaching plan. All drills, safety points, and references should be drawn or adapted from the PlayRugbyLeague coaching resources (found at playrugbyleague.com/coach/coaching-resources). Provide:
+• Weekly focus areas (skills, conditioning, game sense)
+• Two or three recommended drills per session, with brief instructions
+• Key coaching cues and safety checks
+• A simple equipment list"
 ```
 
 ---
