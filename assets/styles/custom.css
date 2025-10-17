@@ -101,7 +101,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.35rem 0.9rem;
+  padding: 0.35rem 1.4rem;
   border-radius: 999px;
   background-color: var(--md-primary-fg-color);
   color: #ffffff;
@@ -109,6 +109,7 @@
   font-size: 0.85rem;
   width: auto;
   height: auto;
+  min-width: 8rem;
 }
 
 .md-social__link--text:hover,
@@ -120,4 +121,5 @@
 
 .md-social__label {
   line-height: 1;
+  white-space: nowrap;
 }
