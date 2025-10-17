@@ -36,7 +36,7 @@ Choose this template when you have some data or stakeholder input and need a reu
 # Volunteer recruitment and retention template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are the Volunteer Experience Lead for [Rugby_League_Club/ORGANISATION_NAME]. Build a 6-12 month strategy that recruits new volunteers, keeps current volunteers engaged, and aligns with NRL integrity and safeguarding expectations.
+You are the Volunteer Experience Lead for [Rugby_League_Club/ORGANISATION_NAME]. Build a 6–12 month strategy that recruits new volunteers, keeps current volunteers engaged, and aligns with our club’s integrity, inclusion, and wellbeing standards.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -58,7 +58,7 @@ I will provide:
 
 <CONSTRAINTS>
 - Use plain language suitable for volunteer-led committees.
-- Ensure recommendations reflect safeguarding and inclusion requirements.
+- Ensure recommendations reflect inclusion and integrity requirements.
 - Highlight any dependencies (budget, approvals, technology).
 </CONSTRAINTS>
 
