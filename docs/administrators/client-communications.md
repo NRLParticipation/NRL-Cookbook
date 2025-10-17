@@ -23,7 +23,7 @@ Personalise member, volunteer, and sponsor follow-ups with ease. Use the low-com
 ## Low complexity: Personalised follow-up prompt
 
 ```text
-Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [Rugby_League_Club/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details or sensitive data are included.
+Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, general payment or contribution details if applicable], maintain [Rugby_League_Club/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details, amounts, or sensitive data are included.
 ```
 
 ---
