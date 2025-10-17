@@ -52,19 +52,21 @@ I will provide:
 2. Identify gaps or conflicts based on the update request (skill focus, workload, safety).
 3. Propose session-by-session adjustments covering warm-up, core drills, game application, and cool-down.
 4. Suggest alternative drills or resources from https://www.playrugbyleague.com/coach/coaching-resources/.
-5. Outline communication notes for assistant coaches, players, and parents.
-6. Provide a monitoring checklist to track the impact of the changes.
+5. Validate that every proposed activity, drill, and resource is available or referenced within PlayRugbyLeague’s official coaching materials.
+6. Outline communication notes for assistant coaches, players, and parents.
+7. Provide a monitoring checklist to track the impact of the changes.
 </STEPS>
 
 <CONSTRAINTS>
+- **All activities, drills, and references must come exclusively from PlayRugbyLeague’s official coaching resources** (https://www.playrugbyleague.com/coach/coaching-resources/).
 - Keep language concise for volunteer coaches.
-- Ensure modifications respect age-appropriate contact guidelines.
+- Ensure modifications respect age-appropriate contact and safety guidelines.
 - Highlight any items requiring manual approval (e.g., medical clearances).
 </CONSTRAINTS>
 
 <OUTPUT>
 - Summary of retained goals and adjustments
-- Updated session outlines with new drills or timings
+- Updated session outlines with PlayRugbyLeague-referenced drills or timings
 - Coaching cues, safety notes, and equipment updates
 - Communication plan for stakeholders
 - Monitoring checklist
