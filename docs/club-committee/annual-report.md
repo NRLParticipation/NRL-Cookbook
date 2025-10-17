@@ -62,7 +62,3 @@ Produce a **structured public annual report** with these sections:
 Format with clear headers, bullet points for key statistics, and suggestions for publicly shareable visuals (e.g., community events, volunteer photos, player celebrations). Ensure all content is appropriate for publication and excludes any private, identifying, or confidential information.
 </OUTPUT>
 ```
-
----
-
-Looking for design-ready layouts or infographics? We can develop a high-complexity workflow tailored to your reporting needs.
