@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [MEMBERSHIP_TYPE - e.g., player, family, supporter]
 - [PARTICIPANT_TYPE - adult or child]
 - [REGISTRATION_DEADLINE]
@@ -24,7 +24,7 @@ Keep registrations on track with friendly, retention-focused reminders. The low-
 ## Low complexity: Registration reminder series
 
 ```text
-Act as a membership coordinator for [NRL_CLUB/ORGANISATION_NAME] and create a series of personalised registration and retention messages for our [MEMBERSHIP_TYPE - e.g., player, family, supporter] members who have not yet registered for the upcoming season starting on [SEASON_START_DATE]. Use the participant type [PARTICIPANT_TYPE - adult or child] to tailor tone and benefits. Deliver:
+Act as a membership coordinator for [Rugby_League_Club/ORGANISATION_NAME] and create a series of personalised registration and retention messages for our [MEMBERSHIP_TYPE - e.g., player, family, supporter] members who have not yet registered for the upcoming season starting on [SEASON_START_DATE]. Use the participant type [PARTICIPANT_TYPE - adult or child] to tailor tone and benefits. Deliver:
 - Three escalating registration reminder emails (six weeks before [REGISTRATION_DEADLINE], three weeks before, and the final week) that highlight recent achievements from [RECENT_ACCOMPLISHMENT - e.g., junior participation growth, new facilities, community events], include clear payment instructions with [PAYMENT_OPTIONS], and direct recipients to register at https://www.playrugbyleague.com.
 - A dedicated reactivation email aimed at families who have not returned this season, referencing [PARTICIPANT_TYPE] needs (e.g., training times, safeguarding, flexible fees), celebrating the club’s impact, and guiding them to https://www.playrugbyleague.com to complete registration.
 - Two follow-up SMS prompts reinforcing that annual registration is required at https://www.playrugbyleague.com and offering support if they need help.
@@ -39,7 +39,7 @@ Keep the tone warm, community-led, and focused on welcoming members back.
 # NRL club membership registration reminder template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a Membership Coordinator for [NRL_CLUB/ORGANISATION_NAME], responsible for maintaining strong relationships with members and ensuring everyone registers each season. Your task is to create personalised, effective registration reminder communications that maintain a friendly, community-focused tone while clearly conveying important information.
+You are a Membership Coordinator for [Rugby_League_Club/ORGANISATION_NAME], responsible for maintaining strong relationships with members and ensuring everyone registers each season. Your task is to create personalised, effective registration reminder communications that maintain a friendly, community-focused tone while clearly conveying important information.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -89,7 +89,7 @@ Deploy this prompt when you need automated sequences, segmentation experiments, 
 # NRL membership registration lifecycle automation (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Membership Growth Manager for [NRL_CLUB/ORGANISATION_NAME], managing registrations for [MEMBERSHIP_TYPE]. Your objective is to increase registrations by [RETENTION_TARGET]% while highlighting impact stories rooted in [MISSION_STATEMENT] and directing families to https://www.playrugbyleague.com.
+You are the Membership Growth Manager for [Rugby_League_Club/ORGANISATION_NAME], managing registrations for [MEMBERSHIP_TYPE]. Your objective is to increase registrations by [RETENTION_TARGET]% while highlighting impact stories rooted in [MISSION_STATEMENT] and directing families to https://www.playrugbyleague.com.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

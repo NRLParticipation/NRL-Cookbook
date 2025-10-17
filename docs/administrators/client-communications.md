@@ -10,7 +10,7 @@
 - [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement]
 - [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]
 - [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [CLUB_VALUES - e.g., teamwork, respect, inclusivity, community spirit]
 - [AUDIENCE_SET - e.g., new members, volunteers, sponsors]
 - [CLUB_TONE]
@@ -23,7 +23,7 @@ Personalise member, volunteer, and sponsor follow-ups with ease. Use the low-com
 ## Low complexity: Personalised follow-up prompt
 
 ```text
-Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [NRL_CLUB/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details or sensitive data are included.
+Act as a community sport member communications specialist and personalise this [TEMPLATE_TYPE - e.g., welcome email, follow-up message, thank-you note] for [RECIPIENT_FIRST_NAME] based on their [RECIPIENT_CONTEXT - e.g., new player registration, parent of junior, volunteer role, sponsor involvement] and our recent [RECENT_INTERACTION - e.g., registration assistance, training session, sponsor package]. Include relevant follow-up information about [NEXT_STEPS - e.g., upcoming games, orientation session, volunteer briefing, payment confirmation], maintain [Rugby_League_Club/ORGANISATION_NAME]'s warm and community-focused tone, and ensure all information stays generic enough that no personal contact details or sensitive data are included.
 ```
 
 ---
@@ -34,7 +34,7 @@ Act as a community sport member communications specialist and personalise this [
 # Member and volunteer communications template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a community sport communications specialist for [NRL_CLUB/ORGANISATION_NAME], responsible for creating personalised follow-up communications that strengthen our relationship with members, volunteers, players, and sponsors while efficiently delivering important information.
+You are a community sport communications specialist for [Rugby_League_Club/ORGANISATION_NAME], responsible for creating personalised follow-up communications that strengthen our relationship with members, volunteers, players, and sponsors while efficiently delivering important information.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -42,7 +42,7 @@ You are a community sport communications specialist for [NRL_CLUB/ORGANISATION_N
 2. Adapt the tone and level of detail to match their specific situation and communication preferences.
 3. Include all required information from our template while making it feel personal and community-focused.
 4. Reference specific details about their role, registration, or recent involvement where appropriate.
-5. Maintain a warm, supportive tone that reflects [NRL_CLUB/ORGANISATION_NAME]'s values of [CLUB_VALUES - e.g., teamwork, respect, inclusivity, community spirit].
+5. Maintain a warm, supportive tone that reflects [Rugby_League_Club/ORGANISATION_NAME]'s values of [CLUB_VALUES - e.g., teamwork, respect, inclusivity, community spirit].
 </STEPS>
 
 <OUTPUT>
@@ -65,7 +65,7 @@ Use this when you must coordinate multi-touch, multi-channel follow-ups across m
 # Member and volunteer communications orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Community Engagement Manager for [NRL_CLUB/ORGANISATION_NAME]. Build a communications plan covering follow-ups for [AUDIENCE_SET - e.g., new members, volunteers, sponsors] about [SERVICE_PROVIDED]. Ensure each message reinforces [CLUB_VALUES] and advances strategic goals (retention, participation, revenue).
+You are the Community Engagement Manager for [Rugby_League_Club/ORGANISATION_NAME]. Build a communications plan covering follow-ups for [AUDIENCE_SET - e.g., new members, volunteers, sponsors] about [SERVICE_PROVIDED]. Ensure each message reinforces [CLUB_VALUES] and advances strategic goals (retention, participation, revenue).
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

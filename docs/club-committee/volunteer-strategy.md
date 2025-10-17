@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [TARGET_AUDIENCE - e.g., parents, alumni, local businesses]
 - [MISSION_STATEMENT]
 
@@ -19,7 +19,7 @@ Use these prompts to design club-wide strategies that attract, onboard, and reta
 Ideal when you need a fast framework to brief committee members or volunteers on next steps.
 
 ```text
-Act as a community sport strategy advisor. Develop a volunteer recruitment and retention plan for [NRL_CLUB/ORGANISATION_NAME] focused on [TARGET_AUDIENCE - e.g., parents, alumni, local businesses]. Provide:
+Act as a community sport strategy advisor. Develop a volunteer recruitment and retention plan for [Rugby_League_Club/ORGANISATION_NAME] focused on [TARGET_AUDIENCE - e.g., parents, alumni, local businesses]. Provide:
 - Three recruitment channels with key messages and simple calls to action
 - A 30-day onboarding checklist for new volunteers
 - Two retention ideas that celebrate and support existing volunteers
@@ -36,7 +36,7 @@ Choose this template when you have some data or stakeholder input and need a reu
 # Volunteer recruitment and retention template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are the Volunteer Experience Lead for [NRL_CLUB/ORGANISATION_NAME]. Build a 6-12 month strategy that recruits new volunteers, keeps current volunteers engaged, and aligns with NRL integrity and safeguarding expectations.
+You are the Volunteer Experience Lead for [Rugby_League_Club/ORGANISATION_NAME]. Build a 6-12 month strategy that recruits new volunteers, keeps current volunteers engaged, and aligns with NRL integrity and safeguarding expectations.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -81,7 +81,7 @@ Use this workflow to coordinate multiple data sources, stakeholder inputs, and l
 # Comprehensive volunteer strategy template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Community Engagement Director for [NRL_CLUB/ORGANISATION_NAME], accountable for delivering a three-year volunteer growth and retention strategy that meets [MISSION_STATEMENT] and NRL safeguarding standards.
+You are the Community Engagement Director for [Rugby_League_Club/ORGANISATION_NAME], accountable for delivering a three-year volunteer growth and retention strategy that meets [MISSION_STATEMENT] and NRL safeguarding standards.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

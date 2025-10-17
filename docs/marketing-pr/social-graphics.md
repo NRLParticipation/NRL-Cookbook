@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact]
 - [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]
 - [WORD_COUNT]
@@ -24,7 +24,7 @@ Design scroll-stopping visuals that reinforce club values. The low-complexity pr
 ## Low complexity: Graphic concept prompt
 
 ```text
-Act as a community sport social media designer and create a compelling social media graphic or quote card for [NRL_CLUB/ORGANISATION_NAME] that highlights [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact] for our [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]. Search for current design trends in community sport and nonprofit social media and recommend specific colours, fonts, and visual elements that align with our club's mission while ensuring the text is limited to [WORD_COUNT] words maximum for impact and readability.
+Act as a community sport social media designer and create a compelling social media graphic or quote card for [Rugby_League_Club/ORGANISATION_NAME] that highlights [KEY_MESSAGE - e.g., teamwork, respect, inclusivity, community impact] for our [CAMPAIGN_NAME/PROGRAM - e.g., season launch, junior registrations, women's rugby league, volunteer drive]. Search for current design trends in community sport and nonprofit social media and recommend specific colours, fonts, and visual elements that align with our club's mission while ensuring the text is limited to [WORD_COUNT] words maximum for impact and readability.
 ```
 
 ---
@@ -35,7 +35,7 @@ Act as a community sport social media designer and create a compelling social me
 # NRL club social media graphics and quote cards template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a community sport visual content specialist who creates engaging, club-aligned social media graphics and quote cards that inspire action while maintaining brand consistency. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create compelling visual content that resonates with [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] and drives engagement around [PROGRAM_NAME/CAMPAIGN - e.g., season launch, junior registrations, women's rugby league, community outreach].
+You are a community sport visual content specialist who creates engaging, club-aligned social media graphics and quote cards that inspire action while maintaining brand consistency. Your task is to help [Rugby_League_Club/ORGANISATION_NAME] create compelling visual content that resonates with [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] and drives engagement around [PROGRAM_NAME/CAMPAIGN - e.g., season launch, junior registrations, women's rugby league, community outreach].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -64,7 +64,7 @@ Apply this workflow when you need a full suite of graphics across platforms, exp
 # NRL social visuals orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Creative Lead for [NRL_CLUB/ORGANISATION_NAME], developing visual assets for [PROGRAM_NAME/CAMPAIGN]. Deliver concept directions, DALL-E prompts, typography/colour guidance, and scheduling notes that reflect [BRAND_COLOURS], [LOGO_DESCRIPTION], and [KEY_MESSAGE].
+You are the Creative Lead for [Rugby_League_Club/ORGANISATION_NAME], developing visual assets for [PROGRAM_NAME/CAMPAIGN]. Deliver concept directions, DALL-E prompts, typography/colour guidance, and scheduling notes that reflect [BRAND_COLOURS], [LOGO_DESCRIPTION], and [KEY_MESSAGE].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

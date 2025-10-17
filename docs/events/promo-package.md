@@ -6,7 +6,7 @@
 **Collect these inputs before you start:**
 
 - [EVENT_NAME]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [EVENT_DATE]
 - [TARGET_AUDIENCE - e.g., families, players, sponsors, local community]
 - [EVENT_DATE_TIME]
@@ -41,7 +41,7 @@ Launch events with cohesive messaging across channels. The low-complexity prompt
 ## Low complexity: Promotional package prompt
 
 ```text
-Act as a community sport event marketing specialist and create compelling promotional materials for [EVENT_NAME] hosted by [NRL_CLUB/ORGANISATION_NAME] on [EVENT_DATE]. Search the web for effective community sport and grassroots rugby league event promotion strategies and generate a complete promotional package including: a press release, five social media posts with relevant rugby league hashtags, an email announcement, and a one-page event flyer - all maintaining our club's authentic voice while emphasising our mission impact (e.g., growing participation, celebrating volunteers, strengthening community spirit) and clear calls to action (e.g., register, attend, support).
+Act as a community sport event marketing specialist and create compelling promotional materials for [EVENT_NAME] hosted by [Rugby_League_Club/ORGANISATION_NAME] on [EVENT_DATE]. Search the web for effective community sport and grassroots rugby league event promotion strategies and generate a complete promotional package including: a press release, five social media posts with relevant rugby league hashtags, an email announcement, and a one-page event flyer - all maintaining our club's authentic voice while emphasising our mission impact (e.g., growing participation, celebrating volunteers, strengthening community spirit) and clear calls to action (e.g., register, attend, support).
 ```
 
 ---
@@ -52,7 +52,7 @@ Act as a community sport event marketing specialist and create compelling promot
 # NRL club event promotional materials template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport event marketing specialist who creates compelling promotional materials that drive attendance and engagement while reflecting club values. Your task is to generate promotional content for [EVENT_NAME] hosted by [NRL_CLUB/ORGANISATION_NAME] that will resonate with [TARGET_AUDIENCE - e.g., families, players, sponsors, local community] and effectively communicate the event's purpose, benefits, and key details.
+You are an experienced community sport event marketing specialist who creates compelling promotional materials that drive attendance and engagement while reflecting club values. Your task is to generate promotional content for [EVENT_NAME] hosted by [Rugby_League_Club/ORGANISATION_NAME] that will resonate with [TARGET_AUDIENCE - e.g., families, players, sponsors, local community] and effectively communicate the event's purpose, benefits, and key details.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -71,7 +71,7 @@ Use the following information to customise the content:
 - Target audience: [TARGET_AUDIENCE]
 - Key speakers/activities: [KEY_ACTIVITIES - e.g., games, clinics, awards, guest speakers]
 - Registration information: [REGISTRATION_DETAILS]
-- Club mission: [NRL_CLUB/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, strengthening community spirit].
+- Club mission: [Rugby_League_Club/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, celebrating volunteers, strengthening community spirit].
 </STEPS>
 
 <OUTPUT>
@@ -117,7 +117,7 @@ Use this when you require a strategic event campaign across owned, earned, and p
 # NRL event campaign orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Event Marketing Director for [NRL_CLUB/ORGANISATION_NAME], launching [EVENT_NAME] on [EVENT_DATE_TIME] at [EVENT_LOCATION]. Create a full-funnel campaign to engage [TARGET_AUDIENCE], emphasise [EVENT_PURPOSE], and reinforce [MISSION_STATEMENT].
+You are the Event Marketing Director for [Rugby_League_Club/ORGANISATION_NAME], launching [EVENT_NAME] on [EVENT_DATE_TIME] at [EVENT_LOCATION]. Create a full-funnel campaign to engage [TARGET_AUDIENCE], emphasise [EVENT_PURPOSE], and reinforce [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

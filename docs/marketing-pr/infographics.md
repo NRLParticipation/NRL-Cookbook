@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME]
 - [TARGET_AUDIENCE]
 - [COLOR1]
@@ -23,7 +23,7 @@ Turn program data into visual stories. The low-complexity prompt outlines a quic
 ## Low complexity: Infographic concept prompt
 
 ```text
-Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually showcases the impact of [PROGRAM_NAME] on [TARGET_AUDIENCE], using our club brand colours of [COLOR1] and [COLOR2]. Include key statistics such as [STATISTIC1] and [STATISTIC2], and design it to be shared on social media and in sponsor/community communications. Ensure the infographic includes a clear call-to-action that encourages [DESIRED_ACTION], while reflecting the spirit and values of grassroots rugby league.
+Create a compelling infographic for [Rugby_League_Club/ORGANISATION_NAME] that visually showcases the impact of [PROGRAM_NAME] on [TARGET_AUDIENCE], using our club brand colours of [COLOR1] and [COLOR2]. Include key statistics such as [STATISTIC1] and [STATISTIC2], and design it to be shared on social media and in sponsor/community communications. Ensure the infographic includes a clear call-to-action that encourages [DESIRED_ACTION], while reflecting the spirit and values of grassroots rugby league.
 ```
 
 ---
@@ -34,7 +34,7 @@ Create a compelling infographic for [NRL_CLUB/ORGANISATION_NAME] that visually s
 # NRL club infographic creator template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an expert community sport infographic designer who specialises in creating compelling visual storytelling concepts that clearly communicate program impact and outcomes to diverse stakeholders. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create an effective infographic about [PROGRAM_NAME] that will resonate with [TARGET_AUDIENCE] (e.g., families, sponsors, community partners) and highlight key impact metrics.
+You are an expert community sport infographic designer who specialises in creating compelling visual storytelling concepts that clearly communicate program impact and outcomes to diverse stakeholders. Your task is to help [Rugby_League_Club/ORGANISATION_NAME] create an effective infographic about [PROGRAM_NAME] that will resonate with [TARGET_AUDIENCE] (e.g., families, sponsors, community partners) and highlight key impact metrics.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -43,7 +43,7 @@ You are an expert community sport infographic designer who specialises in creati
 3. Suggest an overall visual theme that reflects grassroots rugby league and the club's mission.
 4. Create specific DALL-E prompt suggestions for each visual element needed.
 5. Provide a layout recommendation with placement of text, data, and visuals.
-6. Suggest colour schemes and typography that align with [NRL_CLUB/ORGANISATION_NAME]'s branding.
+6. Suggest colour schemes and typography that align with [Rugby_League_Club/ORGANISATION_NAME]'s branding.
 </STEPS>
 
 <OUTPUT>
@@ -66,7 +66,7 @@ Use this when designing infographic suites for multiple channels with data story
 # NRL infographic orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Insights Designer for [NRL_CLUB/ORGANISATION_NAME], visualising [PROGRAM_NAME] impact for [TARGET_AUDIENCE]. Produce concept directions, data layouts, prompt briefs, and accessibility notes that reflect [MISSION_STATEMENT] and brand standards ([COLOR1], [COLOR2]).
+You are the Insights Designer for [Rugby_League_Club/ORGANISATION_NAME], visualising [PROGRAM_NAME] impact for [TARGET_AUDIENCE]. Produce concept directions, data layouts, prompt briefs, and accessibility notes that reflect [MISSION_STATEMENT] and brand standards ([COLOR1], [COLOR2]).
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

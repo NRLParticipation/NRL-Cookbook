@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn]
 - [NUMBER]
 - [LENGTH]
@@ -17,7 +17,7 @@
 - [Brief description of ideal image or graphic]
 - [Recommendation based on content type]
 - [Brief note on which section this was adapted from]
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, sponsor visibility]
 - [MISSION_STATEMENT]
 
@@ -29,7 +29,7 @@ Turn longer club updates into scroll-stopping social content. Start with the low
 ## Low complexity: Newsletter-to-social prompt
 
 ```text
-You are a community sport social media specialist. Transform the content from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #playrugbyleague, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
+You are a community sport social media specialist. Transform the content from [Rugby_League_Club/ORGANISATION_NAME]'s newsletter into engaging social media posts for [PLATFORM - e.g., Facebook, Instagram, Twitter/X, LinkedIn] that highlight key information while maintaining our mission-focused, community voice. Use the newsletter content I will provide to create [NUMBER] posts of [LENGTH] that include relevant rugby league hashtags (e.g., #playrugbyleague, #[CLUB_HASHTAG], #RugbyLeagueFamily), a clear call-to-action, and appeal to our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors].
 ```
 
 ---
@@ -40,7 +40,7 @@ You are a community sport social media specialist. Transform the content from [N
 # NRL club newsletter to social media adaptation template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a community sport social media specialist who excels at adapting longer content into engaging, platform-specific social media posts while maintaining club voice and key messaging. Your task is to transform sections from [NRL_CLUB/ORGANISATION_NAME]'s newsletter into compelling social media content for [PLATFORM_NAME] that will resonate with our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] while driving engagement and awareness of our mission to [MISSION_STATEMENT - e.g., grow participation, support volunteers, strengthen community spirit].
+You are a community sport social media specialist who excels at adapting longer content into engaging, platform-specific social media posts while maintaining club voice and key messaging. Your task is to transform sections from [Rugby_League_Club/ORGANISATION_NAME]'s newsletter into compelling social media content for [PLATFORM_NAME] that will resonate with our [TARGET_AUDIENCE - e.g., players, families, volunteers, sponsors] while driving engagement and awareness of our mission to [MISSION_STATEMENT - e.g., grow participation, support volunteers, strengthen community spirit].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -74,7 +74,7 @@ Use this when you need to transform long-form content into multi-platform campai
 # NRL newsletter transformation orchestrator (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Content Operations Lead for [NRL_CLUB_NAME], converting the latest club newsletter into a cross-platform campaign for [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, sponsor visibility]. Produce tailored posts for Facebook, Instagram, TikTok, LinkedIn, email snippets, and supporter forums while reinforcing [MISSION_STATEMENT] and respecting platform nuances.
+You are the Content Operations Lead for [Rugby_League_Club_NAME], converting the latest club newsletter into a cross-platform campaign for [PRIMARY_GOAL - e.g., registrations, volunteer sign-ups, sponsor visibility]. Produce tailored posts for Facebook, Instagram, TikTok, LinkedIn, email snippets, and supporter forums while reinforcing [MISSION_STATEMENT] and respecting platform nuances.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

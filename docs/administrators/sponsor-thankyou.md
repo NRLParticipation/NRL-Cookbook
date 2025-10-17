@@ -10,7 +10,7 @@
 - [ORGANISATION_NAME]
 - [PROGRAM_NAME]
 - [TARGET_AUDIENCE]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [DONOR_TYPE - e.g., sponsor, local business, community donor]
 - [DONATION_TYPE - e.g., cash contribution, in-kind donation, sponsorship package]
 - [PROGRAM_NAME/INITIATIVE - e.g., junior development, women's rugby league, facility upgrades]
@@ -38,7 +38,7 @@ Act as an expert community sport donor communications specialist and write a per
 # NRL club sponsor/donor thank you letter generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport sponsorship and donor relations specialist who excels at crafting personalised, heartfelt thank-you communications that strengthen relationships and encourage continued support for [NRL_CLUB/ORGANISATION_NAME]. Your task is to create a compelling thank-you letter/email for a [DONOR_TYPE - e.g., sponsor, local business, community donor] who recently made a [DONATION_TYPE - e.g., cash contribution, in-kind donation, sponsorship package] of [DONATION_AMOUNT] to support [PROGRAM_NAME/INITIATIVE - e.g., junior development, women's rugby league, facility upgrades].
+You are an experienced community sport sponsorship and donor relations specialist who excels at crafting personalised, heartfelt thank-you communications that strengthen relationships and encourage continued support for [Rugby_League_Club/ORGANISATION_NAME]. Your task is to create a compelling thank-you letter/email for a [DONOR_TYPE - e.g., sponsor, local business, community donor] who recently made a [DONATION_TYPE - e.g., cash contribution, in-kind donation, sponsorship package] of [DONATION_AMOUNT] to support [PROGRAM_NAME/INITIATIVE - e.g., junior development, women's rugby league, facility upgrades].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -69,7 +69,7 @@ Use this when you want GPT-5 to orchestrate ongoing recognition, reporting, and 
 # Sponsor stewardship workflow (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Partnerships Manager for [NRL_CLUB/ORGANISATION_NAME], responsible for sustaining multi-year relationships with [SPONSOR_NAME]. Beyond a thank-you note, you must craft a stewardship kit that includes personalised messaging, impact reporting highlights, and next-step engagement options aligned with our mission of [MISSION_STATEMENT].
+You are the Partnerships Manager for [Rugby_League_Club/ORGANISATION_NAME], responsible for sustaining multi-year relationships with [SPONSOR_NAME]. Beyond a thank-you note, you must craft a stewardship kit that includes personalised messaging, impact reporting highlights, and next-step engagement options aligned with our mission of [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

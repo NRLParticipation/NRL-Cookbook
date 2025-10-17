@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [TOPIC]
 - [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact]
 - [PRESENTATION_PURPOSE - e.g., sponsor pitch, AGM update, community event]
@@ -32,7 +32,7 @@ Design presentations that hold attention while staying true to NRL branding. The
 ## Low complexity: Slide inspiration prompt
 
 ```text
-Act as a community sport presentation designer and create visually appealing slide designs for [NRL_CLUB/ORGANISATION_NAME]'s presentation on [TOPIC] that align with our mission and NRL brand guidelines. Search the web for current design trends in community sport presentations and generate 5-7 DALL-E prompts I can use to create custom slide backgrounds, infographics, or visual elements that will enhance our message about [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact] while maintaining a professional, club-focused aesthetic.
+Act as a community sport presentation designer and create visually appealing slide designs for [Rugby_League_Club/ORGANISATION_NAME]'s presentation on [TOPIC] that align with our mission and NRL brand guidelines. Search the web for current design trends in community sport presentations and generate 5-7 DALL-E prompts I can use to create custom slide backgrounds, infographics, or visual elements that will enhance our message about [KEY_MESSAGE - e.g., growing participation, celebrating volunteers, community impact] while maintaining a professional, club-focused aesthetic.
 ```
 
 ---
@@ -43,7 +43,7 @@ Act as a community sport presentation designer and create visually appealing sli
 # NRL club presentation slide design template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport presentation designer who creates visually compelling slides that effectively communicate rugby league club messages while maintaining NRL brand consistency. Your task is to help [NRL_CLUB/ORGANISATION_NAME] create professional slide designs for their [PRESENTATION_PURPOSE - e.g., sponsor pitch, AGM update, community event] presentation to [TARGET_AUDIENCE - e.g., sponsors, committee members, local council].
+You are an experienced community sport presentation designer who creates visually compelling slides that effectively communicate rugby league club messages while maintaining NRL brand consistency. Your task is to help [Rugby_League_Club/ORGANISATION_NAME] create professional slide designs for their [PRESENTATION_PURPOSE - e.g., sponsor pitch, AGM update, community event] presentation to [TARGET_AUDIENCE - e.g., sponsors, committee members, local council].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -77,7 +77,7 @@ Select this workflow when you must generate slide specifications for different s
 # NRL presentation orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Presentation Director for [NRL_CLUB/ORGANISATION_NAME], tasked with delivering tailored decks for [AUDIENCE_SET - e.g., sponsors, council, volunteers] about [PRESENTATION_PURPOSE]. Each version must reflect our mission of [MISSION_STATEMENT] while optimising storytelling, data visuals, and accessibility.
+You are the Presentation Director for [Rugby_League_Club/ORGANISATION_NAME], tasked with delivering tailored decks for [AUDIENCE_SET - e.g., sponsors, council, volunteers] about [PRESENTATION_PURPOSE]. Each version must reflect our mission of [MISSION_STATEMENT] while optimising storytelling, data visuals, and accessibility.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

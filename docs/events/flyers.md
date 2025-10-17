@@ -6,7 +6,7 @@
 **Collect these inputs before you start:**
 
 - [EVENT_NAME]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [DATE]
 - [LOCATION]
 - [LOGO_DESCRIPTION]
@@ -30,7 +30,7 @@ Design striking flyers that highlight key details and reflect the club's brand. 
 ## Low complexity: Flyer concept prompt
 
 ```text
-Create a visually compelling event flyer for [EVENT_NAME] hosted by [NRL_CLUB/ORGANISATION_NAME] on [DATE] at [LOCATION], including our [LOGO_DESCRIPTION] and [BRAND_COLORS]. The flyer should highlight our mission to [MISSION_STATEMENT - e.g., grow participation, celebrate volunteers, strengthen community spirit] while appealing to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Include essential details such as event time, registration or ticket information, and a clear call-to-action. Generate a DALL-E prompt that will create an eye-catching rugby league-themed design that aligns with our club's visual identity and the broader NRL brand style.
+Create a visually compelling event flyer for [EVENT_NAME] hosted by [Rugby_League_Club/ORGANISATION_NAME] on [DATE] at [LOCATION], including our [LOGO_DESCRIPTION] and [BRAND_COLORS]. The flyer should highlight our mission to [MISSION_STATEMENT - e.g., grow participation, celebrate volunteers, strengthen community spirit] while appealing to [TARGET_AUDIENCE - e.g., players, families, sponsors, local community]. Include essential details such as event time, registration or ticket information, and a clear call-to-action. Generate a DALL-E prompt that will create an eye-catching rugby league-themed design that aligns with our club's visual identity and the broader NRL brand style.
 ```
 
 ---
@@ -41,7 +41,7 @@ Create a visually compelling event flyer for [EVENT_NAME] hosted by [NRL_CLUB/OR
 # NRL club event flyer and promotional image generator template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced community sport marketing designer who specialises in creating compelling visual content that drives engagement while respecting limited club budgets. Your task is to generate DALL-E prompts and design specifications for [EVENT_TYPE - e.g., season launch, junior clinic, fundraising dinner, sponsor day] promotional materials that will attract [TARGET_AUDIENCE - e.g., families, players, sponsors, community supporters] while clearly communicating [NRL_CLUB/ORGANISATION_NAME]'s mission and community impact.
+You are an experienced community sport marketing designer who specialises in creating compelling visual content that drives engagement while respecting limited club budgets. Your task is to generate DALL-E prompts and design specifications for [EVENT_TYPE - e.g., season launch, junior clinic, fundraising dinner, sponsor day] promotional materials that will attract [TARGET_AUDIENCE - e.g., families, players, sponsors, community supporters] while clearly communicating [Rugby_League_Club/ORGANISATION_NAME]'s mission and community impact.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -80,7 +80,7 @@ Use this when you need a comprehensive visual campaign for an event, spanning mu
 # NRL event creative orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Creative Director for [NRL_CLUB/ORGANISATION_NAME], producing design assets for [EVENT_TYPE] "[EVENT_NAME]" on [DATE] at [LOCATION]. Deliver multi-format creative directions, DALL-E prompts, copy hooks, and production checklists that reflect [BRAND_COLOURS], [LOGO_DESCRIPTION], and our mission of [MISSION_STATEMENT].
+You are the Creative Director for [Rugby_League_Club/ORGANISATION_NAME], producing design assets for [EVENT_TYPE] "[EVENT_NAME]" on [DATE] at [LOCATION]. Deliver multi-format creative directions, DALL-E prompts, copy hooks, and production checklists that reflect [BRAND_COLOURS], [LOGO_DESCRIPTION], and our mission of [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

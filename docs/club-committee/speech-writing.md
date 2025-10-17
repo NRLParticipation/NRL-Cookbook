@@ -6,7 +6,7 @@
 **Collect these inputs before you start:**
 
 - [LENGTH]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [TOPIC]
 - [AUDIENCE - e.g., players, families, sponsors, community leaders]
 - [EVENT_TYPE - e.g., season launch, awards night, fundraiser]
@@ -36,7 +36,7 @@ Craft memorable speeches that inspire action and celebrate your club. The low-co
 ## Low complexity: Event speech prompt
 
 ```text
-Act as an expert speechwriter for community sport organisations. Write a compelling [LENGTH]-minute speech for [NRL_CLUB/ORGANISATION_NAME] about [TOPIC] that will resonate with [AUDIENCE - e.g., players, families, sponsors, community leaders] at our upcoming [EVENT_TYPE - e.g., season launch, awards night, fundraiser]. Include our mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, building community spirit], incorporate [KEY_MESSAGE - e.g., teamwork, inclusivity, resilience], and end with a clear call to action that inspires [DESIRED_OUTCOME - e.g., new memberships, volunteer sign-ups, sponsorship support]. Use a [TONE - e.g., inspiring, celebratory, heartfelt] tone throughout.
+Act as an expert speechwriter for community sport organisations. Write a compelling [LENGTH]-minute speech for [Rugby_League_Club/ORGANISATION_NAME] about [TOPIC] that will resonate with [AUDIENCE - e.g., players, families, sponsors, community leaders] at our upcoming [EVENT_TYPE - e.g., season launch, awards night, fundraiser]. Include our mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, building community spirit], incorporate [KEY_MESSAGE - e.g., teamwork, inclusivity, resilience], and end with a clear call to action that inspires [DESIRED_OUTCOME - e.g., new memberships, volunteer sign-ups, sponsorship support]. Use a [TONE - e.g., inspiring, celebratory, heartfelt] tone throughout.
 ```
 
 ---
@@ -47,11 +47,11 @@ Act as an expert speechwriter for community sport organisations. Write a compell
 # NRL club speech writing template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced speechwriter for community sport organisations who understands how to craft compelling narratives that inspire action, connect with diverse audiences, and effectively communicate mission-driven messages. Your task is to create a [LENGTH_IN_MINUTES]-minute speech for [NRL_CLUB/ORGANISATION_NAME] about [TOPIC] that will be delivered by [SPEAKER_ROLE - e.g., Club President, Head Coach, Captain] at [EVENT_NAME - e.g., season launch, presentation night, sponsor luncheon] to an audience of [AUDIENCE_DESCRIPTION - e.g., players, families, sponsors, community leaders].
+You are an experienced speechwriter for community sport organisations who understands how to craft compelling narratives that inspire action, connect with diverse audiences, and effectively communicate mission-driven messages. Your task is to create a [LENGTH_IN_MINUTES]-minute speech for [Rugby_League_Club/ORGANISATION_NAME] about [TOPIC] that will be delivered by [SPEAKER_ROLE - e.g., Club President, Head Coach, Captain] at [EVENT_NAME - e.g., season launch, presentation night, sponsor luncheon] to an audience of [AUDIENCE_DESCRIPTION - e.g., players, families, sponsors, community leaders].
 </ROLE_AND_GOAL>
 
 <STEPS>
-1. Create a speech that aligns with [NRL_CLUB/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, strengthening community spirit] and incorporates these key messages: [KEY_MESSAGE_1], [KEY_MESSAGE_2], [KEY_MESSAGE_3].
+1. Create a speech that aligns with [Rugby_League_Club/ORGANISATION_NAME]'s mission of [MISSION_STATEMENT - e.g., growing participation, supporting juniors, strengthening community spirit] and incorporates these key messages: [KEY_MESSAGE_1], [KEY_MESSAGE_2], [KEY_MESSAGE_3].
 2. Structure the speech with a compelling opening hook, clear main points with supporting evidence or stories, and a strong call-to-action conclusion.
 3. Include at least one personal story or case example that illustrates the club's impact (e.g., a player's journey, a volunteer's contribution, a community achievement).
 4. Adapt the language and tone to be appropriate for [AUDIENCE_DESCRIPTION] while maintaining the club's authentic voice and values.
@@ -77,7 +77,7 @@ Use this when you need multiple speech variants, rehearsal assets, and follow-up
 # NRL event speech orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Communications Lead for [NRL_CLUB/ORGANISATION_NAME], supporting [SPEAKER_ROLE] to deliver a [LENGTH_IN_MINUTES]-minute speech on [TOPIC] at [EVENT_NAME]. Produce a primary script plus alternate excerpts, integrate audience interaction cues, and prepare post-event messaging while reinforcing [MISSION_STATEMENT].
+You are the Communications Lead for [Rugby_League_Club/ORGANISATION_NAME], supporting [SPEAKER_ROLE] to deliver a [LENGTH_IN_MINUTES]-minute speech on [TOPIC] at [EVENT_NAME]. Produce a primary script plus alternate excerpts, integrate audience interaction cues, and prepare post-event messaging while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PAYMENT_TERMS]
 - [PROGRAM_NAME - e.g., junior development, women's team, facilities maintenance]
 - [DEPARTMENT_NAME - e.g., operations, events, sponsorship]
@@ -31,7 +31,7 @@ Streamline accounts payable tasks with AI support. Use the low-complexity prompt
 ## Low complexity: Invoice review prompt
 
 ```text
-Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review the attached invoice PDF, extract key details (vendor name, invoice number, amount, due date), flag any discrepancies with our standard payment terms of [PAYMENT_TERMS], and prepare a summary for approval that includes payment status, vendor history with the club, and any recommended actions (e.g., approve, hold, query).
+Act as an invoice processing assistant for [Rugby_League_Club/ORGANISATION_NAME]. Review the attached invoice PDF, extract key details (vendor name, invoice number, amount, due date), flag any discrepancies with our standard payment terms of [PAYMENT_TERMS], and prepare a summary for approval that includes payment status, vendor history with the club, and any recommended actions (e.g., approve, hold, query).
 ```
 
 ---
@@ -42,7 +42,7 @@ Act as an invoice processing assistant for [NRL_CLUB/ORGANISATION_NAME]. Review 
 # Invoice processing and vendor management template for NRL (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an experienced finance assistant for [NRL_CLUB/ORGANISATION_NAME] who specialises in invoice processing and vendor management for community sport clubs. Your task is to help streamline our accounts payable workflow by efficiently processing invoice information, identifying any issues that require attention, and maintaining organised vendor records.
+You are an experienced finance assistant for [Rugby_League_Club/ORGANISATION_NAME] who specialises in invoice processing and vendor management for community sport clubs. Your task is to help streamline our accounts payable workflow by efficiently processing invoice information, identifying any issues that require attention, and maintaining organised vendor records.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -88,7 +88,7 @@ Use this orchestrated prompt to manage multi-vendor pipelines, exception handlin
 # Invoice processing and vendor intelligence workspace (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Finance Systems Lead for [NRL_CLUB/ORGANISATION_NAME], coordinating accounts payable for programs such as [PROGRAM_NAME] and departments like [DEPARTMENT_NAME]. Automate invoice validation, anomaly detection, and stakeholder notifications while maintaining compliance with [PAYMENT_TERMS] and club policies.
+You are the Finance Systems Lead for [Rugby_League_Club/ORGANISATION_NAME], coordinating accounts payable for programs such as [PROGRAM_NAME] and departments like [DEPARTMENT_NAME]. Automate invoice validation, anomaly detection, and stakeholder notifications while maintaining compliance with [PAYMENT_TERMS] and club policies.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB_NAME]
+- [Rugby_League_Club_NAME]
 - [YEAR]
 - [TIME_PERIOD]
 - [MISSION_STATEMENT - e.g., growing rugby league and strengthening community spirit]
@@ -23,7 +23,7 @@ Showcase a full season of progress with compelling stories and data. The low-com
 ## Low complexity: Annual report prompt
 
 ```text
-Act as an expert community sport annual report writer and create a comprehensive annual report for [NRL_CLUB_NAME] that highlights our key accomplishments, participation growth, volunteer contributions, financial summary, and impact stories from [YEAR]. Use our mission statement, program data (e.g., player registrations, junior development, women's rugby league, community outreach), and testimonials from players, parents, or volunteers to craft a compelling narrative that demonstrates our impact to sponsors, committee members, and community stakeholders. Organise the content into standard annual report sections with appropriate headings such as: Message from the President, Club Highlights, Participation and Programs, Volunteer Contributions, Financial Overview, Community Impact Stories, and Looking Ahead.
+Act as an expert community sport annual report writer and create a comprehensive annual report for [Rugby_League_Club_NAME] that highlights our key accomplishments, participation growth, volunteer contributions, financial summary, and impact stories from [YEAR]. Use our mission statement, program data (e.g., player registrations, junior development, women's rugby league, community outreach), and testimonials from players, parents, or volunteers to craft a compelling narrative that demonstrates our impact to sponsors, committee members, and community stakeholders. Organise the content into standard annual report sections with appropriate headings such as: Message from the President, Club Highlights, Participation and Programs, Volunteer Contributions, Financial Overview, Community Impact Stories, and Looking Ahead.
 ```
 
 ---
@@ -38,7 +38,7 @@ You are an expert community sport communications specialist who excels at creati
 </ROLE_AND_GOAL>
 
 <STEPS>
-Create a comprehensive annual report for [NRL_CLUB_NAME] that showcases our impact from [TIME_PERIOD]. The report should:
+Create a comprehensive annual report for [Rugby_League_Club_NAME] that showcases our impact from [TIME_PERIOD]. The report should:
 1. Begin with an executive summary highlighting key club achievements (e.g., participation growth, volunteer hours, program milestones).
 2. Include sections on program accomplishments with specific metrics and stories (e.g., junior development, women's rugby league, community outreach).
 3. Provide financial transparency with key data points (e.g., sponsorships, fundraising, operating costs).
@@ -73,7 +73,7 @@ Deploy this when you need to integrate multiple data sources, stakeholder storie
 # NRL annual report orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Communications Director for [NRL_CLUB_NAME], producing an annual report covering [TIME_PERIOD] for audiences including sponsors, members, volunteers, and the wider community. Blend data, narratives, and strategic outlook while reinforcing [MISSION_STATEMENT].
+You are the Communications Director for [Rugby_League_Club_NAME], producing an annual report covering [TIME_PERIOD] for audiences including sponsors, members, volunteers, and the wider community. Blend data, narratives, and strategic outlook while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

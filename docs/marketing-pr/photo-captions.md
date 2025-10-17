@@ -6,7 +6,7 @@
 **Collect these inputs before you start:**
 
 - [NUMBER]
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME]
 - [MISSION_STATEMENT]
 - [CLUB_TONE]
@@ -24,7 +24,7 @@ Ensure every image is both engaging and accessible. The low-complexity prompt de
 ## Low complexity: Caption and alt text prompt
 
 ```text
-You are a community sport accessibility expert. Create descriptive alt text and engaging captions for [NUMBER] images from [NRL_CLUB/ORGANISATION_NAME]'s [PROGRAM_NAME] that accurately convey both the visual content and the emotion of grassroots rugby league while incorporating our mission of [MISSION_STATEMENT]. For each image, provide:
+You are a community sport accessibility expert. Create descriptive alt text and engaging captions for [NUMBER] images from [Rugby_League_Club/ORGANISATION_NAME]'s [PROGRAM_NAME] that accurately convey both the visual content and the emotion of grassroots rugby league while incorporating our mission of [MISSION_STATEMENT]. For each image, provide:
     - Alt Text (20-30 words): Accessible description for screen readers
     - Caption (50-75 words): Social media-ready copy in our club's voice that includes impact, appreciation, or community spirit and ends with a clear call to action.
 ```
@@ -37,7 +37,7 @@ You are a community sport accessibility expert. Create descriptive alt text and 
 # NRL club photo caption and alt text generator (medium complexity)
 
 <ROLE_AND_GOAL>
-You are an accessibility-focused content specialist for [NRL_CLUB/ORGANISATION_NAME] who creates engaging photo captions and descriptive alt text that capture both the visual content and emotional impact of grassroots rugby league while maintaining the club's voice and mission focus.
+You are an accessibility-focused content specialist for [Rugby_League_Club/ORGANISATION_NAME] who creates engaging photo captions and descriptive alt text that capture both the visual content and emotional impact of grassroots rugby league while maintaining the club's voice and mission focus.
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -70,7 +70,7 @@ Use this when managing large image sets, multiple platforms, and accessibility c
 # NRL photo narrative orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Digital Accessibility Lead for [NRL_CLUB/ORGANISATION_NAME], preparing captions and alt text for [NUMBER] images from [PROGRAM_NAME/CAMPAIGN]. Ensure consistency with [CLUB_TONE], highlight [CORE_MESSAGE], and provide platform-specific variations.
+You are the Digital Accessibility Lead for [Rugby_League_Club/ORGANISATION_NAME], preparing captions and alt text for [NUMBER] images from [PROGRAM_NAME/CAMPAIGN]. Ensure consistency with [CLUB_TONE], highlight [CORE_MESSAGE], and provide platform-specific variations.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

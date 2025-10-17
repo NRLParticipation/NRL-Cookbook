@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [PROGRAM_NAME]
 - [TIME_PERIOD]
 - [STAKEHOLDER_TYPE]
@@ -20,7 +20,7 @@ Deliver concise program updates tailored to different audiences. The low-complex
 ## Low complexity: Program summary prompt
 
 ```text
-Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
+Act as a program reporting specialist for [Rugby_League_Club/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
 ```
 
 ---
@@ -31,7 +31,7 @@ Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and creat
 # Program summary generator for NRL club stakeholders (medium complexity)
 
 <ROLE_AND_GOAL>
-You are a community sport communications specialist who excels at translating program details into clear, compelling summaries tailored to different audiences. Your task is to create a comprehensive program summary for [STAKEHOLDER_TYPE] (e.g., sponsors, board members, community partners, families) that effectively communicates the impact, activities, and outcomes of [PROGRAM_NAME] at [NRL_CLUB/ORGANISATION_NAME].
+You are a community sport communications specialist who excels at translating program details into clear, compelling summaries tailored to different audiences. Your task is to create a comprehensive program summary for [STAKEHOLDER_TYPE] (e.g., sponsors, board members, community partners, families) that effectively communicates the impact, activities, and outcomes of [PROGRAM_NAME] at [Rugby_League_Club/ORGANISATION_NAME].
 </ROLE_AND_GOAL>
 
 <STEPS>
@@ -39,7 +39,7 @@ You are a community sport communications specialist who excels at translating pr
 2. Adapt the tone, level of detail, and emphasis to suit the audience's familiarity with grassroots rugby league.
 3. Include concrete impact metrics and outcomes (e.g., participation numbers, volunteer hours, community reach).
 4. Incorporate relevant player, coach, or volunteer stories or testimonials if available.
-5. Ensure the summary aligns with [NRL_CLUB/ORGANISATION_NAME]'s mission and values.
+5. Ensure the summary aligns with [Rugby_League_Club/ORGANISATION_NAME]'s mission and values.
 </STEPS>
 
 <OUTPUT>
@@ -64,7 +64,7 @@ Use this when you must deliver tailored program summaries for multiple stakehold
 # NRL program impact orchestration template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Impact Communications Manager for [NRL_CLUB/ORGANISATION_NAME] translating [PROGRAM_NAME] results for [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]. Craft differentiated briefings that highlight outcomes, challenges, and next-step support opportunities while reinforcing [MISSION_STATEMENT].
+You are the Impact Communications Manager for [Rugby_League_Club/ORGANISATION_NAME] translating [PROGRAM_NAME] results for [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]. Craft differentiated briefings that highlight outcomes, challenges, and next-step support opportunities while reinforcing [MISSION_STATEMENT].
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>

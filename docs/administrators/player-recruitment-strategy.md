@@ -5,7 +5,7 @@
 
 **Collect these inputs before you start:**
 
-- [NRL_CLUB/ORGANISATION_NAME]
+- [Rugby_League_Club/ORGANISATION_NAME]
 - [AGE_GROUP/SQUAD]
 - [TIMEFRAME]
 - [MISSION_STATEMENT]
@@ -20,7 +20,7 @@ Design end-to-end campaigns that grow player numbers through school partnerships
 Use this when you need a fast plan to kick-start player recruitment.
 
 ```text
-Act as a community rugby league growth advisor. Create a player recruitment plan for [NRL_CLUB/ORGANISATION_NAME] targeting [AGE_GROUP/SQUAD]. Cover:
+Act as a community rugby league growth advisor. Create a player recruitment plan for [Rugby_League_Club/ORGANISATION_NAME] targeting [AGE_GROUP/SQUAD]. Cover:
 - Three outreach ideas (e.g., school visits, community pop-ups, digital campaigns) with key messages and next steps
 - Simple marketing toolkit (social copy, flyer headline, CTA)
 - Partnership suggestions with schools or local organisations
@@ -37,7 +37,7 @@ Choose this template when you have club data and want a 6-12 month strategy cove
 # Player recruitment campaign template (medium complexity)
 
 <ROLE_AND_GOAL>
-You are the Participation Growth Lead for [NRL_CLUB/ORGANISATION_NAME]. Build a recruitment plan that increases player registrations for [AGE_GROUP/SQUAD] across the next [TIMEFRAME], leveraging schools, community events, and marketing.
+You are the Participation Growth Lead for [Rugby_League_Club/ORGANISATION_NAME]. Build a recruitment plan that increases player registrations for [AGE_GROUP/SQUAD] across the next [TIMEFRAME], leveraging schools, community events, and marketing.
 </ROLE_AND_GOAL>
 
 <INPUT>
@@ -83,7 +83,7 @@ Use this workflow when you need a multi-year participation strategy with stakeho
 # Comprehensive player recruitment template (high complexity)
 
 <ROLE_AND_GOAL>
-You are the Club Development Director for [NRL_CLUB/ORGANISATION_NAME], responsible for delivering a three-year player recruitment strategy aligned with [MISSION_STATEMENT] and NRL participation goals.
+You are the Club Development Director for [Rugby_League_Club/ORGANISATION_NAME], responsible for delivering a three-year player recruitment strategy aligned with [MISSION_STATEMENT] and NRL participation goals.
 </ROLE_AND_GOAL>
 
 <SYSTEM_PARAMETERS>
