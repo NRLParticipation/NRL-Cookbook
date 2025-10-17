@@ -34,11 +34,84 @@
 
 .md-footer-support {
   text-align: center;
-  padding: 0.75rem 0;
-  font-size: 0.85rem;
+  padding: 1.25rem 0 1.5rem;
+  font-size: 0.9rem;
 }
 
-.md-footer-support a {
-  color: inherit;
-  text-decoration: underline;
+.footer-support-card {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.25rem 1.75rem;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, #007239 0%, #009f4c 100%);
+  color: #ffffff;
+  box-shadow: 0 0.75rem 1.5rem rgba(0, 80, 33, 0.18);
+  text-align: left;
+  max-width: 48rem;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer-support-icon {
+  font-size: 2rem;
+}
+
+.footer-support-content {
+  flex: 1 1 18rem;
+  min-width: 14rem;
+}
+
+.footer-support-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin: 0 0 0.2rem;
+}
+
+.footer-support-text {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.footer-support-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 1.3rem;
+  border-radius: 999px;
+  background-color: #ffffff;
+  color: #005b2e;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.12);
+  min-width: 9rem;
+}
+
+.footer-support-button:hover,
+.footer-support-button:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 0.6rem 1.2rem rgba(0, 80, 33, 0.25);
+}
+
+[data-md-color-scheme="slate"] .footer-support-card {
+  background: linear-gradient(135deg, rgba(0, 114, 57, 0.9) 0%, rgba(0, 114, 57, 0.65) 100%);
+  box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, 0.35);
+}
+
+[data-md-color-scheme="slate"] .footer-support-button {
+  background-color: #e6f4ea;
+  color: #004a26;
+}
+
+@media (max-width: 600px) {
+  .footer-support-card {
+    padding: 1rem 1.2rem;
+    gap: 1rem;
+  }
+
+  .footer-support-button {
+    width: 100%;
+  }
 }
