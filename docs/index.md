@@ -20,7 +20,7 @@ Use the navigation menu or the table below to jump straight into the prompts tha
 | Role | Explore |
 | --- | --- |
 | Administrators | Operational, finance, compliance, and communication workflows. [Browse the collection](administrators/grant-writing.md) |
-| Club Committee | Governance, reporting, strategy, and stakeholder storytelling. [Browse the collection](club-committee/board-reports.md) |
+| Club Committee | Governance, reporting, strategy, and stakeholder storytelling. [Browse the collection](club-committee/annual-report.md) |
 | Marketing and PR | Media, partnerships, campaigns, and storytelling assets. [Browse the collection](marketing-pr/corporate-partnerships.md) |
 | Events | Promotions, logistics, and attendee communications. [Browse the collection](events/flyers.md) |
 | Team Managers | Rosters, volunteer updates, and content adaptations. [Browse the collection](team-managers/newsletter-adaptation.md) |
