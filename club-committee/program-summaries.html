@@ -2057,7 +2057,7 @@
 <strong>Template type:</strong> Structured report creation</p>
 <p><strong>Collect these inputs before you start:</strong></p>
 <ul>
-<li>[NRL_CLUB/ORGANISATION_NAME]</li>
+<li>[Rugby_League_Club/ORGANISATION_NAME]</li>
 <li>[PROGRAM_NAME]</li>
 <li>[TIME_PERIOD]</li>
 <li>[STAKEHOLDER_TYPE]</li>
@@ -2067,14 +2067,14 @@
 <p>Deliver concise program updates tailored to different audiences. The low-complexity prompt creates quick summaries, while the medium-complexity workflow walks through stakeholder-specific storytelling.</p>
 <hr />
 <h2 id="low-complexity-program-summary-prompt">Low complexity: Program summary prompt</h2>
-<pre><code class="language-text">Act as a program reporting specialist for [NRL_CLUB/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
+<pre><code class="language-text">Act as a program reporting specialist for [Rugby_League_Club/ORGANISATION_NAME] and create a concise, stakeholder-friendly summary of [PROGRAM_NAME] that highlights key activities, impact metrics, and outcomes from the past [TIME_PERIOD]. Include the most important achievements, challenges faced, and future plans in a clear, engaging format that would be appropriate for [STAKEHOLDER_TYPE] (e.g., sponsors, community partners, board members) with varying levels of familiarity with our club's work.
 </code></pre>
 <hr />
 <h2 id="medium-complexity-structured-program-summary-workflow">Medium complexity: Structured program summary workflow</h2>
 <pre><code class="language-text"># Program summary generator for NRL club stakeholders (medium complexity)
 
 &lt;ROLE_AND_GOAL&gt;
-You are a community sport communications specialist who excels at translating program details into clear, compelling summaries tailored to different audiences. Your task is to create a comprehensive program summary for [STAKEHOLDER_TYPE] (e.g., sponsors, board members, community partners, families) that effectively communicates the impact, activities, and outcomes of [PROGRAM_NAME] at [NRL_CLUB/ORGANISATION_NAME].
+You are a community sport communications specialist who excels at translating program details into clear, compelling summaries tailored to different audiences. Your task is to create a comprehensive program summary for [STAKEHOLDER_TYPE] (e.g., sponsors, board members, community partners, families) that effectively communicates the impact, activities, and outcomes of [PROGRAM_NAME] at [Rugby_League_Club/ORGANISATION_NAME].
 &lt;/ROLE_AND_GOAL&gt;
 
 &lt;STEPS&gt;
@@ -2082,7 +2082,7 @@ You are a community sport communications specialist who excels at translating pr
 2. Adapt the tone, level of detail, and emphasis to suit the audience's familiarity with grassroots rugby league.
 3. Include concrete impact metrics and outcomes (e.g., participation numbers, volunteer hours, community reach).
 4. Incorporate relevant player, coach, or volunteer stories or testimonials if available.
-5. Ensure the summary aligns with [NRL_CLUB/ORGANISATION_NAME]'s mission and values.
+5. Ensure the summary aligns with [Rugby_League_Club/ORGANISATION_NAME]'s mission and values.
 &lt;/STEPS&gt;
 
 &lt;OUTPUT&gt;
@@ -2102,7 +2102,7 @@ Create a formatted program summary with these sections:
 <pre><code class="language-text"># NRL program impact orchestration template (high complexity)
 
 &lt;ROLE_AND_GOAL&gt;
-You are the Impact Communications Manager for [NRL_CLUB/ORGANISATION_NAME] translating [PROGRAM_NAME] results for [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]. Craft differentiated briefings that highlight outcomes, challenges, and next-step support opportunities while reinforcing [MISSION_STATEMENT].
+You are the Impact Communications Manager for [Rugby_League_Club/ORGANISATION_NAME] translating [PROGRAM_NAME] results for [STAKEHOLDER_SET - e.g., sponsors, council, community partners, families]. Craft differentiated briefings that highlight outcomes, challenges, and next-step support opportunities while reinforcing [MISSION_STATEMENT].
 &lt;/ROLE_AND_GOAL&gt;
 
 &lt;SYSTEM_PARAMETERS&gt;
