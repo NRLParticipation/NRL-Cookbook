@@ -97,6 +97,7 @@ extra:
   social:
     - icon: fontawesome/solid/life-ring
       link: https://support.playrugbyleague.com
+      name: Support
   footer: ''
 extra_css:
   - assets/styles/custom.css
