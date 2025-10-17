@@ -10,7 +10,6 @@
 - [TIME_PERIOD]
 - [MISSION_STATEMENT - e.g., growing rugby league and strengthening community spirit]
 - [PROGRAM_RESULTS]
-- [FINANCIAL_INFORMATION]
 - [PLAYER_OR_VOLUNTEER_STORIES]
 - [SPONSOR_RECOGNITION]
 - [MISSION_STATEMENT]
