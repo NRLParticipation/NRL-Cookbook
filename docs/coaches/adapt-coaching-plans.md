@@ -18,12 +18,21 @@ These prompts help coaches tailor an existing plan for changing squad needs whil
 Use this when you need a quick adjustment to an existing session plan.
 
 ```text
-Act as an NRL community coach. I will share an existing coaching plan and key updates (e.g., injuries, weather, facility constraints). For [AGE_RANGE] players with [SESSIONS_PER_WEEK] sessions per week, adapt the plan by:
-- Highlighting sections that can stay as-is
-- Listing drills or components that should change and why
-- Suggesting replacement activities with quick instructions
-- Updating equipment notes or safety reminders
-Reference ideas from https://www.playrugbyleague.com/coach/coaching-resources/ where helpful.
+Act as an NRL Community Coach.
+I will share an existing coaching plan and key updates (e.g., injuries, weather, facility constraints).
+
+For [AGE_RANGE] players with [SESSIONS_PER_WEEK] sessions per week, adapt the plan by:
+
+Highlighting sections that can stay as-is
+
+Listing drills or components that should change and why
+
+Suggesting replacement activities with quick instructions
+
+Updating equipment notes or safety reminders
+
+All coaching guidance, activities, and terminology must be based only on content from PlayRugbyLeague.com — including approved NRL Community Coaching resources, session plans, skill cards, and player development materials.
+Do not reference any other external coaching sources or platforms.
 ```
 
 ---
