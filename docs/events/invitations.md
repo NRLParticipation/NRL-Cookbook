@@ -26,7 +26,7 @@ Deliver personalised invites and confirmations that feel warm and mission-aligne
 ## Low complexity: Invitation prompt
 
 ```text
-Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and create a personalised [EVENT_TYPE - e.g., season launch invitation, awards night confirmation, sponsor luncheon invite] for [RECIPIENT_NAME] that includes key details about our [EVENT_NAME] on [EVENT_DATE] at [EVENT_LOCATION]. Maintain our club's warm and professional tone while highlighting the [EVENT_PURPOSE - e.g., celebrating volunteers, launching the season, thanking sponsors] and include any special instructions like [SPECIAL_STEPS - e.g., RSVP link, dress code, parking details].
+Act as an event communications specialist for [NRL_CLUB/ORGANISATION_NAME] and create a personalised [EVENT_TYPE – e.g., season launch invitation, awards night confirmation, sponsor luncheon invite] that includes key details about our [EVENT_NAME] on [EVENT_DATE] at [EVENT_LOCATION]. Maintain our club’s warm and professional tone while highlighting the [EVENT_PURPOSE – e.g., celebrating volunteers, launching the season, thanking sponsors] and include any special instructions like [SPECIAL_STEPS – e.g., RSVP link, dress code, parking details].
 ```
 
 ---
